@@ -27,7 +27,7 @@
 > `apexcore`, `jade`, `justenoughprofessions`) declaran la versión como `${file.jarVersion}` en su manifest
 > (variable que solo se resuelve al compilar) — para esos se usó la versión visible en el nombre del archivo.
 
-Total: 150 mods · 69 ya con `es_ES` · 25 pendientes (con texto real que traducir) · 44 sin `lang/` (nada que
+Total: 150 mods · 74 ya con `es_ES` · 20 pendientes (con texto real que traducir) · 44 sin `lang/` (nada que
 traducir) · 12 propios (fuera de alcance de este repo).
 
 | Mod | modid | Archivo | Versión | Estado | Última revisión |
@@ -130,12 +130,12 @@ traducir) · 12 propios (fuera de alcance de este repo).
 | Nature's Compass | `naturescompass` | `NaturesCompass-26.2-3.3.0-neoforge.jar` | `26.2-3.3.0-neoforge` | SI | 2026-08-03 |
 | NeroAgriculture | `neroagriculture` | `neroagriculture-neoforge-26.2-0.1.0-beta.1.jar` | `0.1.0-beta.1` | SI | 2026-08-03 |
 | NeroDecor | `nerodecor` | `nerodecor-neoforge-26.2-0.1.0-beta.1.jar` | `0.1.0-beta.1` | SI | 2026-08-03 |
-| Neroland Core | `nerolandcore` | `nerolandcore-neoforge-26.2-1.9.0.jar` | `1.9.0` | PENDIENTE | 2026-08-03 |
+| Neroland Core | `nerolandcore` | `nerolandcore-neoforge-26.2-1.9.0.jar` | `1.9.0` | SI | 2026-08-03 |
 | NeroLink | `nerolink` | `nerolink-neoforge-26.2-0.0.1-alpha.2.jar` | `0.0.1-alpha.2` | N/A (sin lang/ en el jar) | 2026-08-03 |
-| NeroLogistics | `nerologistics` | `nerologistics-neoforge-26.2-0.1.0-alpha.1.jar` | `0.1.0-alpha.1` | PENDIENTE | 2026-08-03 |
-| NeroQuests | `neroquests` | `neroquests-neoforge-26.2-0.1.0-beta.1.jar` | `0.1.0-beta.1` | PENDIENTE | 2026-08-03 |
-| NeroSpace | `nerospace` | `nerospace-neoforge-26.2-1.0.1.jar` | `1.0.1` | PENDIENTE | 2026-08-03 |
-| NeroTech | `nerotech` | `nerotech-neoforge-26.2-0.1.0-beta.1.jar` | `0.1.0-beta.1` | PENDIENTE | 2026-08-03 |
+| NeroLogistics | `nerologistics` | `nerologistics-neoforge-26.2-0.1.0-alpha.1.jar` | `0.1.0-alpha.1` | SI | 2026-08-03 |
+| NeroQuests | `neroquests` | `neroquests-neoforge-26.2-0.1.0-beta.1.jar` | `0.1.0-beta.1` | SI | 2026-08-03 |
+| NeroSpace | `nerospace` | `nerospace-neoforge-26.2-1.0.1.jar` | `1.0.1` | SI | 2026-08-03 |
+| NeroTech | `nerotech` | `nerotech-neoforge-26.2-0.1.0-beta.1.jar` | `0.1.0-beta.1` | SI | 2026-08-03 |
 | NetherPortalFix | `netherportalfix` | `netherportalfix-neoforge-26.2-26.2.0.1.jar` | `26.2.0.1` | PENDIENTE | 2026-08-03 |
 | Not Enough Crashes | `notenoughcrashes` | `notenoughcrashes-neoforge-4.4.9+26.2.jar` | `4.4.9+26.2` | PENDIENTE | 2026-08-03 |
 | Ore Vein Miner | `mr_ore_veinminer` | `ore-vein-miner-26.2snap.jar` | `26.1` | N/A (sin lang/ en el jar) | 2026-08-03 |
