@@ -5,6 +5,19 @@ Todos los cambios notables de EnchantVenture Translations se documentan en este 
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Sin publicar]
+
+### Cambiado
+
+- `docs/TRANSLATIONS_STATUS.md` regenerado leyendo el manifest real de cada JAR (`neoforge.mods.toml` /
+  `mods.toml` / `fabric.mod.json`) en vez de solo el nombre de archivo: ahora añade `modid` y nombre
+  legible del mod, y clasifica los 12 mods propios de Stalking Dragons como `PROPIO` de forma consistente
+  (2 de ellos se contaban antes como `SI` por error). Cifras corregidas: 33 `SI` · 105 `PENDIENTE` · 12
+  `PROPIO`. Cada fila anota también el archivo y versión exactos usados en la revisión, para detectar
+  actualizaciones de mods en revisiones futuras.
+- Proyecto CurseForge creado (`project_id` 1638251, categoría `Data Packs` dentro de la clase Resource
+  Packs) y logo (`resourcepack/pack.png`) integrado.
+
 ## [0.0.0-beta.1] - 2026-08-03
 
 ### Añadido
