@@ -18,6 +18,13 @@ y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 - Proyecto CurseForge creado (`project_id` 1638251, categoría `Data Packs` dentro de la clase Resource
   Packs) y logo (`resourcepack/pack.png`) integrado.
 
+## [0.0.0-beta.11] - 2026-08-03
+
+### Añadido
+
+- Traducciones al español (es_ES): Shogi, Structurify, SuperMartijn642's Core Lib, It Takes a Pillage
+  Continuation y The Birth of Steve.
+
 ## [0.0.0-beta.10] - 2026-08-03
 
 ### Añadido
