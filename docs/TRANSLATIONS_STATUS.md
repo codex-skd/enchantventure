@@ -27,7 +27,7 @@
 > `apexcore`, `jade`, `justenoughprofessions`) declaran la versión como `${file.jarVersion}` en su manifest
 > (variable que solo se resuelve al compilar) — para esos se usó la versión visible en el nombre del archivo.
 
-Total: 150 mods · 38 ya con `es_ES` · 56 pendientes (con texto real que traducir) · 44 sin `lang/` (nada que
+Total: 150 mods · 43 ya con `es_ES` · 51 pendientes (con texto real que traducir) · 44 sin `lang/` (nada que
 traducir) · 12 propios (fuera de alcance de este repo).
 
 | Mod | modid | Archivo | Versión | Estado | Última revisión |
@@ -46,20 +46,20 @@ traducir) · 12 propios (fuera de alcance de este repo).
 | Better Compatibility Checker | `bcc` | `better-compatability-checker-neoforge-26.2.0.1.jar` | `26.2.0.1` | SI | 2026-08-03 |
 | Better Connections | `better_connections` | `better_connections-26.2-neoforge-1.0.0.jar` | `1.0.0` | PROPIO | 2026-08-03 |
 | Better Party | `better_party` | `better-party-neoforge-26.2-1.1.1.jar` | `1.1.1` | SI | 2026-08-03 |
-| Better Party X Xaero's World Map | `better_party_x_xaeros_world_map` | `better-party-x-xaeros-world-map-neoforge-26.2-1.0.0.jar` | `1.0.0` | PENDIENTE | 2026-08-03 |
-| Better Villager Animations | `bettervillageranimations` | `better-villager-animations-neoforge-26.2.jar` | `1.0.0` | PENDIENTE | 2026-08-03 |
-| Bridging Mod | `bridgingmod` | `BridgingMod-2.7.0+26.2.neoforge-release.jar` | `2.7.0+26.2` | PENDIENTE | 2026-08-03 |
+| Better Party X Xaero's World Map | `better_party_x_xaeros_world_map` | `better-party-x-xaeros-world-map-neoforge-26.2-1.0.0.jar` | `1.0.0` | SI | 2026-08-03 |
+| Better Villager Animations | `bettervillageranimations` | `better-villager-animations-neoforge-26.2.jar` | `1.0.0` | SI | 2026-08-03 |
+| Bridging Mod | `bridgingmod` | `BridgingMod-2.7.0+26.2.neoforge-release.jar` | `2.7.0+26.2` | SI | 2026-08-03 |
 | Carry Mechanics | `carry_mechanics` | `carry_mechanics-26.2-neoforge-1.0.4.jar` | `1.0.4` | PROPIO | 2026-08-03 |
 | clientcrafting mod | `clientcrafting` | `clientcrafting-26.1-2.1.jar` | `2.1` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Cloth Config v26.2 API | `cloth_config` | `cloth-config-26.2.155.jar` | `26.2.155` | SI | 2026-08-03 |
-| CoK_Tools | `coktools` | `CoKTools-Neoforge-mc26.2-26.2.0.2.jar` | `26.2.0.2` | PENDIENTE | 2026-08-03 |
+| CoK_Tools | `coktools` | `CoKTools-Neoforge-mc26.2-26.2.0.2.jar` | `26.2.0.2` | SI | 2026-08-03 |
 | Complementary Core | `complementary_core` | `cc-2.3.1-neoforge_1.21.5-26.1.2.jar` | `2.3.1` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Complementary Structures: Towers | `cs_towers` | `cs_towers-0.2.0-neoforge_1.21.x.jar` | `0.2.0` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Configured | `configured` | `configured-neoforge-26.2-2.7.5.jar` | `2.7.5` | SI | 2026-08-03 |
 | Connected Glass | `connectedglass` | `connectedglass-1.1.14-neoforge-mc26.2.jar` | `1.1.14` | SI | 2026-08-03 |
 | Connectivity Mod | `connectivity` | `connectivity-26.1-7.6.jar` | `7.6` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Corail Tombstone | `tombstone` | `tombstone-neoforge-26.2-9.9.3.jar` | `9.9.3` | SI | 2026-08-03 |
-| Crafting Tweaks | `craftingtweaks` | `craftingtweaks-neoforge-26.2-26.2.0.2.jar` | `26.2.0.2` | PENDIENTE | 2026-08-03 |
+| Crafting Tweaks | `craftingtweaks` | `craftingtweaks-neoforge-26.2-26.2.0.2.jar` | `26.2.0.2` | SI | 2026-08-03 |
 | Cristel Lib | `cristellib` | `cristellib-neoforge-26.2-3.1.10.jar` | `3.1.10` | PENDIENTE | 2026-08-03 |
 | Cupboard mod | `cupboard` | `cupboard-26.2-3.9.jar` | `3.9` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Curios API | `curios` | `curios-neoforge-15.0.0-beta.2+26.2.jar` | `15.0.0-beta.2+26.2` | SI | 2026-08-03 |

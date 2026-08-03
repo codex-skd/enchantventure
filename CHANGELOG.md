@@ -18,6 +18,13 @@ y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 - Proyecto CurseForge creado (`project_id` 1638251, categoría `Data Packs` dentro de la clase Resource
   Packs) y logo (`resourcepack/pack.png`) integrado.
 
+## [0.0.0-beta.3] - 2026-08-03
+
+### Añadido
+
+- Traducciones al español (es_ES): Better Party X Xaero's World Map, Better Villager Animations,
+  Bridging Mod, CoK_Tools y Crafting Tweaks.
+
 ## [0.0.0-beta.2] - 2026-08-03
 
 ### Añadido
