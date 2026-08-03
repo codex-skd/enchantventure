@@ -27,7 +27,7 @@
 > `apexcore`, `jade`, `justenoughprofessions`) declaran la versión como `${file.jarVersion}` en su manifest
 > (variable que solo se resuelve al compilar) — para esos se usó la versión visible en el nombre del archivo.
 
-Total: 150 mods · 33 ya con `es_ES` · 61 pendientes (con texto real que traducir) · 44 sin `lang/` (nada que
+Total: 150 mods · 38 ya con `es_ES` · 56 pendientes (con texto real que traducir) · 44 sin `lang/` (nada que
 traducir) · 12 propios (fuera de alcance de este repo).
 
 | Mod | modid | Archivo | Versión | Estado | Última revisión |
@@ -36,16 +36,16 @@ traducir) · 12 propios (fuera de alcance de este repo).
 | Ageforged Armor | `ageforged_armor` | `ageforged_armor-26.2-neoforge-1.1.3.jar` | `1.1.3` | PROPIO | 2026-08-03 |
 | AI-Improvements | `aiimprovements` | `AI-Improvements-26.1.1-0.5.4.jar` | `0.5.4` (del nombre de archivo, el manifest no resuelve la variable) | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Ancient Artifacts 2 | `ancient_artifacts_mod` | `Ancient Artifacts 2 V2.5.5g for 1.21.6-26.2.jar` | `2.5.5g` | SI | 2026-08-03 |
-| ApexCore | `apexcore` | `apexcore-26.2.0.jar` | `26.2.0` (del nombre de archivo, el manifest no resuelve la variable) | PENDIENTE | 2026-08-03 |
+| ApexCore | `apexcore` | `apexcore-26.2.0.jar` | `26.2.0` (del nombre de archivo, el manifest no resuelve la variable) | SI | 2026-08-03 |
 | Architectury | `architectury` | `architectury-neoforge-21.0.6.jar` | `21.0.6` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Armor Cosmetic | `armor_cosmetic` | `armor_cosmetic-26.2-neoforge-1.0.3.jar` | `1.0.3` | PROPIO | 2026-08-03 |
 | AttributeFix | `attributefix` | `AttributeFix-neoforge-MC26.2-26.2.0.1.jar` | `26.2.0.1` | N/A (sin lang/ en el jar) | 2026-08-03 |
-| Balm | `balm` | `balm-neoforge-26.2-26.2.0.5.jar` | `26.2.0.5` | PENDIENTE | 2026-08-03 |
-| Berezka API | `berezka_api` | `berezka_api-1.2.9.5-beta.3-neoforge-1.26.2.jar` | `1.2.9.5-beta.3` | PENDIENTE | 2026-08-03 |
+| Balm | `balm` | `balm-neoforge-26.2-26.2.0.5.jar` | `26.2.0.5` | SI | 2026-08-03 |
+| Berezka API | `berezka_api` | `berezka_api-1.2.9.5-beta.3-neoforge-1.26.2.jar` | `1.2.9.5-beta.3` | SI | 2026-08-03 |
 | Better Combat | `bettercombat` | `bettercombat-neoforge-3.2.2+26.2.jar` | `3.2.2` | SI | 2026-08-03 |
-| Better Compatibility Checker | `bcc` | `better-compatability-checker-neoforge-26.2.0.1.jar` | `26.2.0.1` | PENDIENTE | 2026-08-03 |
+| Better Compatibility Checker | `bcc` | `better-compatability-checker-neoforge-26.2.0.1.jar` | `26.2.0.1` | SI | 2026-08-03 |
 | Better Connections | `better_connections` | `better_connections-26.2-neoforge-1.0.0.jar` | `1.0.0` | PROPIO | 2026-08-03 |
-| Better Party | `better_party` | `better-party-neoforge-26.2-1.1.1.jar` | `1.1.1` | PENDIENTE | 2026-08-03 |
+| Better Party | `better_party` | `better-party-neoforge-26.2-1.1.1.jar` | `1.1.1` | SI | 2026-08-03 |
 | Better Party X Xaero's World Map | `better_party_x_xaeros_world_map` | `better-party-x-xaeros-world-map-neoforge-26.2-1.0.0.jar` | `1.0.0` | PENDIENTE | 2026-08-03 |
 | Better Villager Animations | `bettervillageranimations` | `better-villager-animations-neoforge-26.2.jar` | `1.0.0` | PENDIENTE | 2026-08-03 |
 | Bridging Mod | `bridgingmod` | `BridgingMod-2.7.0+26.2.neoforge-release.jar` | `2.7.0+26.2` | PENDIENTE | 2026-08-03 |
