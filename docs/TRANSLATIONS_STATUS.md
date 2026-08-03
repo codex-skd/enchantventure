@@ -27,7 +27,7 @@
 > `apexcore`, `jade`, `justenoughprofessions`) declaran la versión como `${file.jarVersion}` en su manifest
 > (variable que solo se resuelve al compilar) — para esos se usó la versión visible en el nombre del archivo.
 
-Total: 150 mods · 43 ya con `es_ES` · 51 pendientes (con texto real que traducir) · 44 sin `lang/` (nada que
+Total: 150 mods · 49 ya con `es_ES` · 45 pendientes (con texto real que traducir) · 44 sin `lang/` (nada que
 traducir) · 12 propios (fuera de alcance de este repo).
 
 | Mod | modid | Archivo | Versión | Estado | Última revisión |
@@ -60,7 +60,7 @@ traducir) · 12 propios (fuera de alcance de este repo).
 | Connectivity Mod | `connectivity` | `connectivity-26.1-7.6.jar` | `7.6` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Corail Tombstone | `tombstone` | `tombstone-neoforge-26.2-9.9.3.jar` | `9.9.3` | SI | 2026-08-03 |
 | Crafting Tweaks | `craftingtweaks` | `craftingtweaks-neoforge-26.2-26.2.0.2.jar` | `26.2.0.2` | SI | 2026-08-03 |
-| Cristel Lib | `cristellib` | `cristellib-neoforge-26.2-3.1.10.jar` | `3.1.10` | PENDIENTE | 2026-08-03 |
+| Cristel Lib | `cristellib` | `cristellib-neoforge-26.2-3.1.10.jar` | `3.1.10` | SI | 2026-08-03 |
 | Cupboard mod | `cupboard` | `cupboard-26.2-3.9.jar` | `3.9` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Curios API | `curios` | `curios-neoforge-15.0.0-beta.2+26.2.jar` | `15.0.0-beta.2+26.2` | SI | 2026-08-03 |
 | CustomSkinLoader Bootstrap | `customskinloader-bootstrap` | `CustomSkinLoader_Universal-15.0.1.jar` | `15.0.1` | N/A (sin lang/ en el jar) | 2026-08-03 |
@@ -73,20 +73,20 @@ traducir) · 12 propios (fuera de alcance de este repo).
 | Dungeons and Taverns Nether Fortress Overhaul | `mr_dungeons_andtavernsnetherfortressoverhaul` | `DnT-nether-fortress-overhaul-v3.1 [NeoForge].jar` | `1-v3.1` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Dungeons and Taverns Pillager Outpost Overhaul | `mr_dungeons_andtavernspillageroutpostoverhaul` | `DnT-pillager-outpost-overhaul-v3.3 [NeoForge].jar` | `1-v3.3` | PENDIENTE | 2026-08-03 |
 | Dungeons and Taverns Woodland Mansion Overhaul | `mr_dungeons_andtavernswoodlandmansionoverhaul` | `DnT-woodland-mansion-overhaul-2.1 [NeoForge].jar` | `2.1` | N/A (sin lang/ en el jar) | 2026-08-03 |
-| Echo Relics | `echorelics` | `echorelics-0.1.0.jar` | `0.1.0` | PENDIENTE | 2026-08-03 |
+| Echo Relics | `echorelics` | `echorelics-0.1.0.jar` | `0.1.0` | SI | 2026-08-03 |
 | Ecologics | `ecologics` | `Ecologics-NeoFab-26.2-2.6.0.jar` | `2.6.0` | SI | 2026-08-03 |
-| Enchanted Adventure | `adventureenchanting` | `adventureenchanting-0.1.0.jar` | `0.1.0` | PENDIENTE | 2026-08-03 |
+| Enchanted Adventure | `adventureenchanting` | `adventureenchanting-0.1.0.jar` | `0.1.0` | SI | 2026-08-03 |
 | EnchantmentDescriptions | `enchdesc` | `EnchantmentDescriptions-neoforge-MC26.2-26.2.0.1.jar` | `26.2.0.1` | SI | 2026-08-03 |
 | Equivalent Legacy | `equivalent_legacy` | `equivalent_legacy-26.2-neoforge-1.0.2.jar` | `1.0.2` | PROPIO | 2026-08-03 |
 | EvilCraft | `evilcraft` | `evilcraft-26.2-neoforge-1.2.98-1004.jar` | `1.2.98-1004` | SI | 2026-08-03 |
 | Explorer's Compass | `explorerscompass` | `ExplorersCompass-26.2-3.3.0-neoforge.jar` | `26.2-3.3.0-neoforge` | SI | 2026-08-03 |
-| FallingTree | `fallingtree` | `FallingTree-26.2-25.jar` | `25` | PENDIENTE | 2026-08-03 |
+| FallingTree | `fallingtree` | `FallingTree-26.2-25.jar` | `25` | SI | 2026-08-03 |
 | Fast IP Ping | `fastipping` | `fast-ip-ping-v1.0.11-mc26.1.2.jar` | `1.0.11` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | fastasyncworldsave mod | `fastasyncworldsave` | `fastasyncworldsave-26.2-2.6.jar` | `2.6` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Ferrite Core | `ferritecore` | `ferritecore-9.0.0-neoforge.jar` | `9.0.0` | N/A (sin lang/ en el jar) | 2026-08-03 |
-| Fish of Thieves | `fishofthieves` | `fish_of_thieves-mc26.2-v26.2.1.1-neoforge.jar` | `26.2.1.1` | PENDIENTE | 2026-08-03 |
+| Fish of Thieves | `fishofthieves` | `fish_of_thieves-mc26.2-v26.2.1.1-neoforge.jar` | `26.2.1.1` | SI | 2026-08-03 |
 | FokusAPI | `fokusapi` | `FokusAPI-v4.5_MOD.jar` | `4.5` | N/A (sin lang/ en el jar) | 2026-08-03 |
-| Formations | `formations` | `formations-1.0.4-neoforge-mc26.2.jar` | `1.0.4` | PENDIENTE | 2026-08-03 |
+| Formations | `formations` | `formations-1.0.4-neoforge-mc26.2.jar` | `1.0.4` | SI | 2026-08-03 |
 | Formations Nether | `formationsnether` | `formationsnether-1.0.5a-mc1.21+.jar` | `1.0.5+a` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Formations Overworld | `formationsoverworld` | `formationsoverworld-1.0.5a-mc1.21+.jar` | `1.0.5+a` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Fusion | `fusion` | `fusion-1.3.12-neoforge-mc26.2.jar` | `1.3.12` | PENDIENTE | 2026-08-03 |

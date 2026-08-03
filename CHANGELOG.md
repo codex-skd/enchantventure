@@ -18,6 +18,13 @@ y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 - Proyecto CurseForge creado (`project_id` 1638251, categoría `Data Packs` dentro de la clase Resource
   Packs) y logo (`resourcepack/pack.png`) integrado.
 
+## [0.0.0-beta.4] - 2026-08-03
+
+### Añadido
+
+- Traducciones al español (es_ES): Cristel Lib, Echo Relics, Enchanted Adventure, FallingTree,
+  Fish of Thieves y Formations.
+
 ## [0.0.0-beta.3] - 2026-08-03
 
 ### Añadido
