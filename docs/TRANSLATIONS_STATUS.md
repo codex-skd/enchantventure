@@ -27,7 +27,7 @@
 > `apexcore`, `jade`, `justenoughprofessions`) declaran la versión como `${file.jarVersion}` en su manifest
 > (variable que solo se resuelve al compilar) — para esos se usó la versión visible en el nombre del archivo.
 
-Total: 150 mods · 59 ya con `es_ES` · 35 pendientes (con texto real que traducir) · 44 sin `lang/` (nada que
+Total: 150 mods · 64 ya con `es_ES` · 30 pendientes (con texto real que traducir) · 44 sin `lang/` (nada que
 traducir) · 12 propios (fuera de alcance de este repo).
 
 | Mod | modid | Archivo | Versión | Estado | Última revisión |
@@ -67,11 +67,11 @@ traducir) · 12 propios (fuera de alcance de este repo).
 | Cyclops Core | `cyclopscore` | `cyclopscore-26.2-neoforge-1.30.0-1066.jar` | `1.30.0-1066` | SI | 2026-08-03 |
 | Data Miner | `data_miner` | `data_miner-26.2-neoforge-1.0.0.jar` | `1.0.0` | PROPIO | 2026-08-03 |
 | Deimos | `deimos` | `deimos-26.2-neoforge-2.7.jar` | `2.7` | N/A (sin lang/ en el jar) | 2026-08-03 |
-| DrZhark's Mo'Creatures | `mocreatures` | `mocreatures-neoforge-26.2.0+26.2.jar` | `26.2.0` | PENDIENTE | 2026-08-03 |
+| DrZhark's Mo'Creatures | `mocreatures` | `mocreatures-neoforge-26.2.0+26.2.jar` | `26.2.0` | SI | 2026-08-03 |
 | Dungeons and Taverns | `mr_dungeons_andtaverns` | `dungeons-and-taverns-5.3.0 [NeoForge].jar` | `5.3.0` | SI | 2026-08-03 |
-| Dungeons and Taverns Ancient City Overhaul | `mr_dungeons_andtavernsancientcityoverhaul` | `DnT-ancient-city-overhaul-3.4 [NeoForge].jar` | `3.4` | PENDIENTE | 2026-08-03 |
+| Dungeons and Taverns Ancient City Overhaul | `mr_dungeons_andtavernsancientcityoverhaul` | `DnT-ancient-city-overhaul-3.4 [NeoForge].jar` | `3.4` | SI | 2026-08-03 |
 | Dungeons and Taverns Nether Fortress Overhaul | `mr_dungeons_andtavernsnetherfortressoverhaul` | `DnT-nether-fortress-overhaul-v3.1 [NeoForge].jar` | `1-v3.1` | N/A (sin lang/ en el jar) | 2026-08-03 |
-| Dungeons and Taverns Pillager Outpost Overhaul | `mr_dungeons_andtavernspillageroutpostoverhaul` | `DnT-pillager-outpost-overhaul-v3.3 [NeoForge].jar` | `1-v3.3` | PENDIENTE | 2026-08-03 |
+| Dungeons and Taverns Pillager Outpost Overhaul | `mr_dungeons_andtavernspillageroutpostoverhaul` | `DnT-pillager-outpost-overhaul-v3.3 [NeoForge].jar` | `1-v3.3` | SI | 2026-08-03 |
 | Dungeons and Taverns Woodland Mansion Overhaul | `mr_dungeons_andtavernswoodlandmansionoverhaul` | `DnT-woodland-mansion-overhaul-2.1 [NeoForge].jar` | `2.1` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Echo Relics | `echorelics` | `echorelics-0.1.0.jar` | `0.1.0` | SI | 2026-08-03 |
 | Ecologics | `ecologics` | `Ecologics-NeoFab-26.2-2.6.0.jar` | `2.6.0` | SI | 2026-08-03 |
@@ -117,11 +117,11 @@ traducir) · 12 propios (fuera de alcance de este repo).
 | Lithostitched | `lithostitched` | `lithostitched-1.7.13-neoforge-26.2.jar` | `1.7.13` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Lootr | `lootr` | `lootr-neoforge-26.2-1.24.39.121.jar` | `1.24.39.121` | SI | 2026-08-03 |
 | Marsward | `marsward` | `marsward-1.0.6.jar` | `1.0.6` | SI | 2026-08-03 |
-| Modonomicon | `modonomicon` | `modonomicon-26.2-neoforge-2.2.0.jar` | `2.2.0` | PENDIENTE | 2026-08-03 |
+| Modonomicon | `modonomicon` | `modonomicon-26.2-neoforge-2.2.0.jar` | `2.2.0` | SI | 2026-08-03 |
 | Moog's Structure Lib | `moogs_structures` | `moogs_structures-neoforge-26.2-3.0.6.jar` | `3.0.6` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | MoogsEndStructures | `mes` | `MoogsEndStructures-1.21-2.0.3.jar` | `2.0.3` | SI | 2026-08-03 |
 | MoogsMissingVillages | `mmv` | `MoogsMissingVillages-1.21-2.1.2.jar` | `2.1.2` | SI | 2026-08-03 |
-| MoogsNetherStructures | `mns` | `MoogsNetherStructures-1.21-3.0.0.jar` | `3.0.0` | PENDIENTE | 2026-08-03 |
+| MoogsNetherStructures | `mns` | `MoogsNetherStructures-1.21-3.0.0.jar` | `3.0.0` | SI | 2026-08-03 |
 | MoogsTemplesReimagined | `mtr` | `MoogsTemplesReimagined-1.21-1.1.3.jar` | `1.1.3` | PENDIENTE | 2026-08-03 |
 | MoogsVoyagerStructures | `mvs` | `MoogsVoyagerStructures-1.21-5.0.11.jar` | `5.0.11` | PENDIENTE | 2026-08-03 |
 | Mouse Tweaks | `mousetweaks` | `MouseTweaks-neoforge-mc26.2-2.31.jar` | `2.31` | N/A (sin lang/ en el jar) | 2026-08-03 |
