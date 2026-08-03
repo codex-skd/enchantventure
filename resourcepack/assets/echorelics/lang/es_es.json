@@ -1,0 +1,17 @@
+{
+  "itemGroup.echorelics.echo_relics": "Reliquias del Eco",
+  "item.echorelics.echo_blade": "Hoja del Eco",
+  "item.echorelics.awakened_echo_blade": "Hoja del Eco Despierta",
+  "item.echorelics.echo_sigil": "Sello del Eco",
+  "block.echorelics.echo_plate": "Placa del Eco",
+  "block.echorelics.resonance_target": "Objetivo de resonancia",
+  "block.echorelics.archive_door": "Puerta del Archivo",
+  "entity.echorelics.echo_avatar": "Avatar del Eco",
+  "entity.echorelics.archivist": "El Archivero",
+  "advancement.echorelics.defeat_archivist.title": "Ninguna historia es definitiva",
+  "advancement.echorelics.defeat_archivist.description": "Derrota al Archivero dominando el espacio grabado",
+  "enchantment.echorelics.reverberation": "Reverberación",
+  "enchantment.echorelics.accelerando": "Acelerando",
+  "death.attack.echorelics.echo_slash": "%1$s fue abatido por el eco de %2$s",
+  "death.attack.echorelics.echo_slash.item": "%1$s fue abatido por el eco de %2$s usando %3$s"
+}
