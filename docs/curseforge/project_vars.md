@@ -1,17 +1,13 @@
 # CurseForge — Variables del proyecto
 
-> **Pendiente de creación.** El proyecto de CurseForge para "EnchantVenture Translations" todavía no existe.
-> Hay que crearlo manualmente en la web (logo, summary, descripción general del resource pack) antes de
-> poder subir la primera versión. Checklist con todos los campos listos para copiar/pegar:
-> [`create_project_form.md`](create_project_form.md).
-
 ## Proyecto
 
 | Variable | Valor |
 |----------|-------|
-| `curseforge_project_id` | `PENDIENTE` |
+| `curseforge_project_id` | `1638251` |
 | `mod_id` | `enchantventure_translations` |
 | `display_name` | `EnchantVenture Translations` |
+| Categoría (class Resource Packs) | `Data Packs` (el resto de categorías de la clase son de resolución: 16x, 32x, 64x... no aplican a un pack de solo traducciones) |
 
 ## Tokens
 
@@ -90,16 +86,20 @@ pegando el HTML de `docs/curseforge/project_description.md`.
 El script `scripts/curseforge-upload.ps1` lee estas líneas (`key = value`). Rellenar tras crear el proyecto:
 
 ```
-project_id = PENDIENTE
+project_id = 1638251
 api_token = ee776b0a-ee95-4850-b554-06be02a8657f
-game_versions = PENDIENTE
+game_versions = 16498
 release_type = beta
 ```
 
+> `game_versions` reutiliza el `gameVersionId` de `26.2` ya validado en
+> `EnchantVenture_fixes/docs/curseforge/project_vars.md`. Si la subida de la primera versión falla por
+> game version inválida, confirmar contra `GET /v1/minecraft/version` con el Core token y corregir aquí.
+
 ## Flujo completo
 
-0. **Crear el proyecto en CurseForge** (una vez): logo (`pack.png`), summary, descripción (pegar HTML de
-   `project_description.md`), categoría "Resource Packs". Anotar `project_id` y `gameVersionId` aquí.
+0. ~~Crear el proyecto en CurseForge~~ — hecho (`project_id` 1638251). Logo (`resourcepack/pack.png`) ya
+   integrado. Pendiente solo confirmar `game_versions` en la primera subida real.
 1. `python build_translation_pack.py`
 2. Actualizar `docs/curseforge/versions/<version>.md` con HTML
 3. Actualizar `CHANGELOG.md`
