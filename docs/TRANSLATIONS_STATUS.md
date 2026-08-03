@@ -27,7 +27,7 @@
 > `apexcore`, `jade`, `justenoughprofessions`) declaran la versión como `${file.jarVersion}` en su manifest
 > (variable que solo se resuelve al compilar) — para esos se usó la versión visible en el nombre del archivo.
 
-Total: 150 mods · 74 ya con `es_ES` · 20 pendientes (con texto real que traducir) · 44 sin `lang/` (nada que
+Total: 150 mods · 79 ya con `es_ES` · 15 pendientes (con texto real que traducir) · 44 sin `lang/` (nada que
 traducir) · 12 propios (fuera de alcance de este repo).
 
 | Mod | modid | Archivo | Versión | Estado | Última revisión |
@@ -136,19 +136,19 @@ traducir) · 12 propios (fuera de alcance de este repo).
 | NeroQuests | `neroquests` | `neroquests-neoforge-26.2-0.1.0-beta.1.jar` | `0.1.0-beta.1` | SI | 2026-08-03 |
 | NeroSpace | `nerospace` | `nerospace-neoforge-26.2-1.0.1.jar` | `1.0.1` | SI | 2026-08-03 |
 | NeroTech | `nerotech` | `nerotech-neoforge-26.2-0.1.0-beta.1.jar` | `0.1.0-beta.1` | SI | 2026-08-03 |
-| NetherPortalFix | `netherportalfix` | `netherportalfix-neoforge-26.2-26.2.0.1.jar` | `26.2.0.1` | PENDIENTE | 2026-08-03 |
-| Not Enough Crashes | `notenoughcrashes` | `notenoughcrashes-neoforge-4.4.9+26.2.jar` | `4.4.9+26.2` | PENDIENTE | 2026-08-03 |
+| NetherPortalFix | `netherportalfix` | `netherportalfix-neoforge-26.2-26.2.0.1.jar` | `26.2.0.1` | SI | 2026-08-03 |
+| Not Enough Crashes | `notenoughcrashes` | `notenoughcrashes-neoforge-4.4.9+26.2.jar` | `4.4.9+26.2` | SI | 2026-08-03 |
 | Ore Vein Miner | `mr_ore_veinminer` | `ore-vein-miner-26.2snap.jar` | `26.1` | N/A (sin lang/ en el jar) | 2026-08-03 |
-| Pantry for Blockheads | `pantryforblockheads` | `pantryforblockheads-neoforge-26.2-26.2.0.5.jar` | `26.2.0.5` | PENDIENTE | 2026-08-03 |
+| Pantry for Blockheads | `pantryforblockheads` | `pantryforblockheads-neoforge-26.2-26.2.0.5.jar` | `26.2.0.5` | SI | 2026-08-03 |
 | Player Activity View | `player_activity_view` | `player_activity_view-26.2-neoforge-1.0.0.jar` | `1.0.0` | PROPIO | 2026-08-03 |
 | Player Animation Library | `player_animation_library` | `PlayerAnimationLibMerged-1.2.5+mc.26.2.jar` | `1.2.5+mc.26.2` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | PrickleMC | `prickle` | `PrickleMC-neoforge-MC26.2-26.2.0.3.jar` | `26.2.0.3` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Prism | `prism` | `Prism-26.2-neoforge-1.1.2.jar` | `1.1.2` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Puzzles Lib | `puzzleslib` | `PuzzlesLib-v26.2.1-mc26.2.x-NeoForge.jar` | `26.2.1` | N/A (sin lang/ en el jar) | 2026-08-03 |
-| Reliquary Reincarnations | `reliquary` | `reliquary-26.2-2.0.89.1531.jar` | `2.0.89` | PENDIENTE | 2026-08-03 |
+| Reliquary Reincarnations | `reliquary` | `reliquary-26.2-2.0.89.1531.jar` | `2.0.89` | SI | 2026-08-03 |
 | Repurposed Structures | `repurposed_structures` | `repurposed_structures-7.7.5+26.2-neoforge.jar` | `7.7.5+26.2-neoforge` | SI | 2026-08-03 |
 | Resourceful Lib | `resourcefullib` | `ResourcefulLib-5.0.3.jar` | `5.0.3` | N/A (sin lang/ en el jar) | 2026-08-03 |
-| Right Click Harvest | `rightclickharvest` | `rightclickharvest-neoforge-4.6.2+26.2.x.jar` | `4.6.2+26.2.x` | PENDIENTE | 2026-08-03 |
+| Right Click Harvest | `rightclickharvest` | `rightclickharvest-neoforge-4.6.2+26.2.x.jar` | `4.6.2+26.2.x` | SI | 2026-08-03 |
 | Shogi | `shogi` | `shogi-neoforge-26.2-26.2.0.4.jar` | `26.2.0.4` | PENDIENTE | 2026-08-03 |
 | SKD Menu | `skd_menu` | `skd_menu-26.2-neoforge-1.2.0.jar` | `1.2.0` | PROPIO | 2026-08-03 |
 | Smoothchunk mod | `smoothchunk` | `smoothchunk-26.1-4.2.jar` | `4.2` | N/A (sin lang/ en el jar) | 2026-08-03 |
