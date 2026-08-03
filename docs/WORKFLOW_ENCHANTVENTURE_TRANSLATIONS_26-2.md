@@ -104,11 +104,10 @@ Cada subida a CurseForge crea tag: beta `26.2-beta.X` · release `26.2-X.Y.Z`.
 
 ## Flujo por tarea
 
-**0. CurseForge — creación del proyecto** (una única vez, pendiente a fecha de este documento): el proyecto
-"EnchantVenture Translations" todavía no existe en CurseForge. Checklist completo con los campos del
-formulario listos para copiar/pegar: `docs/curseforge/create_project_form.md`. Falta el logo
-(`resourcepack/pack.png`, pendiente de que el usuario lo proporcione). Anotar `project_id` y
-`gameVersionId` resultantes en `docs/curseforge/project_vars.md`.
+**0. CurseForge — creación del proyecto** ✅ hecho. `project_id` `1638251`, categoría `Data Packs` (dentro
+de la clase Resource Packs — el resto de categorías de esa clase son de resolución y no aplican), logo en
+`resourcepack/pack.png`. Detalle en `docs/curseforge/create_project_form.md` y `docs/curseforge/project_vars.md`.
+Pendiente solo confirmar el `gameVersionId` en la primera subida real.
 
 **1. Desarrollo** (por mod, ver "Flujo por mod" arriba)
 
