@@ -27,7 +27,7 @@
 > `apexcore`, `jade`, `justenoughprofessions`) declaran la versión como `${file.jarVersion}` en su manifest
 > (variable que solo se resuelve al compilar) — para esos se usó la versión visible en el nombre del archivo.
 
-Total: 150 mods · 54 ya con `es_ES` · 40 pendientes (con texto real que traducir) · 44 sin `lang/` (nada que
+Total: 150 mods · 59 ya con `es_ES` · 35 pendientes (con texto real que traducir) · 44 sin `lang/` (nada que
 traducir) · 12 propios (fuera de alcance de este repo).
 
 | Mod | modid | Archivo | Versión | Estado | Última revisión |
@@ -111,16 +111,16 @@ traducir) · 12 propios (fuera de alcance de este repo).
 | Jade | `jade` | `Jade-mc26.2-NeoForge-26.2.8.jar` | `26.2.8` (del nombre de archivo, el manifest no resuelve la variable) | SI | 2026-08-03 |
 | JamLib | `jamlib` | `jamlib-neoforge-2.3.1+26.2.x.jar` | `2.3.1+26.2.x` | SI | 2026-08-03 |
 | Just Enough Items | `jei` | `jei-26.2-neoforge-30.15.0.121.jar` | `30.15.0.121` | SI | 2026-08-03 |
-| Just Enough Professions (JEP) | `justenoughprofessions` | `JustEnoughProfessions-neoforge-26.2-12.0.0.jar` | `12.0.0` (del nombre de archivo, el manifest no resuelve la variable) | PENDIENTE | 2026-08-03 |
-| Kenny | `kenny` | `Kenny-6.0.0-neoforge+mc26.2.jar` | `6.0.0` | PENDIENTE | 2026-08-03 |
+| Just Enough Professions (JEP) | `justenoughprofessions` | `JustEnoughProfessions-neoforge-26.2-12.0.0.jar` | `12.0.0` (del nombre de archivo, el manifest no resuelve la variable) | SI | 2026-08-03 |
+| Kenny | `kenny` | `Kenny-6.0.0-neoforge+mc26.2.jar` | `6.0.0` | SI | 2026-08-03 |
 | Legendary Tooltips | `legendarytooltips` | `LegendaryTooltips-26.2-neoforge-1.6.2.jar` | `1.6.2` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Lithostitched | `lithostitched` | `lithostitched-1.7.13-neoforge-26.2.jar` | `1.7.13` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Lootr | `lootr` | `lootr-neoforge-26.2-1.24.39.121.jar` | `1.24.39.121` | SI | 2026-08-03 |
-| Marsward | `marsward` | `marsward-1.0.6.jar` | `1.0.6` | PENDIENTE | 2026-08-03 |
+| Marsward | `marsward` | `marsward-1.0.6.jar` | `1.0.6` | SI | 2026-08-03 |
 | Modonomicon | `modonomicon` | `modonomicon-26.2-neoforge-2.2.0.jar` | `2.2.0` | PENDIENTE | 2026-08-03 |
 | Moog's Structure Lib | `moogs_structures` | `moogs_structures-neoforge-26.2-3.0.6.jar` | `3.0.6` | N/A (sin lang/ en el jar) | 2026-08-03 |
-| MoogsEndStructures | `mes` | `MoogsEndStructures-1.21-2.0.3.jar` | `2.0.3` | PENDIENTE | 2026-08-03 |
-| MoogsMissingVillages | `mmv` | `MoogsMissingVillages-1.21-2.1.2.jar` | `2.1.2` | PENDIENTE | 2026-08-03 |
+| MoogsEndStructures | `mes` | `MoogsEndStructures-1.21-2.0.3.jar` | `2.0.3` | SI | 2026-08-03 |
+| MoogsMissingVillages | `mmv` | `MoogsMissingVillages-1.21-2.1.2.jar` | `2.1.2` | SI | 2026-08-03 |
 | MoogsNetherStructures | `mns` | `MoogsNetherStructures-1.21-3.0.0.jar` | `3.0.0` | PENDIENTE | 2026-08-03 |
 | MoogsTemplesReimagined | `mtr` | `MoogsTemplesReimagined-1.21-1.1.3.jar` | `1.1.3` | PENDIENTE | 2026-08-03 |
 | MoogsVoyagerStructures | `mvs` | `MoogsVoyagerStructures-1.21-5.0.11.jar` | `5.0.11` | PENDIENTE | 2026-08-03 |
