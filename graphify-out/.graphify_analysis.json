@@ -1,0 +1,46 @@
+{
+  "communities": {
+    "0": [
+      "build_translation_pack",
+      "build_translation_pack_main",
+      "build_translation_pack_validate_json_files"
+    ],
+    "1": [
+      "scripts_curseforge_upload",
+      "scripts_curseforge_upload_get_varfrommd"
+    ],
+    "2": [
+      "image_1"
+    ]
+  },
+  "cohesion": {
+    "0": 1.0,
+    "1": 1.0,
+    "2": 1.0
+  },
+  "gods": [
+    {
+      "id": "build_translation_pack_validate_json_files",
+      "label": "validate_json_files()",
+      "degree": 2
+    },
+    {
+      "id": "build_translation_pack_main",
+      "label": "main()",
+      "degree": 2
+    },
+    {
+      "id": "image_1",
+      "label": "Screenshot of the EnchantVenture resource pack",
+      "degree": 0
+    }
+  ],
+  "surprises": [],
+  "questions": [
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `Screenshot of the EnchantVenture resource pack` to the rest of the system?",
+      "why": "1 weakly-connected nodes found - possible documentation gaps or missing edges."
+    }
+  ]
+}

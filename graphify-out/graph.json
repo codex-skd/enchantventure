@@ -1,0 +1,116 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "build_translation_pack.py",
+      "file_type": "code",
+      "source_file": "build_translation_pack.py",
+      "source_location": "L1",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "build_translation_pack.py",
+      "id": "build_translation_pack",
+      "community_name": "build_translation_pack.py"
+    },
+    {
+      "label": "validate_json_files()",
+      "file_type": "code",
+      "source_file": "build_translation_pack.py",
+      "source_location": "L12",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "validate_json_files()",
+      "id": "build_translation_pack_validate_json_files",
+      "community_name": "build_translation_pack.py"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "build_translation_pack.py",
+      "source_location": "L21",
+      "_origin": "ast",
+      "community": 0,
+      "norm_label": "main()",
+      "id": "build_translation_pack_main",
+      "community_name": "build_translation_pack.py"
+    },
+    {
+      "label": "curseforge-upload.ps1",
+      "file_type": "code",
+      "source_file": "scripts/curseforge-upload.ps1",
+      "source_location": "L1",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "curseforge-upload.ps1",
+      "id": "scripts_curseforge_upload",
+      "community_name": "curseforge-upload.ps1"
+    },
+    {
+      "label": "Get-VarFromMd()",
+      "file_type": "code",
+      "source_file": "scripts/curseforge-upload.ps1",
+      "source_location": "L17",
+      "_origin": "ast",
+      "community": 1,
+      "norm_label": "get-varfrommd()",
+      "id": "scripts_curseforge_upload_get_varfrommd",
+      "community_name": "curseforge-upload.ps1"
+    },
+    {
+      "file_type": "image",
+      "source_file": "resourcepack/pack.png",
+      "label": "Screenshot of the EnchantVenture resource pack",
+      "community": 2,
+      "norm_label": "screenshot of the enchantventure resource pack",
+      "id": "image_1",
+      "community_name": "Screenshot of the EnchantVenture resource pack"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "build_translation_pack.py",
+      "source_location": "L21",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "build_translation_pack",
+      "target": "build_translation_pack_main"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "build_translation_pack.py",
+      "source_location": "L12",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "build_translation_pack",
+      "target": "build_translation_pack_validate_json_files"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "build_translation_pack.py",
+      "source_location": "L22",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "build_translation_pack_main",
+      "target": "build_translation_pack_validate_json_files"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/curseforge-upload.ps1",
+      "source_location": "L17",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "scripts_curseforge_upload",
+      "target": "scripts_curseforge_upload_get_varfrommd"
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "1f3540dd6ca31289080a89c8f1cb026fc43c62dd"
+}
