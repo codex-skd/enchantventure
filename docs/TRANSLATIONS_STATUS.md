@@ -27,7 +27,7 @@
 > `apexcore`, `jade`, `justenoughprofessions`) declaran la versión como `${file.jarVersion}` en su manifest
 > (variable que solo se resuelve al compilar) — para esos se usó la versión visible en el nombre del archivo.
 
-Total: 150 mods · 79 ya con `es_ES` · 15 pendientes (con texto real que traducir) · 44 sin `lang/` (nada que
+Total: 150 mods · 84 ya con `es_ES` · 10 pendientes (con texto real que traducir) · 44 sin `lang/` (nada que
 traducir) · 12 propios (fuera de alcance de este repo).
 
 | Mod | modid | Archivo | Versión | Estado | Última revisión |
@@ -107,7 +107,7 @@ traducir) · 12 propios (fuera de alcance de este repo).
 | Inventory Essentials | `inventoryessentials` | `inventoryessentials-neoforge-26.2-26.2.0.3.jar` | `26.2.0.3` | SI | 2026-08-03 |
 | Iris | `iris` | `iris-neoforge-1.11.2+mc26.2.jar` | `1.11.2+mc26.2` | SI | 2026-08-03 |
 | Iris Shader Folder | `iris_shader_folder` | `iris_shader_folder-1.4.1-neoforge.jar` | `1.4.1-neoforge` | N/A (sin lang/ en el jar) | 2026-08-03 |
-| It Takes a Pillage Continuation | `takesapillage` | `takesapillage-neoforge-1.0.12+mc26.2.jar` | `1.0.12` | PENDIENTE | 2026-08-03 |
+| It Takes a Pillage Continuation | `takesapillage` | `takesapillage-neoforge-1.0.12+mc26.2.jar` | `1.0.12` | SI | 2026-08-03 |
 | Jade | `jade` | `Jade-mc26.2-NeoForge-26.2.8.jar` | `26.2.8` (del nombre de archivo, el manifest no resuelve la variable) | SI | 2026-08-03 |
 | JamLib | `jamlib` | `jamlib-neoforge-2.3.1+26.2.x.jar` | `2.3.1+26.2.x` | SI | 2026-08-03 |
 | Just Enough Items | `jei` | `jei-26.2-neoforge-30.15.0.121.jar` | `30.15.0.121` | SI | 2026-08-03 |
@@ -149,7 +149,7 @@ traducir) · 12 propios (fuera de alcance de este repo).
 | Repurposed Structures | `repurposed_structures` | `repurposed_structures-7.7.5+26.2-neoforge.jar` | `7.7.5+26.2-neoforge` | SI | 2026-08-03 |
 | Resourceful Lib | `resourcefullib` | `ResourcefulLib-5.0.3.jar` | `5.0.3` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Right Click Harvest | `rightclickharvest` | `rightclickharvest-neoforge-4.6.2+26.2.x.jar` | `4.6.2+26.2.x` | SI | 2026-08-03 |
-| Shogi | `shogi` | `shogi-neoforge-26.2-26.2.0.4.jar` | `26.2.0.4` | PENDIENTE | 2026-08-03 |
+| Shogi | `shogi` | `shogi-neoforge-26.2-26.2.0.4.jar` | `26.2.0.4` | SI | 2026-08-03 |
 | SKD Menu | `skd_menu` | `skd_menu-26.2-neoforge-1.2.0.jar` | `1.2.0` | PROPIO | 2026-08-03 |
 | Smoothchunk mod | `smoothchunk` | `smoothchunk-26.1-4.2.jar` | `4.2` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Sodium | `sodium` | `sodium-neoforge-0.9.1+mc26.2.jar` | `0.9.1+mc26.2` | N/A (sin lang/ en el jar) | 2026-08-03 |
@@ -159,10 +159,10 @@ traducir) · 12 propios (fuera de alcance de este repo).
 | Sophisticated Storage | `sophisticatedstorage` | `sophisticatedstorage-26.2-1.5.101.2028.jar` | `1.5.101` | SI | 2026-08-03 |
 | Stellarity | `stellarity` | `Stellarity-5.5.4.jar` | `5.5.4` | SI | 2026-08-03 |
 | Structure Essentials mod | `structureessentials` | `structureessentials-26.2-5.0.jar` | `5.0` | N/A (sin lang/ en el jar) | 2026-08-03 |
-| Structurify | `structurify` | `structurify-neoforge-2.0.30+mc26.2.jar` | `2.0.30` | PENDIENTE | 2026-08-03 |
-| SuperMartijn642's Core Lib | `supermartijn642corelib` | `supermartijn642corelib-1.1.22a-neoforge-mc26.2.jar` | `1.1.22+a` | PENDIENTE | 2026-08-03 |
+| Structurify | `structurify` | `structurify-neoforge-2.0.30+mc26.2.jar` | `2.0.30` | SI | 2026-08-03 |
+| SuperMartijn642's Core Lib | `supermartijn642corelib` | `supermartijn642corelib-1.1.22a-neoforge-mc26.2.jar` | `1.1.22+a` | SI | 2026-08-03 |
 | Teleport Animation | `teleport_animation` | `teleport_animation-26.2-neoforge-1.0.1.jar` | `1.0.1` | PROPIO | 2026-08-03 |
-| The Birth of Steve | `tbos` | `tbos-neoforge-26.2-0.4.0.jar` | `0.4.0` | PENDIENTE | 2026-08-03 |
+| The Birth of Steve | `tbos` | `tbos-neoforge-26.2-0.4.0.jar` | `0.4.0` | SI | 2026-08-03 |
 | The Lost City | `the_lost_city` | `the_lost_city-1.4.1-neoforge-1.26.1.jar` | `1.4.1` | PENDIENTE | 2026-08-03 |
 | TNT Foundry | `tntfoundry` | `tntfoundry-1.0.0.jar` | `1.0.0` | PENDIENTE | 2026-08-03 |
 | Tom's Simple Storage Mod | `toms_storage` | `toms_storage-26.2-2.11.1.jar` | `2.11.1` | PENDIENTE | 2026-08-03 |
