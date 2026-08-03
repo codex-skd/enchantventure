@@ -11,7 +11,8 @@
 | **Project Name** | `EnchantVenture Translations` |
 | **Slug / URL** | `enchantventure-translations` (o el que sugiera CurseForge si está ocupado) |
 | **Summary** (línea corta, ~1 frase) | `Spanish (es_ES) translations for mods in the EnchantVenture modpack that don't ship their own.` |
-| **Category** | Resource Packs |
+| **Project Type** | Resource Packs |
+| **Category** | Miscellaneous (no es Data Packs ni Font Packs — este pack solo trae `lang/es_es.json`; si el desplegable ofrece algo más específico tipo "Language"/"Localization", usar esa en su lugar) |
 | **Client / Server** | Client |
 | **Project License** | All Rights Reserved |
 | **Description** | Pegar el HTML completo de [`project_description.md`](project_description.md) en el editor (modo HTML/source, no el WYSIWYG en markdown) |
