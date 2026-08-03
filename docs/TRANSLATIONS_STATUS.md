@@ -27,7 +27,7 @@
 > `apexcore`, `jade`, `justenoughprofessions`) declaran la versión como `${file.jarVersion}` en su manifest
 > (variable que solo se resuelve al compilar) — para esos se usó la versión visible en el nombre del archivo.
 
-Total: 150 mods · 49 ya con `es_ES` · 45 pendientes (con texto real que traducir) · 44 sin `lang/` (nada que
+Total: 150 mods · 54 ya con `es_ES` · 40 pendientes (con texto real que traducir) · 44 sin `lang/` (nada que
 traducir) · 12 propios (fuera de alcance de este repo).
 
 | Mod | modid | Archivo | Versión | Estado | Última revisión |
@@ -89,14 +89,14 @@ traducir) · 12 propios (fuera de alcance de este repo).
 | Formations | `formations` | `formations-1.0.4-neoforge-mc26.2.jar` | `1.0.4` | SI | 2026-08-03 |
 | Formations Nether | `formationsnether` | `formationsnether-1.0.5a-mc1.21+.jar` | `1.0.5+a` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Formations Overworld | `formationsoverworld` | `formationsoverworld-1.0.5a-mc1.21+.jar` | `1.0.5+a` | N/A (sin lang/ en el jar) | 2026-08-03 |
-| Fusion | `fusion` | `fusion-1.3.12-neoforge-mc26.2.jar` | `1.3.12` | PENDIENTE | 2026-08-03 |
+| Fusion | `fusion` | `fusion-1.3.12-neoforge-mc26.2.jar` | `1.3.12` | SI | 2026-08-03 |
 | Gateway of Doom | `gateway_of_doom` | `gatewayofdoom-neoforge-26.2-2.1.1.jar` | `2.1.1` | SI | 2026-08-03 |
-| Gateway of Doom X Xaero's World Map | `gateway_of_doom_x_xaeros_world_map` | `gateway_of_doom_x_xaeros_world_map-neoforge-26.2-1.0.0.jar` | `1.0.0` | PENDIENTE | 2026-08-03 |
+| Gateway of Doom X Xaero's World Map | `gateway_of_doom_x_xaeros_world_map` | `gateway_of_doom_x_xaeros_world_map-neoforge-26.2-1.0.0.jar` | `1.0.0` | SI | 2026-08-03 |
 | GeckoLib 5 | `geckolib` | `geckolib-neoforge-26.2-5.5.3.jar` | `5.5.3` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | GlitchCore | `glitchcore` | `GlitchCore-neoforge-26.2-26.2.0.0.0.jar` | `26.2.0.0.0` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Gpu memory leak fix | `gpumemleakfix` | `gpumemleakfix-26.1-1.9.jar` | `1.9` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Grim kingdoms: structures & ruins | `mr_grim_kingdomsloststructuresruins` | `grim-kingdoms-lost-structures-ruins-2.0.3.jar` | `2.0.3` | N/A (sin lang/ en el jar) | 2026-08-03 |
-| Hammers and Excavators | `hammersandexcavators` | `hammersandexcavators-1.0.3-26.2.jar` | `1.0.3-26.2` | PENDIENTE | 2026-08-03 |
+| Hammers and Excavators | `hammersandexcavators` | `hammersandexcavators-1.0.3-26.2.jar` | `1.0.3-26.2` | SI | 2026-08-03 |
 | HopoBetterMineshaft | `hopo` | `HopoBetterMineshaft-[26.2]-1.3.7.jar` | `1.3.7` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | HopoBetterRuinedPortals | `hoporp` | `HopoBetterRuinedPortals-[26.2]-1.5.1.jar` | `1.5.1` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | HopoBetterUnderwaterRuins | `hopour` | `HopoBetterUnderwaterRuins-[26.2]-1.2.8.jar` | `1.2.8` | N/A (sin lang/ en el jar) | 2026-08-03 |
@@ -104,12 +104,12 @@ traducir) · 12 propios (fuera de alcance de este repo).
 | ImmediatelyFast | `immediatelyfast` | `ImmediatelyFast-NeoForge-1.16.2+26.2.jar` | `1.16.2+26.2` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Immersive Armors | `immersive_armors` | `immersive_armors-1.8.2+26.2-neoforge.jar` | `1.8.2+26.2` | SI | 2026-08-03 |
 | Info TAB | `info_tab` | `info_tab-26.2-neoforge-1.0.0.jar` | `1.0.0` | PROPIO | 2026-08-03 |
-| Inventory Essentials | `inventoryessentials` | `inventoryessentials-neoforge-26.2-26.2.0.3.jar` | `26.2.0.3` | PENDIENTE | 2026-08-03 |
+| Inventory Essentials | `inventoryessentials` | `inventoryessentials-neoforge-26.2-26.2.0.3.jar` | `26.2.0.3` | SI | 2026-08-03 |
 | Iris | `iris` | `iris-neoforge-1.11.2+mc26.2.jar` | `1.11.2+mc26.2` | SI | 2026-08-03 |
 | Iris Shader Folder | `iris_shader_folder` | `iris_shader_folder-1.4.1-neoforge.jar` | `1.4.1-neoforge` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | It Takes a Pillage Continuation | `takesapillage` | `takesapillage-neoforge-1.0.12+mc26.2.jar` | `1.0.12` | PENDIENTE | 2026-08-03 |
 | Jade | `jade` | `Jade-mc26.2-NeoForge-26.2.8.jar` | `26.2.8` (del nombre de archivo, el manifest no resuelve la variable) | SI | 2026-08-03 |
-| JamLib | `jamlib` | `jamlib-neoforge-2.3.1+26.2.x.jar` | `2.3.1+26.2.x` | PENDIENTE | 2026-08-03 |
+| JamLib | `jamlib` | `jamlib-neoforge-2.3.1+26.2.x.jar` | `2.3.1+26.2.x` | SI | 2026-08-03 |
 | Just Enough Items | `jei` | `jei-26.2-neoforge-30.15.0.121.jar` | `30.15.0.121` | SI | 2026-08-03 |
 | Just Enough Professions (JEP) | `justenoughprofessions` | `JustEnoughProfessions-neoforge-26.2-12.0.0.jar` | `12.0.0` (del nombre de archivo, el manifest no resuelve la variable) | PENDIENTE | 2026-08-03 |
 | Kenny | `kenny` | `Kenny-6.0.0-neoforge+mc26.2.jar` | `6.0.0` | PENDIENTE | 2026-08-03 |
