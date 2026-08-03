@@ -27,7 +27,7 @@
 > `apexcore`, `jade`, `justenoughprofessions`) declaran la versión como `${file.jarVersion}` en su manifest
 > (variable que solo se resuelve al compilar) — para esos se usó la versión visible en el nombre del archivo.
 
-Total: 150 mods · 84 ya con `es_ES` · 10 pendientes (con texto real que traducir) · 44 sin `lang/` (nada que
+Total: 150 mods · 89 ya con `es_ES` · 5 pendientes (con texto real que traducir) · 44 sin `lang/` (nada que
 traducir) · 12 propios (fuera de alcance de este repo).
 
 | Mod | modid | Archivo | Versión | Estado | Última revisión |
@@ -163,14 +163,14 @@ traducir) · 12 propios (fuera de alcance de este repo).
 | SuperMartijn642's Core Lib | `supermartijn642corelib` | `supermartijn642corelib-1.1.22a-neoforge-mc26.2.jar` | `1.1.22+a` | SI | 2026-08-03 |
 | Teleport Animation | `teleport_animation` | `teleport_animation-26.2-neoforge-1.0.1.jar` | `1.0.1` | PROPIO | 2026-08-03 |
 | The Birth of Steve | `tbos` | `tbos-neoforge-26.2-0.4.0.jar` | `0.4.0` | SI | 2026-08-03 |
-| The Lost City | `the_lost_city` | `the_lost_city-1.4.1-neoforge-1.26.1.jar` | `1.4.1` | PENDIENTE | 2026-08-03 |
-| TNT Foundry | `tntfoundry` | `tntfoundry-1.0.0.jar` | `1.0.0` | PENDIENTE | 2026-08-03 |
-| Tom's Simple Storage Mod | `toms_storage` | `toms_storage-26.2-2.11.1.jar` | `2.11.1` | PENDIENTE | 2026-08-03 |
+| The Lost City | `the_lost_city` | `the_lost_city-1.4.1-neoforge-1.26.1.jar` | `1.4.1` | SI | 2026-08-03 |
+| TNT Foundry | `tntfoundry` | `tntfoundry-1.0.0.jar` | `1.0.0` | SI | 2026-08-03 |
+| Tom's Simple Storage Mod | `toms_storage` | `toms_storage-26.2-2.11.1.jar` | `2.11.1` | SI | 2026-08-03 |
 | Tower Waystone | `tower_waystone` | `tower_waystone-26.2-neoforge-1.0.1.jar` | `1.0.1` | PROPIO | 2026-08-03 |
 | Towns and Towers | `t_and_t` | `t_and_t-fabric-neoforge-1.13.11.jar` | `1.13.11` | N/A (sin lang/ en el jar) | 2026-08-03 |
-| UI Lib | `uilib` | `uilib-neoforge-21.1.1.jar` | `21.1.1` | PENDIENTE | 2026-08-03 |
+| UI Lib | `uilib` | `uilib-neoforge-21.1.1.jar` | `21.1.1` | SI | 2026-08-03 |
 | Universal Bone Meal | `universalbonemeal` | `UniversalBoneMeal-v26.2.0-mc26.2.x-NeoForge.jar` | `26.2.0` | N/A (sin lang/ en el jar) | 2026-08-03 |
-| Universal Enchantment Info | `uei` | `UniversalEnchantmentInfo-26.2-neoforge-1.2.0.jar` | `1.2.0` | PENDIENTE | 2026-08-03 |
+| Universal Enchantment Info | `uei` | `UniversalEnchantmentInfo-26.2-neoforge-1.2.0.jar` | `1.2.0` | SI | 2026-08-03 |
 | Utility Core | `utility_core` | `utility_core-26.2-neoforge-1.11.0.jar` | `1.11.0` | PROPIO | 2026-08-03 |
 | Variants&Ventures | `variantsandventures` | `variantsandventures-neoforge-1.0.26+mc26.2.jar` | `1.0.26` | PENDIENTE | 2026-08-03 |
 | Visual Workbench | `visualworkbench` | `VisualWorkbench-v26.2.1-mc26.2.x-NeoForge.jar` | `26.2.1` | PENDIENTE | 2026-08-03 |

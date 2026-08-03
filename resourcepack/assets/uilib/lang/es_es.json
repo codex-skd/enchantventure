@@ -1,0 +1,15 @@
+{
+  "uilib.widget.validation_errors": "Errores de Validación",
+  "uilib.widget.validation_error.min_length": "Este campo debe tener al menos %s caracteres",
+  "uilib.widget.validation_error.max_length": "Este campo debe tener como máximo %s caracteres",
+  "uilib.widget.validation_error.pattern": "Este campo debe coincidir con el patrón: '%s'",
+  "uilib.widget.validation_error.valid_values": "Este campo debe tener uno de los siguientes valores: %s",
+  "uilib.widget.validation_error.min_value": "Este campo debe ser como mínimo %s",
+  "uilib.widget.validation_error.max_value": "Este campo debe ser como máximo %s",
+  "uilib.widget.validation_error.invalid_number": "Este campo debe ser un número",
+  "uilib.widget.validation_error.invalid_date_time": "Este campo debe seguir el formato: '%s'",
+  "uilib.widget.validation_error.invalid_resource_location": "Este campo debe ser una ubicación de recursos válida",
+  "uilib.widget.validation_error.invalid_registry_value": "Este valor de este campo no está en el registro",
+  "uilib.widget.validation_error.duplicate_key": "Esta clave ya está en uso",
+  "uilib.widget.validation_error.empty_key": "Este campo no puede estar vacío"
+}
