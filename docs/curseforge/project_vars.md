@@ -2,8 +2,8 @@
 
 > **Pendiente de creación.** El proyecto de CurseForge para "EnchantVenture Translations" todavía no existe.
 > Hay que crearlo manualmente en la web (logo, summary, descripción general del resource pack) antes de
-> poder subir la primera versión. Ver tarea "0. CurseForge — creación del proyecto" en
-> `docs/WORKFLOW_ENCHANTVENTURE_TRANSLATIONS_26-2.md`.
+> poder subir la primera versión. Checklist con todos los campos listos para copiar/pegar:
+> [`create_project_form.md`](create_project_form.md).
 
 ## Proyecto
 
