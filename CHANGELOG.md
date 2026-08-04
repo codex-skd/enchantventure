@@ -9,6 +9,11 @@ y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ### Cambiado
 
+- Auditoría completa de cobertura de las traducciones (2026-08-04): se verificó que el `es_es.json` del
+  jar o el override de este resource pack cubren el 100% de las claves de `en_us.json` para todos los
+  mods, que ningún `es_es` es una copia idéntica del inglés y que los `modid` anotados coinciden con el
+  namespace real usado por el jar. Se corrigieron `modid`: `ancient_artifacts_mod`→`ancient_artifacts`
+  y los mods de Dungeons and Taverns (`mr_dungeons_andtaverns*`→`dnt`).
 - `docs/TRANSLATIONS_STATUS.md` regenerado leyendo el manifest real de cada JAR (`neoforge.mods.toml` /
   `mods.toml` / `fabric.mod.json`) en vez de solo el nombre de archivo: ahora añade `modid` y nombre
   legible del mod, y clasifica los 12 mods propios de Stalking Dragons como `PROPIO` de forma consistente
@@ -17,6 +22,24 @@ y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
   actualizaciones de mods en revisiones futuras.
 - Proyecto CurseForge creado (`project_id` 1638251, categoría `Data Packs` dentro de la clase Resource
   Packs) y logo (`resourcepack/pack.png`) integrado.
+
+### Añadido
+
+- **Overrides de completado de cobertura** (mods cuyo `es_es.json` propio era parcial o inexistente):
+  EvilCraft (628 claves + 29 de `evilcraftcompat`), Better Combat (21), Configured (10), Corail
+  Tombstone (142), Curios (12), Cyclops Core (42, el jar traía un `es_es.json` vacío), Ecologics (7),
+  EnchantmentDescriptions (70), Iris (12), Jade (1), Just Enough Items (183), Mutant Monsters (41),
+  Nature's Compass (1), Repurposed Structures (2), Sodium Extra (40), Sophisticated Backpacks (143),
+  Sophisticated Core (15), Sophisticated Storage (116), Waystones (263), Xaero's Minimap (523) +
+  Xaero's Better PVP (18), y el namespace `dnt` de Dungeons and Taverns (444 claves en total).
+- **Override de `assets/minecraft/lang/es_es.json`** (nuevo namespace `minecraft` en este repo):
+  traducción real al español de las claves que Ancient Artifacts 2 inyecta en `minecraft` con contenido
+  idéntico al inglés (mensajes de muerte, sonidos de `entity.artifact_golem.*`/`entity.player.timewarp.*`,
+  pociones de "Expansión"/"Antigravedad") y de las pociones de Dungeons and Taverns
+  (`item.minecraft.*.effect.dnt_*`).
+- `docs/TRANSLATIONS_STATUS.md` con los hallazgos de la auditoría y la limitación documentada de
+  Ancient Artifacts 2 (nombres de ítems en inglés por texto duro en el datapack, no traducible vía
+  resourcepack estándar).
 
 ## [0.0.0-beta.13] - 2026-08-03
 
