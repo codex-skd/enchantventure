@@ -56,7 +56,8 @@ completados vía override de este resource pack (su `es_ES` propio era parcial o
 | Advanced Netherite | `advancednetherite` | `advancednetherite-neoforge-2.4.2-26.2.jar` | `2.4.2` | SI | 2026-08-03 |
 | Ageforged Armor | `ageforged_armor` | `ageforged_armor-26.2-neoforge-1.1.3.jar` | `1.1.3` | PROPIO | 2026-08-03 |
 | AI-Improvements | `aiimprovements` | `AI-Improvements-26.1.1-0.5.4.jar` | `0.5.4` (del nombre de archivo, el manifest no resuelve la variable) | N/A (sin lang/ en el jar) | 2026-08-03 |
-| Ancient Artifacts 2 | `ancient_artifacts` | `Ancient Artifacts 2 V2.5.5g for 1.21.6-26.2.jar` | `2.5.5g` | SI (override en `minecraft`, ver nota) | 2026-08-04 || ApexCore | `apexcore` | `apexcore-26.2.0.jar` | `26.2.0` (del nombre de archivo, el manifest no resuelve la variable) | SI | 2026-08-03 |
+| Ancient Artifacts 2 | `ancient_artifacts` | `Ancient Artifacts 2 V2.5.5g for 1.21.6-26.2.jar` | `2.5.5g` | SI (override en `minecraft`, ver nota) | 2026-08-04 |
+| ApexCore | `apexcore` | `apexcore-26.2.0.jar` | `26.2.0` (del nombre de archivo, el manifest no resuelve la variable) | SI | 2026-08-03 |
 | Architectury | `architectury` | `architectury-neoforge-21.0.6.jar` | `21.0.6` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Armor Cosmetic | `armor_cosmetic` | `armor_cosmetic-26.2-neoforge-1.0.3.jar` | `1.0.3` | PROPIO | 2026-08-03 |
 | AttributeFix | `attributefix` | `AttributeFix-neoforge-MC26.2-26.2.0.1.jar` | `26.2.0.1` | N/A (sin lang/ en el jar) | 2026-08-03 |
