@@ -440,8 +440,8 @@
     "semantic_hash": ""
   },
   "CHANGELOG.md": {
-    "mtime": 1785878165.7573495,
-    "ast_hash": "82881fdf10a2e82b09ad1f5fefdbecf9",
+    "mtime": 1785879741.4379315,
+    "ast_hash": "2df2dbe855ecf9f61b6f53345f8b9151",
     "semantic_hash": ""
   },
   "README.md": {
@@ -450,8 +450,8 @@
     "semantic_hash": ""
   },
   "docs/TRANSLATIONS_STATUS.md": {
-    "mtime": 1785872495.5244782,
-    "ast_hash": "0e6668663a98f8b6f4ed0b397a966264",
+    "mtime": 1785878949.63697,
+    "ast_hash": "56b97968bf3d7b8491982146c9b8f627",
     "semantic_hash": ""
   },
   "docs/WORKFLOW_ENCHANTVENTURE_TRANSLATIONS_26-2.md": {
@@ -545,13 +545,28 @@
     "semantic_hash": ""
   },
   "version.txt": {
-    "mtime": 1785878159.9171104,
-    "ast_hash": "7eebcae467bd473f1a12045597bdfeb7",
+    "mtime": 1785879738.4353309,
+    "ast_hash": "25dc84e9eb72ef054097db540dae6f66",
     "semantic_hash": ""
   },
   "resourcepack/pack.png": {
     "mtime": 1785789411.3622534,
     "ast_hash": "7b8b641244aa39fc3d523407ff54e199",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/better_party_x_waystones/lang/es_es.json": {
+    "mtime": 1785878826.7346935,
+    "ast_hash": "b669a41ff9d3584dae448750a1d13509",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/sophisticatedinventoryinteractions/lang/es_es.json": {
+    "mtime": 1785878837.120272,
+    "ast_hash": "faeb216f278cd5a12b62cb47cccee7c0",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/0.0.0-beta.15.md": {
+    "mtime": 1785879748.758204,
+    "ast_hash": "216b7fb233f5e02c4b3eb44337b948e2",
     "semantic_hash": ""
   }
 }
