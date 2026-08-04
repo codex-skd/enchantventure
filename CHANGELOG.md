@@ -5,7 +5,7 @@ Todos los cambios notables de EnchantVenture Translations se documentan en este 
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Sin publicar]
+## [0.0.0-beta.15] - 2026-08-04
 
 ### Añadido
 
