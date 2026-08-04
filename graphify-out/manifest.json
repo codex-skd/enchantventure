@@ -313,5 +313,245 @@
     "mtime": 1785782792.7322662,
     "ast_hash": "da7cb8a6685e7fe124c74d87c18ca8a6",
     "semantic_hash": "da7cb8a6685e7fe124c74d87c18ca8a6"
+  },
+  "resourcepack/assets/bettercombat/lang/es_es.json": {
+    "mtime": 1785871459.3817127,
+    "ast_hash": "05b4c246cd6d29beb1177721aa0da814",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/configured/lang/es_es.json": {
+    "mtime": 1785871401.21804,
+    "ast_hash": "912e821661d9811f4258158f8ee0e4d5",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/curios/lang/es_es.json": {
+    "mtime": 1785871459.3781095,
+    "ast_hash": "7406b142f594ec513f1a55d6bf36f673",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/cyclopscore/lang/es_es.json": {
+    "mtime": 1785871504.92912,
+    "ast_hash": "7513c8991108b4617200c2917cccd244",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/dnt/lang/es_es.json": {
+    "mtime": 1785871428.9709442,
+    "ast_hash": "2fead589c3200388f7b73f54575392fc",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/ecologics/lang/es_es.json": {
+    "mtime": 1785871401.21804,
+    "ast_hash": "4242c3316ea152c1855b5cd891715c88",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/enchdesc/lang/es_es.json": {
+    "mtime": 1785871504.9308352,
+    "ast_hash": "60c0d561c14fde9121e2d98baf26bd6b",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/evilcraft/lang/es_es.json": {
+    "mtime": 1785870900.1432629,
+    "ast_hash": "f3eccfca36f1f9ad1894afdae5c4234f",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/evilcraftcompat/lang/es_es.json": {
+    "mtime": 1785870925.515804,
+    "ast_hash": "2d3b560da88cc76187dbcbf4097b579d",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/iris/lang/es_es.json": {
+    "mtime": 1785871459.380195,
+    "ast_hash": "a21ec3f9923fb03b366f06482d6857c4",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/jade/lang/es_es.json": {
+    "mtime": 1785871607.1702344,
+    "ast_hash": "f33707cd1015ee8cf19ff009698f535f",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/jei/lang/es_es.json": {
+    "mtime": 1785871862.0519152,
+    "ast_hash": "2affa99ae22c32531c79982d388a9d53",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/minecraft/lang/es_es.json": {
+    "mtime": 1785871667.476447,
+    "ast_hash": "680164a7b6afa0bf270c355982861a20",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/mutantmonsters/lang/es_es.json": {
+    "mtime": 1785871629.0985627,
+    "ast_hash": "c24f34826f49c61c97563e877ddc76f7",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/naturescompass/lang/es_es.json": {
+    "mtime": 1785871401.2144437,
+    "ast_hash": "a61de568d9f8b14cd284728167ea6d34",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/repurposed_structures/lang/es_es.json": {
+    "mtime": 1785871401.21596,
+    "ast_hash": "d6e385641509156a77625adc935c3ead",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/sodium-extra/lang/es_es.json": {
+    "mtime": 1785871539.9806302,
+    "ast_hash": "b9ee65071c7dd5693fb288d5efaaf1ea",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/sophisticatedbackpacks/lang/es_es.json": {
+    "mtime": 1785871782.671317,
+    "ast_hash": "58ad9ac8a4e7dad1a24695c53b9384e3",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/sophisticatedcore/lang/es_es.json": {
+    "mtime": 1785871459.3817127,
+    "ast_hash": "b01d5e49cdc0522579bed99e25bc96ef",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/sophisticatedstorage/lang/es_es.json": {
+    "mtime": 1785871814.786537,
+    "ast_hash": "bc40f9e0f953446ef5bf7b03fd9fa9fe",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/tombstone/lang/es_es.json": {
+    "mtime": 1785871744.0908387,
+    "ast_hash": "db91b91b6d23872a158a3a20dd27a122",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/waystones/lang/es_es.json": {
+    "mtime": 1785871936.4840946,
+    "ast_hash": "f19992e6de9103579229aa2e81084156",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/xaerobetterpvp/lang/es_es.json": {
+    "mtime": 1785871706.501707,
+    "ast_hash": "c384ea4e241b28b21aab169f4ef6e8aa",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/xaerominimap/lang/es_es.json": {
+    "mtime": 1785872062.8917468,
+    "ast_hash": "c22c44ee9c063dec1d39eff928e6478a",
+    "semantic_hash": ""
+  },
+  ".gitlab-ci.yml": {
+    "mtime": 1785801080.8473463,
+    "ast_hash": "3945c7c6eeaacdbdc16f6a498152f401",
+    "semantic_hash": ""
+  },
+  "CHANGELOG.md": {
+    "mtime": 1785878165.7573495,
+    "ast_hash": "82881fdf10a2e82b09ad1f5fefdbecf9",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1785782946.722438,
+    "ast_hash": "c7d1d2beb6596a23eda30b36881abaf6",
+    "semantic_hash": ""
+  },
+  "docs/TRANSLATIONS_STATUS.md": {
+    "mtime": 1785872495.5244782,
+    "ast_hash": "0e6668663a98f8b6f4ed0b397a966264",
+    "semantic_hash": ""
+  },
+  "docs/WORKFLOW_ENCHANTVENTURE_TRANSLATIONS_26-2.md": {
+    "mtime": 1785789461.1445334,
+    "ast_hash": "4ce62a097b5c1acf88837008abeeeadd",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/create_project_form.md": {
+    "mtime": 1785789453.9641595,
+    "ast_hash": "abfc6a90907f81d7b7a74c8b49c88aff",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/project_description.md": {
+    "mtime": 1785782820.2587025,
+    "ast_hash": "a740f1593ebb940b85085d7fe928ad53",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/project_vars.md": {
+    "mtime": 1785789437.7184205,
+    "ast_hash": "1437b3ff4b183ba1d6c4e2708a20266c",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/0.0.0-beta.1.md": {
+    "mtime": 1785782824.2827995,
+    "ast_hash": "12cdae3340c3186550ca715cf32c5a11",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/0.0.0-beta.10.md": {
+    "mtime": 1785794890.9613287,
+    "ast_hash": "a9876637f71803e9e9543c2e8b2ad3a1",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/0.0.0-beta.11.md": {
+    "mtime": 1785794925.1746116,
+    "ast_hash": "0072540b542d23972576c74bd93ccfd6",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/0.0.0-beta.12.md": {
+    "mtime": 1785794959.376571,
+    "ast_hash": "90677d7183618a3a4b735bbf7a8a20fe",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/0.0.0-beta.13.md": {
+    "mtime": 1785794996.8826847,
+    "ast_hash": "a3f5eb254a5eee2d9860d23582f55ed7",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/0.0.0-beta.14.md": {
+    "mtime": 1785878185.317999,
+    "ast_hash": "ca2a2f126762761e310b714c6ca0bcda",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/0.0.0-beta.2.md": {
+    "mtime": 1785793293.8148477,
+    "ast_hash": "d56e1ad28284695cfc55a618b41a6100",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/0.0.0-beta.3.md": {
+    "mtime": 1785793513.6880198,
+    "ast_hash": "b784afc40acd8dbfc335ca28cee08d51",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/0.0.0-beta.4.md": {
+    "mtime": 1785794676.8598056,
+    "ast_hash": "a9a16b4d45210b00e5b4df4dbe56f242",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/0.0.0-beta.5.md": {
+    "mtime": 1785794716.8881228,
+    "ast_hash": "ded2b7d561c9704ced925c88880d9406",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/0.0.0-beta.6.md": {
+    "mtime": 1785794754.5632458,
+    "ast_hash": "0f0df9d543d074181fad6f14e2f27f2c",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/0.0.0-beta.7.md": {
+    "mtime": 1785794788.5172706,
+    "ast_hash": "71b64b4b86c8acc8404fcbb98042b3ac",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/0.0.0-beta.8.md": {
+    "mtime": 1785794823.4106548,
+    "ast_hash": "4187a25e777c31a64114c1a3d7f1cea5",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/0.0.0-beta.9.md": {
+    "mtime": 1785794856.3679762,
+    "ast_hash": "c0df811b0327a0f96a5c49987e086456",
+    "semantic_hash": ""
+  },
+  "version.txt": {
+    "mtime": 1785878159.9171104,
+    "ast_hash": "7eebcae467bd473f1a12045597bdfeb7",
+    "semantic_hash": ""
+  },
+  "resourcepack/pack.png": {
+    "mtime": 1785789411.3622534,
+    "ast_hash": "7b8b641244aa39fc3d523407ff54e199",
+    "semantic_hash": ""
   }
 }
