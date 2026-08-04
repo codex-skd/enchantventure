@@ -1,10 +1,15 @@
 # Estado de traducciones — EnchantVenture Translations
 
 > Generado leyendo el manifest real de cada JAR (`META-INF/neoforge.mods.toml` / `mods.toml` /
-> `fabric.mod.json`) en `C:\Users\llagu\curseforge\minecraft\Instances\EnchantVenture\mods` (150 jars),
+> `fabric.mod.json`) en `C:\Users\llagu\curseforge\minecraft\Instances\EnchantVenture\mods` (154 jars),
 > el 2026-08-03. Auditoría completa de cobertura el 2026-08-04: se verificó que el `es_es` del jar o el
 > override de este resource pack cubren el 100% de las claves de `en_us.json`, que ningún `es_es` es una
 > copia idéntica del inglés y que los `modid` anotados coinciden con el namespace real usado por el jar.
+> Revisión de mods nuevos/actualizados en la instancia el 2026-08-04 (misma fecha): 5 mods nuevos
+> (AppleSkin, Better Party X Waystones, Configurable, Sophisticated Inventory Interactions, TT20) y 6
+> mods ya trackeados que subieron de versión (Armor Cosmetic, Berezka API, Carry Mechanics, Equivalent
+> Legacy, Tower Waystone, Warlockery — los `PROPIO` no requieren trabajo aquí, los `SI` se revisaron y
+> siguen cubiertos al 100%).
 >
 > - `SI` = el mod ya trae `lang/es_es.json` propio, no requiere trabajo aquí.
 > - `PENDIENTE` = falta `es_es.json` y el mod SÍ tiene claves de texto (`lang/en_us.json`) — candidato real
@@ -47,35 +52,40 @@
 > `apexcore`, `jade`, `justenoughprofessions`) declaran la versión como `${file.jarVersion}` en su manifest
 > (variable que solo se resuelve al compilar) — para esos se usó la versión visible en el nombre del archivo.
 
-Total: 150 mods · 94 ya con `es_ES` · 0 pendientes (con texto real que traducir) · 44 sin `lang/` (nada que
+Total: 154 mods · 96 ya con `es_ES` · 0 pendientes (con texto real que traducir) · 46 sin `lang/` (nada que
 traducir) · 12 propios (fuera de alcance de este repo). Tras la auditoría de 2026-08-04, 23 mods quedaron
-completados vía override de este resource pack (su `es_ES` propio era parcial o inexistente).
+completados vía override de este resource pack (su `es_ES` propio era parcial o inexistente). Revisión de
+mods nuevos del 2026-08-04: Better Party X Waystones (48 claves) y Sophisticated Inventory Interactions
+(27 claves) se completaron también vía override; AppleSkin ya traía su propio `es_es.json` completo.
 
 | Mod | modid | Archivo | Versión | Estado | Última revisión |
 |---|---|---|---|---|---|
 | Advanced Netherite | `advancednetherite` | `advancednetherite-neoforge-2.4.2-26.2.jar` | `2.4.2` | SI | 2026-08-03 |
 | Ageforged Armor | `ageforged_armor` | `ageforged_armor-26.2-neoforge-1.1.3.jar` | `1.1.3` | PROPIO | 2026-08-03 |
 | AI-Improvements | `aiimprovements` | `AI-Improvements-26.1.1-0.5.4.jar` | `0.5.4` (del nombre de archivo, el manifest no resuelve la variable) | N/A (sin lang/ en el jar) | 2026-08-03 |
+| AppleSkin | `appleskin` | `appleskin-neoforge-mc26.2-3.0.10.jar` | `3.0.10` | SI | 2026-08-04 |
 | Ancient Artifacts 2 | `ancient_artifacts` | `Ancient Artifacts 2 V2.5.5g for 1.21.6-26.2.jar` | `2.5.5g` | SI (override en `minecraft`, ver nota) | 2026-08-04 |
 | ApexCore | `apexcore` | `apexcore-26.2.0.jar` | `26.2.0` (del nombre de archivo, el manifest no resuelve la variable) | SI | 2026-08-03 |
 | Architectury | `architectury` | `architectury-neoforge-21.0.6.jar` | `21.0.6` | N/A (sin lang/ en el jar) | 2026-08-03 |
-| Armor Cosmetic | `armor_cosmetic` | `armor_cosmetic-26.2-neoforge-1.0.3.jar` | `1.0.3` | PROPIO | 2026-08-03 |
+| Armor Cosmetic | `armor_cosmetic` | `armor_cosmetic-26.2-neoforge-1.0.4.jar` | `1.0.4` | PROPIO | 2026-08-04 |
 | AttributeFix | `attributefix` | `AttributeFix-neoforge-MC26.2-26.2.0.1.jar` | `26.2.0.1` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Balm | `balm` | `balm-neoforge-26.2-26.2.0.5.jar` | `26.2.0.5` | SI | 2026-08-03 |
-| Berezka API | `berezka_api` | `berezka_api-1.2.9.5-beta.3-neoforge-1.26.2.jar` | `1.2.9.5-beta.3` | SI | 2026-08-03 |
+| Berezka API | `berezka_api` | `berezka_api-1.2.9.5-beta.4-neoforge-1.26.2.jar` | `1.2.9.5-beta.4` | SI (override) | 2026-08-04 |
 | Better Combat | `bettercombat` | `bettercombat-neoforge-3.2.2+26.2.jar` | `3.2.2` | SI (override) | 2026-08-04 |
 | Better Compatibility Checker | `bcc` | `better-compatability-checker-neoforge-26.2.0.1.jar` | `26.2.0.1` | SI | 2026-08-03 |
 | Better Connections | `better_connections` | `better_connections-26.2-neoforge-1.0.0.jar` | `1.0.0` | PROPIO | 2026-08-03 |
 | Better Party | `better_party` | `better-party-neoforge-26.2-1.1.1.jar` | `1.1.1` | SI | 2026-08-03 |
+| Better Party X Waystones | `better_party_x_waystones` | `better-party-x-waystones-neoforge-26.2-1.0.0.jar` | `1.0.0` | SI (override) | 2026-08-04 |
 | Better Party X Xaero's World Map | `better_party_x_xaeros_world_map` | `better-party-x-xaeros-world-map-neoforge-26.2-1.0.0.jar` | `1.0.0` | SI | 2026-08-03 |
 | Better Villager Animations | `bettervillageranimations` | `better-villager-animations-neoforge-26.2.jar` | `1.0.0` | SI | 2026-08-03 |
 | Bridging Mod | `bridgingmod` | `BridgingMod-2.7.0+26.2.neoforge-release.jar` | `2.7.0+26.2` | SI | 2026-08-03 |
-| Carry Mechanics | `carry_mechanics` | `carry_mechanics-26.2-neoforge-1.0.4.jar` | `1.0.4` | PROPIO | 2026-08-03 |
+| Carry Mechanics | `carry_mechanics` | `carry_mechanics-26.2-neoforge-1.0.6.jar` | `1.0.6` | PROPIO | 2026-08-04 |
 | clientcrafting mod | `clientcrafting` | `clientcrafting-26.1-2.1.jar` | `2.1` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Cloth Config v26.2 API | `cloth_config` | `cloth-config-26.2.155.jar` | `26.2.155` | SI | 2026-08-03 |
 | CoK_Tools | `coktools` | `CoKTools-Neoforge-mc26.2-26.2.0.2.jar` | `26.2.0.2` | SI | 2026-08-03 |
 | Complementary Core | `complementary_core` | `cc-2.3.1-neoforge_1.21.5-26.1.2.jar` | `2.3.1` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Complementary Structures: Towers | `cs_towers` | `cs_towers-0.2.0-neoforge_1.21.x.jar` | `0.2.0` | N/A (sin lang/ en el jar) | 2026-08-03 |
+| Configurable | `configurable` | `configurable-3.5.2+26.2-neoforge.jar` | `3.5.2+26.2` | N/A (sin lang/ en el jar) | 2026-08-04 |
 | Configured | `configured` | `configured-neoforge-26.2-2.7.5.jar` | `2.7.5` | SI (override) | 2026-08-04 |
 | Connected Glass | `connectedglass` | `connectedglass-1.1.14-neoforge-mc26.2.jar` | `1.1.14` | SI | 2026-08-03 |
 | Connectivity Mod | `connectivity` | `connectivity-26.1-7.6.jar` | `7.6` | N/A (sin lang/ en el jar) | 2026-08-03 |
@@ -98,7 +108,7 @@ completados vía override de este resource pack (su `es_ES` propio era parcial o
 | Ecologics | `ecologics` | `Ecologics-NeoFab-26.2-2.6.0.jar` | `2.6.0` | SI (override) | 2026-08-04 |
 | Enchanted Adventure | `adventureenchanting` | `adventureenchanting-0.1.0.jar` | `0.1.0` | SI | 2026-08-03 |
 | EnchantmentDescriptions | `enchdesc` | `EnchantmentDescriptions-neoforge-MC26.2-26.2.0.1.jar` | `26.2.0.1` | SI (override) | 2026-08-04 |
-| Equivalent Legacy | `equivalent_legacy` | `equivalent_legacy-26.2-neoforge-1.0.2.jar` | `1.0.2` | PROPIO | 2026-08-03 |
+| Equivalent Legacy | `equivalent_legacy` | `equivalent_legacy-26.2-neoforge-1.1.0.jar` | `1.1.0` | PROPIO | 2026-08-04 |
 | EvilCraft | `evilcraft` | `evilcraft-26.2-neoforge-1.2.98-1004.jar` | `1.2.98-1004` | SI (override) | 2026-08-04 |
 | Explorer's Compass | `explorerscompass` | `ExplorersCompass-26.2-3.3.0-neoforge.jar` | `26.2-3.3.0-neoforge` | SI | 2026-08-03 |
 | FallingTree | `fallingtree` | `FallingTree-26.2-25.jar` | `25` | SI | 2026-08-03 |
@@ -177,6 +187,7 @@ completados vía override de este resource pack (su `es_ES` propio era parcial o
 | Sodium Extra | `sodium-extra` | `sodium-extra-neoforge-0.9.3+mc26.2.jar` | `0.9.3+mc26.2` | SI (override) | 2026-08-04 |
 | Sophisticated Backpacks | `sophisticatedbackpacks` | `sophisticatedbackpacks-26.2-3.25.83.2018.jar` | `3.25.83` | SI (override) | 2026-08-04 |
 | Sophisticated Core | `sophisticatedcore` | `sophisticatedcore-26.2-1.4.90.2199.jar` | `1.4.90` | SI (override) | 2026-08-04 |
+| Sophisticated Inventory Interactions | `sophisticatedinventoryinteractions` | `sophisticatedinventoryinteractions-26.2-0.1.16.188.jar` | `0.1.16.188` | SI (override) | 2026-08-04 |
 | Sophisticated Storage | `sophisticatedstorage` | `sophisticatedstorage-26.2-1.5.101.2028.jar` | `1.5.101` | SI (override) | 2026-08-04 |
 | Stellarity | `stellarity` | `Stellarity-5.5.4.jar` | `5.5.4` | SI | 2026-08-03 |
 | Structure Essentials mod | `structureessentials` | `structureessentials-26.2-5.0.jar` | `5.0` | N/A (sin lang/ en el jar) | 2026-08-03 |
@@ -187,15 +198,16 @@ completados vía override de este resource pack (su `es_ES` propio era parcial o
 | The Lost City | `the_lost_city` | `the_lost_city-1.4.1-neoforge-1.26.1.jar` | `1.4.1` | SI | 2026-08-03 |
 | TNT Foundry | `tntfoundry` | `tntfoundry-1.0.0.jar` | `1.0.0` | SI | 2026-08-03 |
 | Tom's Simple Storage Mod | `toms_storage` | `toms_storage-26.2-2.11.1.jar` | `2.11.1` | SI | 2026-08-03 |
-| Tower Waystone | `tower_waystone` | `tower_waystone-26.2-neoforge-1.0.1.jar` | `1.0.1` | PROPIO | 2026-08-03 |
+| Tower Waystone | `tower_waystone` | `tower_waystone-26.2-neoforge-1.0.2.jar` | `1.0.2` | PROPIO | 2026-08-04 |
 | Towns and Towers | `t_and_t` | `t_and_t-fabric-neoforge-1.13.11.jar` | `1.13.11` | N/A (sin lang/ en el jar) | 2026-08-03 |
+| TT20 | `tt20` | `tt20-0.8.4+mc26.1.1-neoforge.jar` | `0.8.4+mc26.1.1` | N/A (sin lang/ en el jar) | 2026-08-04 |
 | UI Lib | `uilib` | `uilib-neoforge-21.1.1.jar` | `21.1.1` | SI | 2026-08-03 |
 | Universal Bone Meal | `universalbonemeal` | `UniversalBoneMeal-v26.2.0-mc26.2.x-NeoForge.jar` | `26.2.0` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Universal Enchantment Info | `uei` | `UniversalEnchantmentInfo-26.2-neoforge-1.2.0.jar` | `1.2.0` | SI | 2026-08-03 |
 | Utility Core | `utility_core` | `utility_core-26.2-neoforge-1.11.0.jar` | `1.11.0` | PROPIO | 2026-08-03 |
 | Variants&Ventures | `variantsandventures` | `variantsandventures-neoforge-1.0.26+mc26.2.jar` | `1.0.26` | SI | 2026-08-03 |
 | Visual Workbench | `visualworkbench` | `VisualWorkbench-v26.2.1-mc26.2.x-NeoForge.jar` | `26.2.1` | SI | 2026-08-03 |
-| Warlockery | `warlockery` | `warlockery-neoforge-1.2.2.jar` | `1.2.2` | SI | 2026-08-03 |
+| Warlockery | `warlockery` | `warlockery-neoforge-1.3.0.jar` | `1.3.0` | SI | 2026-08-04 |
 | Waystones | `waystones` | `waystones-neoforge-26.2-26.2.0.7.jar` | `26.2.0.7` | SI (override) | 2026-08-04 |
 | Wishful Recipes | `wishfulrecipes` | `wishfulrecipes-26.2-neoforge-0.2.2.jar` | `0.2.2` | SI | 2026-08-03 |
 | Xaero's Minimap | `xaerominimap` | `xaerominimap-neoforge-26.2-26.4.2.jar` | `26.4.2` | SI (override) | 2026-08-04 |

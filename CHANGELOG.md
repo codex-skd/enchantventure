@@ -5,6 +5,23 @@ Todos los cambios notables de EnchantVenture Translations se documentan en este 
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Sin publicar]
+
+### Añadido
+
+- **Better Party X Waystones** (`better_party_x_waystones`): traducción completa (48 claves), mod nuevo
+  en la instancia sin `es_es.json` propio.
+- **Sophisticated Inventory Interactions** (`sophisticatedinventoryinteractions`): traducción completa
+  (27 claves), mod nuevo en la instancia sin `es_es.json` propio.
+
+### Cambiado
+
+- Revisión de mods nuevos/actualizados en la instancia (2026-08-04): 5 mods nuevos detectados
+  (AppleSkin — ya trae `es_es.json` completo, sin trabajo; Configurable y TT20 — sin `lang/`, `N/A`) y
+  6 mods trackeados que subieron de versión (Armor Cosmetic, Carry Mechanics, Equivalent Legacy y Tower
+  Waystone son `PROPIO`, sin trabajo aquí; Berezka API y Warlockery son `SI`, se revisó que su cobertura
+  sigue al 100% tras la actualización).
+
 ## [0.0.0-beta.14] - 2026-08-04
 
 ### Cambiado
