@@ -1,0 +1,22 @@
+{
+  "better_party_x_xaeros_world_map.loaded": "Xaero의 세계 지도를 위한 더 나은 파티 통합 로드",
+  "better_party_x_xaeros_world_map.common.back": "뒤쪽에",
+  "better_party_x_xaeros_world_map.common.close": null,
+  "better_party_x_xaeros_world_map.common.yes": "예",
+  "better_party_x_xaeros_world_map.common.no": "아니요",
+  "better_party_x_xaeros_world_map.settings.no_party": "현재 파티에 참여하고 있지 않습니다.",
+  "better_party_x_xaeros_world_map.settings.personal.title": "Xaero 지도 표시",
+  "better_party_x_xaeros_world_map.settings.personal.section": "귀하의 디스플레이",
+  "better_party_x_xaeros_world_map.settings.personal.allowed": "파티 관리자가 지도 마커를 허용합니다. 귀하의 개인적인 선택은 이 고객에게만 영향을 미칩니다.",
+  "better_party_x_xaeros_world_map.settings.personal.blocked": "파티 관리자가 이 파티의 지도 표시를 비활성화했습니다.",
+  "better_party_x_xaeros_world_map.settings.personal.description": "Head는 Xaero의 플레이어 스킨 렌더러를 사용합니다. 스킨 진입이 불가능한 경우 컬러 도트가 자동으로 사용됩니다.",
+  "better_party_x_xaeros_world_map.settings.personal.mode": "파티원: %s",
+  "better_party_x_xaeros_world_map.settings.personal.mode.head": "머리",
+  "better_party_x_xaeros_world_map.settings.personal.mode.dot": "점",
+  "better_party_x_xaeros_world_map.settings.personal.mode.hidden": "끄다",
+  "better_party_x_xaeros_world_map.settings.party.title": "Xaero 파티 지도 표시",
+  "better_party_x_xaeros_world_map.settings.party.admin": "이 파티의 지도 표시를 편집할 수 있습니다.",
+  "better_party_x_xaeros_world_map.settings.party.read_only": "권한이 있는 당사자 관리자만 지도 표시를 변경할 수 있습니다.",
+  "better_party_x_xaeros_world_map.settings.party.visibility.section": "지도 가시성",
+  "better_party_x_xaeros_world_map.settings.party.map_enabled": "지도에 파티원 허용: %s"
+}

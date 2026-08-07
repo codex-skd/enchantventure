@@ -1,0 +1,22 @@
+{
+  "better_party_x_xaeros_world_map.loaded": "Bessere Party-Integration für Xaeros Weltkarte geladen",
+  "better_party_x_xaeros_world_map.common.back": "Zurück",
+  "better_party_x_xaeros_world_map.common.close": null,
+  "better_party_x_xaeros_world_map.common.yes": "Ja",
+  "better_party_x_xaeros_world_map.common.no": "NEIN",
+  "better_party_x_xaeros_world_map.settings.no_party": "Du bist derzeit nicht in einer Party.",
+  "better_party_x_xaeros_world_map.settings.personal.title": "Xaero-Kartenanzeige",
+  "better_party_x_xaeros_world_map.settings.personal.section": "Ihr Display",
+  "better_party_x_xaeros_world_map.settings.personal.allowed": "Der Gruppenadministrator erlaubt Kartenmarkierungen. Ihre persönliche Wahl betrifft nur diesen Kunden.",
+  "better_party_x_xaeros_world_map.settings.personal.blocked": "Der Gruppenadministrator hat Kartenmarkierungen für diese Gruppe deaktiviert.",
+  "better_party_x_xaeros_world_map.settings.personal.description": "Head verwendet den Player-Skin-Renderer von Xaero. Wenn kein Skin-Eintrag verfügbar ist, wird automatisch ein farbiger Punkt verwendet.",
+  "better_party_x_xaeros_world_map.settings.personal.mode": "Gruppenmitglieder: %s",
+  "better_party_x_xaeros_world_map.settings.personal.mode.head": "Kopf",
+  "better_party_x_xaeros_world_map.settings.personal.mode.dot": "Punkt",
+  "better_party_x_xaeros_world_map.settings.personal.mode.hidden": "Aus",
+  "better_party_x_xaeros_world_map.settings.party.title": "Xaero-Partykartenanzeige",
+  "better_party_x_xaeros_world_map.settings.party.admin": "Sie können die Kartenanzeige dieser Gruppe bearbeiten.",
+  "better_party_x_xaeros_world_map.settings.party.read_only": "Nur ein autorisierter Parteiadministrator kann die Kartenanzeige ändern.",
+  "better_party_x_xaeros_world_map.settings.party.visibility.section": "Sichtbarkeit auf der Karte",
+  "better_party_x_xaeros_world_map.settings.party.map_enabled": "Gruppenmitglieder auf der Karte zulassen: %s"
+}

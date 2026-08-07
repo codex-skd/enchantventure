@@ -1,0 +1,22 @@
+{
+  "better_party_x_xaeros_world_map.loaded": "Xaero の世界地図の Better Party 統合がロードされました",
+  "better_party_x_xaeros_world_map.common.back": "戻る",
+  "better_party_x_xaeros_world_map.common.close": null,
+  "better_party_x_xaeros_world_map.common.yes": "はい",
+  "better_party_x_xaeros_world_map.common.no": "いいえ",
+  "better_party_x_xaeros_world_map.settings.no_party": "あなたは現在パーティーに参加していません。",
+  "better_party_x_xaeros_world_map.settings.personal.title": "Xaero マップ表示",
+  "better_party_x_xaeros_world_map.settings.personal.section": "あなたのディスプレイ",
+  "better_party_x_xaeros_world_map.settings.personal.allowed": "パーティー管理者はマップ マーカーを許可します。あなたの個人的な選択は、このクライアントにのみ影響します。",
+  "better_party_x_xaeros_world_map.settings.personal.blocked": "パーティー管理者は、このパーティーのマップ マーカーを無効にしました。",
+  "better_party_x_xaeros_world_map.settings.personal.description": "Head は Xaero のプレーヤー スキン レンダラーを使用します。利用可能なスキン エントリがない場合は、色付きのドットが自動的に使用されます。",
+  "better_party_x_xaeros_world_map.settings.personal.mode": "パーティーメンバー: %s",
+  "better_party_x_xaeros_world_map.settings.personal.mode.head": "頭",
+  "better_party_x_xaeros_world_map.settings.personal.mode.dot": "ドット",
+  "better_party_x_xaeros_world_map.settings.personal.mode.hidden": "オフ",
+  "better_party_x_xaeros_world_map.settings.party.title": "Xaero Party マップ表示",
+  "better_party_x_xaeros_world_map.settings.party.admin": "このパーティのマップ表示を編集できます。",
+  "better_party_x_xaeros_world_map.settings.party.read_only": "許可されたパーティ管理者のみがマップ表示を変更できます。",
+  "better_party_x_xaeros_world_map.settings.party.visibility.section": "地図の可視性",
+  "better_party_x_xaeros_world_map.settings.party.map_enabled": "マップ上でパーティー メンバーを許可します: %s"
+}
