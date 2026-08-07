@@ -1,0 +1,17 @@
+{
+  "mod.bettervillageranimations.name": "Улучшенная анимация жителей деревни",
+  "bettervillageranimations.offer.rare_for": "Редкое предложение %s",
+  "bettervillageranimations.offer.profession.armorer": "оружейник",
+  "bettervillageranimations.offer.profession.butcher": "мясник",
+  "bettervillageranimations.offer.profession.cartographer": "Картограф",
+  "bettervillageranimations.offer.profession.cleric": "Священник",
+  "bettervillageranimations.offer.profession.farmer": "Фермер",
+  "bettervillageranimations.offer.profession.fisherman": "Рыбак",
+  "bettervillageranimations.offer.profession.fletcher": "Флетчер",
+  "bettervillageranimations.offer.profession.leatherworker": "Кожевник",
+  "bettervillageranimations.offer.profession.librarian": "Библиотекарь",
+  "bettervillageranimations.offer.profession.mason": "Мейсон",
+  "bettervillageranimations.offer.profession.shepherd": "Пасти",
+  "bettervillageranimations.offer.profession.toolsmith": "Инструментальщик",
+  "bettervillageranimations.offer.profession.weaponsmith": "Оружейник"
+}

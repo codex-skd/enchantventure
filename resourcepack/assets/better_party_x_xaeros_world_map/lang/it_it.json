@@ -1,0 +1,22 @@
+{
+  "better_party_x_xaeros_world_map.loaded": "Caricata migliore integrazione del Party per la mappa del mondo di Xaero",
+  "better_party_x_xaeros_world_map.common.back": "Indietro",
+  "better_party_x_xaeros_world_map.common.close": null,
+  "better_party_x_xaeros_world_map.common.yes": "SÌ",
+  "better_party_x_xaeros_world_map.common.no": "NO",
+  "better_party_x_xaeros_world_map.settings.no_party": "Al momento non fai parte di un party.",
+  "better_party_x_xaeros_world_map.settings.personal.title": "Visualizzazione della mappa Xaero",
+  "better_party_x_xaeros_world_map.settings.personal.section": "Il tuo display",
+  "better_party_x_xaeros_world_map.settings.personal.allowed": "L'amministratore del gruppo consente gli indicatori sulla mappa. La tua scelta personale riguarda solo questo cliente.",
+  "better_party_x_xaeros_world_map.settings.personal.blocked": "L'amministratore del gruppo ha disabilitato gli indicatori sulla mappa per questo gruppo.",
+  "better_party_x_xaeros_world_map.settings.personal.description": "Head utilizza il renderer della skin del giocatore di Xaero. Un punto colorato viene utilizzato automaticamente quando non è disponibile alcuna voce relativa alla skin.",
+  "better_party_x_xaeros_world_map.settings.personal.mode": "Membri del gruppo: %s",
+  "better_party_x_xaeros_world_map.settings.personal.mode.head": "Testa",
+  "better_party_x_xaeros_world_map.settings.personal.mode.dot": "Punto",
+  "better_party_x_xaeros_world_map.settings.personal.mode.hidden": "Spento",
+  "better_party_x_xaeros_world_map.settings.party.title": "Visualizzazione della mappa del partito Xaero",
+  "better_party_x_xaeros_world_map.settings.party.admin": "Puoi modificare la visualizzazione della mappa di questo gruppo.",
+  "better_party_x_xaeros_world_map.settings.party.read_only": "Solo un amministratore del gruppo autorizzato può modificare la visualizzazione della mappa.",
+  "better_party_x_xaeros_world_map.settings.party.visibility.section": "Visibilità della mappa",
+  "better_party_x_xaeros_world_map.settings.party.map_enabled": "Consenti membri del gruppo sulla mappa: %s"
+}

@@ -1,0 +1,22 @@
+{
+  "better_party_x_xaeros_world_map.loaded": "Better Party integration for Xaero's World Map loaded",
+  "better_party_x_xaeros_world_map.common.back": "Back",
+  "better_party_x_xaeros_world_map.common.close": "×",
+  "better_party_x_xaeros_world_map.common.yes": "Yes",
+  "better_party_x_xaeros_world_map.common.no": "No",
+  "better_party_x_xaeros_world_map.settings.no_party": "You are not currently in a party.",
+  "better_party_x_xaeros_world_map.settings.personal.title": "Xaero Map Display",
+  "better_party_x_xaeros_world_map.settings.personal.section": "Your display",
+  "better_party_x_xaeros_world_map.settings.personal.allowed": "The party admin allows map markers. Your personal choice only affects this client.",
+  "better_party_x_xaeros_world_map.settings.personal.blocked": "The party admin has disabled map markers for this party.",
+  "better_party_x_xaeros_world_map.settings.personal.description": "Head uses Xaero's player skin renderer. A colored dot is used automatically when no skin entry is available.",
+  "better_party_x_xaeros_world_map.settings.personal.mode": "Party members: %s",
+  "better_party_x_xaeros_world_map.settings.personal.mode.head": "Head",
+  "better_party_x_xaeros_world_map.settings.personal.mode.dot": "Dot",
+  "better_party_x_xaeros_world_map.settings.personal.mode.hidden": "Off",
+  "better_party_x_xaeros_world_map.settings.party.title": "Xaero Party Map Display",
+  "better_party_x_xaeros_world_map.settings.party.admin": "You may edit this party's map display.",
+  "better_party_x_xaeros_world_map.settings.party.read_only": "Only an authorized party admin can change the map display.",
+  "better_party_x_xaeros_world_map.settings.party.visibility.section": "Map visibility",
+  "better_party_x_xaeros_world_map.settings.party.map_enabled": "Allow party members on the map: %s"
+}

@@ -1,0 +1,22 @@
+{
+  "better_party_x_xaeros_world_map.loaded": "Улучшенная интеграция с Party для карты мира Xaero загружена",
+  "better_party_x_xaeros_world_map.common.back": "Назад",
+  "better_party_x_xaeros_world_map.common.close": null,
+  "better_party_x_xaeros_world_map.common.yes": "Да",
+  "better_party_x_xaeros_world_map.common.no": "Нет",
+  "better_party_x_xaeros_world_map.settings.no_party": "Вы сейчас не в группе.",
+  "better_party_x_xaeros_world_map.settings.personal.title": "Отображение карты Xaero",
+  "better_party_x_xaeros_world_map.settings.personal.section": "Ваш дисплей",
+  "better_party_x_xaeros_world_map.settings.personal.allowed": "Администратор группы разрешает использование маркеров на карте. Ваш личный выбор влияет только на этого клиента.",
+  "better_party_x_xaeros_world_map.settings.personal.blocked": "Администратор группы отключил маркеры на карте для этой группы.",
+  "better_party_x_xaeros_world_map.settings.personal.description": "Head использует рендеринг скинов игрока Xaero. Цветная точка используется автоматически, когда запись о скине недоступна.",
+  "better_party_x_xaeros_world_map.settings.personal.mode": "Члены группы: %s",
+  "better_party_x_xaeros_world_map.settings.personal.mode.head": "Голова",
+  "better_party_x_xaeros_world_map.settings.personal.mode.dot": "Точка",
+  "better_party_x_xaeros_world_map.settings.personal.mode.hidden": "Выключенный",
+  "better_party_x_xaeros_world_map.settings.party.title": "Отображение карты вечеринки Xaero",
+  "better_party_x_xaeros_world_map.settings.party.admin": "Вы можете редактировать отображение карты этой группы.",
+  "better_party_x_xaeros_world_map.settings.party.read_only": "Только авторизованный администратор группы может изменить отображение карты.",
+  "better_party_x_xaeros_world_map.settings.party.visibility.section": "Видимость карты",
+  "better_party_x_xaeros_world_map.settings.party.map_enabled": "Разрешить участникам группы появляться на карте: %s"
+}

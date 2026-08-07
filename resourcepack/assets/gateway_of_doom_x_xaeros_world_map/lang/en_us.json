@@ -1,0 +1,6 @@
+{
+  "modmenu.descriptionTranslation.gateway_of_doom_x_xaeros_world_map": "Displays active Gateway of Doom portals on Xaero's World Map.",
+  "gateway_of_doom_x_xaeros_world_map.marker.wave": "Wave %s/%s",
+  "gateway_of_doom_x_xaeros_world_map.marker.boss_phase": "Boss Phase",
+  "gateway_of_doom_x_xaeros_world_map.marker.preparing": "Preparing"
+}

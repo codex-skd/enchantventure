@@ -1,0 +1,22 @@
+{
+  "better_party_x_xaeros_world_map.loaded": "已加载 Xaero 世界地图的更好派对集成",
+  "better_party_x_xaeros_world_map.common.back": "后退",
+  "better_party_x_xaeros_world_map.common.close": null,
+  "better_party_x_xaeros_world_map.common.yes": "是的",
+  "better_party_x_xaeros_world_map.common.no": "不",
+  "better_party_x_xaeros_world_map.settings.no_party": "您目前没有参加聚会。",
+  "better_party_x_xaeros_world_map.settings.personal.title": "Xaero地图显示",
+  "better_party_x_xaeros_world_map.settings.personal.section": "你的显示器",
+  "better_party_x_xaeros_world_map.settings.personal.allowed": "队伍管理员允许地图标记。您的个人选择只会影响该客户。",
+  "better_party_x_xaeros_world_map.settings.personal.blocked": "队伍管理员已禁用该队伍的地图标记。",
+  "better_party_x_xaeros_world_map.settings.personal.description": "Head 使用 Xaero 的玩家皮肤渲染器。当没有皮肤入口可用时，会自动使用彩色点。",
+  "better_party_x_xaeros_world_map.settings.personal.mode": "党员：%s",
+  "better_party_x_xaeros_world_map.settings.personal.mode.head": "头",
+  "better_party_x_xaeros_world_map.settings.personal.mode.dot": "点",
+  "better_party_x_xaeros_world_map.settings.personal.mode.hidden": "离开",
+  "better_party_x_xaeros_world_map.settings.party.title": "Xaero 派对地图展示",
+  "better_party_x_xaeros_world_map.settings.party.admin": "您可以编辑该队伍的地图显示。",
+  "better_party_x_xaeros_world_map.settings.party.read_only": "只有授权方管理员才能更改地图显示。",
+  "better_party_x_xaeros_world_map.settings.party.visibility.section": "地图可见性",
+  "better_party_x_xaeros_world_map.settings.party.map_enabled": "允许小队成员出现在地图上：%s"
+}
