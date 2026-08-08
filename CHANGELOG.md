@@ -5,6 +5,29 @@ Todos los cambios notables de EnchantVenture Translations se documentan en este 
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.0.0-beta.16] - 2026-08-08
+
+### Añadido
+
+- **Workhand Tools** (`workhand_tools`): traducción completa (28 claves), mod nuevo en la instancia sin
+  `es_es.json` propio.
+
+### Corregido
+
+- **Stellarity** (`stellarity`): el `es_es.json` del pack estaba corrupto con ~36k claves del mapa de
+  ofuscación del mod (namespace `space`). Reescrito desde cero como traducción real al español de las
+  645 claves de `en_us.json`.
+
+### Eliminado
+
+- 279 archivos `lang/*.json` de idiomas no-es_ES (de_de, en_us, fr_fr, it_it, ja_jp, ko_kr, pt_br,
+  ru_ru, zh_cn): el pack solo lleva `es_es.json`.
+- 15 folders de assets obsoletos (mods ya fuera de la instancia o namespace corregido):
+  `ancient-artifacts-2`, `better-compatibility-checker`, `better_party_x_waystones`, `gatewayofdoom`,
+  `hammersandexcavators`, folders antiguos de Moog's y Dungeons & Taverns, `teleport_animation`,
+  `netherportalfix`, `shogi`. Los `es_es.json` vacíos de `netherportalfix` y `shogi` no aportaban nada.
+- Resultado: el pack queda con 88 folders de assets, un `es_es.json` por mod.
+
 ## [0.0.0-beta.15] - 2026-08-04
 
 ### Añadido
