@@ -11,6 +11,15 @@
 > Legacy, Tower Waystone, Warlockery — los `PROPIO` no requieren trabajo aquí, los `SI` se revisaron y
 > siguen cubiertos al 100%).
 >
+> Limpieza y ampliación el 2026-08-08: se eliminaron los `lang/` de idiomas no-es_ES (279 archivos) y los
+> folders obsoletos de mods ya eliminados/renombrados de la instancia (ancient-artifacts-2,
+> better-compatibility-checker, better_party_x_waystones, gatewayofdoom, hammersandexcavators,
+> moogsendstructures, moogsmissingvillages, moogsnetherstructures, moogstemplesreimagined,
+> moogsvoyagerstructures, mr_dungeons_andtavernsancientcityoverhaul, mr_dungeons_andtavernspillageroutpostoverhaul,
+> teleport_animation, netherportalfix, shogi). Se corrigió el `es_es` de `stellarity` (contenía ~36k claves
+> del mapa de ofuscación del namespace `space`; ahora es traducción real de las 645 claves de `en_us`) y se
+> añadió el mod nuevo `workhand_tools` (28 claves).
+>
 > - `SI` = el mod ya trae `lang/es_es.json` propio, no requiere trabajo aquí.
 > - `PENDIENTE` = falta `es_es.json` y el mod SÍ tiene claves de texto (`lang/en_us.json`) — candidato real
 >   a traducir en este resource pack.
@@ -52,11 +61,13 @@
 > `apexcore`, `jade`, `justenoughprofessions`) declaran la versión como `${file.jarVersion}` en su manifest
 > (variable que solo se resuelve al compilar) — para esos se usó la versión visible en el nombre del archivo.
 
-Total: 154 mods · 96 ya con `es_ES` · 0 pendientes (con texto real que traducir) · 46 sin `lang/` (nada que
+Total: 155 mods · 97 ya con `es_ES` · 0 pendientes (con texto real que traducir) · 46 sin `lang/` (nada que
 traducir) · 12 propios (fuera de alcance de este repo). Tras la auditoría de 2026-08-04, 23 mods quedaron
 completados vía override de este resource pack (su `es_ES` propio era parcial o inexistente). Revisión de
 mods nuevos del 2026-08-04: Better Party X Waystones (48 claves) y Sophisticated Inventory Interactions
 (27 claves) se completaron también vía override; AppleSkin ya traía su propio `es_es.json` completo.
+El 2026-08-08 se añadió el mod nuevo `workhand_tools` (28 claves, override) y se reescribió por completo
+el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
 
 | Mod | modid | Archivo | Versión | Estado | Última revisión |
 |---|---|---|---|---|---|
@@ -189,7 +200,7 @@ mods nuevos del 2026-08-04: Better Party X Waystones (48 claves) y Sophisticated
 | Sophisticated Core | `sophisticatedcore` | `sophisticatedcore-26.2-1.4.90.2199.jar` | `1.4.90` | SI (override) | 2026-08-04 |
 | Sophisticated Inventory Interactions | `sophisticatedinventoryinteractions` | `sophisticatedinventoryinteractions-26.2-0.1.16.188.jar` | `0.1.16.188` | SI (override) | 2026-08-04 |
 | Sophisticated Storage | `sophisticatedstorage` | `sophisticatedstorage-26.2-1.5.101.2028.jar` | `1.5.101` | SI (override) | 2026-08-04 |
-| Stellarity | `stellarity` | `Stellarity-5.5.4.jar` | `5.5.4` | SI | 2026-08-03 |
+| Stellarity | `stellarity` | `Stellarity-5.5.4.jar` | `5.5.4` | SI (override) | 2026-08-08 |
 | Structure Essentials mod | `structureessentials` | `structureessentials-26.2-5.0.jar` | `5.0` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Structurify | `structurify` | `structurify-neoforge-2.0.30+mc26.2.jar` | `2.0.30` | SI | 2026-08-03 |
 | SuperMartijn642's Core Lib | `supermartijn642corelib` | `supermartijn642corelib-1.1.22a-neoforge-mc26.2.jar` | `1.1.22+a` | SI | 2026-08-03 |
@@ -210,6 +221,7 @@ mods nuevos del 2026-08-04: Better Party X Waystones (48 claves) y Sophisticated
 | Warlockery | `warlockery` | `warlockery-neoforge-1.3.0.jar` | `1.3.0` | SI | 2026-08-04 |
 | Waystones | `waystones` | `waystones-neoforge-26.2-26.2.0.7.jar` | `26.2.0.7` | SI (override) | 2026-08-04 |
 | Wishful Recipes | `wishfulrecipes` | `wishfulrecipes-26.2-neoforge-0.2.2.jar` | `0.2.2` | SI | 2026-08-03 |
+| Workhand Tools | `workhand_tools` | `workhand_tools-26.2-neoforge-1.0.0.jar` | `1.0.0` | SI (override) | 2026-08-08 |
 | Xaero's Minimap | `xaerominimap` | `xaerominimap-neoforge-26.2-26.4.2.jar` | `26.4.2` | SI (override) | 2026-08-04 |
 | Xaero's World Map | `xaeroworldmap` | `xaeroworldmap-neoforge-26.2-1.44.2.jar` | `1.44.2` | SI | 2026-08-03 |
 | YAML Config | `yamlconfig` | `yamlconfig-neoforge-21.1.0.jar` | `21.1.0` | SI | 2026-08-03 |
