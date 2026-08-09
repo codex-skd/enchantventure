@@ -5,6 +5,19 @@ Todos los cambios notables de EnchantVenture Translations se documentan en este 
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.0.0-beta.17] - 2026-08-09
+
+### Corregido
+
+- El ZIP del pack queda limpio: se purgaron 70 archivos `lang/*.json` de idiomas no-es_ES (de_de,
+  en_us, fr_fr, it_it, ja_jp, ko_kr, pt_br, ru_ru, zh_cn) que se habían vuelto a añadir fuera del
+  tracker. El artefacto ahora contiene únicamente el `es_es.json` de los 88 folders de assets.
+
+### Nota
+
+- Sin cambios de contenido de traducción en esta versión: solo garantiza que el paquete distribuido
+  lleva traducciones en español (`es_ES`) y nada más.
+
 ## [0.0.0-beta.16] - 2026-08-08
 
 ### Añadido
