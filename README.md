@@ -1,37 +1,58 @@
-# EnchantVenture Translations
+# EnchantVenture
 
-Client-side resource pack for Minecraft 26.2 that adds Spanish (`es_ES`) language files for mods included
-in the [EnchantVenture](https://www.curseforge.com/minecraft/modpacks/enchantventure) modpack that don't
-ship their own — without touching the mods themselves.
+Client-side resource pack for the EnchantVenture modpack (Minecraft 26.2). It bundles:
 
-## Coverage
+- **Spanish (`es_ES`) translations** for mods included in the modpack that don't ship their own —
+  without touching the mods themselves.
+- **Enchanting Table Magic Circle** — a retextured, animated magic circle around the enchanting
+  table book, with 11 color options (adapted to 26.2 from the pack by Jacosvaldo).
+- **Optional Respackopts options** to pick the circle color and animation mode in-game.
 
-Translations are added incrementally, mod by mod. See [`docs/TRANSLATIONS_STATUS.md`](docs/TRANSLATIONS_STATUS.md)
-for the current status of every mod in the modpack.
+## Features
+
+- 🗣️ `es_ES` language files for mods without Spanish support (88 asset folders, curated by hand).
+- ✨ Animated magic circle on the enchanting table book + lectern/enchanting screen books.
+- 🎨 11 circle colors (blue, purple, pink, red, orange, gold, green, dark, white, flame, water).
+- 🎬 Animation modes: `normal`, `bruteforce`, `disabled` (via Respackopts, optional).
+- 💡 Emissive rendering for the circle (custom `entity` shader adapted to 26.2).
 
 ## Requirements
 
 - Minecraft **26.2** (pack format 88)
 - The EnchantVenture modpack (or any subset of the mods it bundles)
+- Optional:
+  - **Respackopts** — to configure the circle color / animation in-game.
+  - **OptiFine** or **EMF + ETF** — for the animated textures and custom book model.
 
 ## Installation
 
-1. Download `EnchantVenture_translations-<version>.zip` from `build/`.
+1. Download `EnchantVenture-<version>.zip` from `build/`.
 2. Place it in `resourcepacks/`.
-3. Enable it in **Options → Resource Packs**.
+3. Enable it in **Options → Resource Packs** (above any other resource pack that also translates
+   the same mods, if applicable).
 4. Set your game language to **Español (España)**.
+
+## Coverage
+
+Translations are added incrementally, mod by mod. See
+[`docs/TRANSLATIONS_STATUS.md`](docs/TRANSLATIONS_STATUS.md) for the current status of every mod.
 
 ## Build
 
-The resource pack content lives under `resourcepack/` (curated by hand, one `lang/es_es.json` per mod).
-The build script validates the JSON files and zips them with `pack.mcmeta` at the root (loads directly):
+The resource pack content lives under `resourcepack/`. The build script validates the JSON files
+and zips them with `pack.mcmeta` at the root (loads directly):
 
 ```bash
-python build_translation_pack.py
-# → build/EnchantVenture_translations-<version>.zip
+python build_pack.py
+# → build/EnchantVenture-<version>.zip
 ```
 
-Version is read from `version.txt` (`0.0.0-beta.1`).
+Version is read from `version.txt` (`1.0.0-beta.1`).
+
+## Credits
+
+- Spanish translations: **Stalking Dragons**.
+- Enchanting Table Magic Circle: **Jacosvaldo** (adapted to Minecraft 26.2, non-commercial use only).
 
 ## License
 

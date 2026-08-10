@@ -14,7 +14,7 @@ validate:
       for f in $(find resourcepack -name "*.json"); do
         python -c "import json,sys; json.load(open('$f'))" || { echo "INVALID JSON: $f"; exit 1; }
       done
-    - python -c "import json; d=json.load(open('resourcepack/pack.mcmeta')); assert d['pack']['pack_format']==64, 'bad pack_format'"
+    - python -c "import json; d=json.load(open('resourcepack/pack.mcmeta')); assert d['pack'].get('min_format')==88 and d['pack'].get('max_format')==88, 'bad pack_format'"
     - echo "resourcepack OK"
 
 publish-public:
@@ -42,7 +42,7 @@ publish-public:
 
     # Limpiar y copiar solo archivos públicos desde production
     - git rm -rf --ignore-unmatch --quiet . 2>/dev/null || true
-    - git checkout "$CI_COMMIT_SHA" -- resourcepack/ docs/ scripts/ build_translation_pack.py version.txt .gitignore README.md CHANGELOG.md
+    - git checkout "$CI_COMMIT_SHA" -- resourcepack/ docs/ scripts/ build_pack.py version.txt .gitignore README.md CHANGELOG.md
 
     - git add -A
     - |

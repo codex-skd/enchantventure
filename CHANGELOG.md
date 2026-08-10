@@ -5,6 +5,38 @@ Todos los cambios notables de EnchantVenture Translations se documentan en este 
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.0-beta.1] - 2026-08-10
+
+### Cambiado
+
+- Renombrado el proyecto de `EnchantVenture_translations` a **EnchantVenture** (nombre de la
+  modpack). Repo GitLab movido a `stalking-dragons/minecraft/enchantventure`. ZIP ahora:
+  `EnchantVenture-<version>.zip`.
+- El pack deja de ser solo de traducciones: ahora es un resource pack multifunción de la modpack.
+
+### Añadido
+
+- **Enchanting Table Magic Circle** (de Jacosvaldo, adaptado a 26.2, uso no comercial):
+  - Retexturizado del libro de la mesa de encantamientos con círculo mágico animado y emisivo.
+  - 11 colores de círculo + modos de animación (normal/bruteforce/disabled) configurables vía
+    Respackopts (`respackopts.json5`, opcional).
+  - Shader `assets/minecraft/shaders/core/entity.fsh` portado a la base vanilla de 26.2
+    (píxeles emisivos alpha 252); `entity.vsh` = vanilla 26.2.
+  - Texturas OptiFine/EMF (`optifine/`, CEM/anim) y texturas del mod Enchanting Infuser.
+  - 22 `lang` de `minecraft` con las claves `rpo.*` del círculo en 22 idiomas (solo el namespace
+    `minecraft`; el resto de mods siguen en `es_ES`).
+  - `assets/minecraft/lang/es_es.json` fusionado: claves `rpo.*` + claves existentes de Ancient
+    Artifacts 2 / Dungeons and Taverns (76 claves en total).
+
+### Corregido
+
+- CI: validación de `pack.mcmeta` actualizada al esquema `min_format`/`max_format` = 88.
+
+### Nota
+
+- Sin Respackopts se usa el círculo azul por defecto.
+- La animación requiere OptiFine o EMF+ETF (a instalar manualmente por el usuario).
+
 ## [0.0.0-beta.18] - 2026-08-10
 
 ### Corregido
@@ -198,10 +230,10 @@ y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 ### Añadido
 
 - Primer versionado del resource pack contra GitLab (`26.2-0.0.0-beta.1`).
-- `build_translation_pack.py` valida los `es_es.json` de `resourcepack/` y empaqueta
+- `build_pack.py` valida los `es_es.json` de `resourcepack/` y empaqueta
   `build/EnchantVenture_translations-<version>.zip` con `pack.mcmeta` en la raíz.
 - Docs CurseForge (`docs/curseforge/`), workflow propio
-  (`docs/WORKFLOW_ENCHANTVENTURE_TRANSLATIONS_26-2.md`) y tracker de cobertura por mod
+  (`docs/WORKFLOW_ENCHANTVENTURE_26-2.md`) y tracker de cobertura por mod
   (`docs/TRANSLATIONS_STATUS.md`) con el escaneo inicial de los 150 mods de la instancia
   (35 ya traen `es_ES`, 105 pendientes, 10 son mods propios fuera de alcance).
 - Sin traducciones de mods todavía — se irán añadiendo mod a mod en próximas versiones.

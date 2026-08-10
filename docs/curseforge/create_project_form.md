@@ -23,4 +23,4 @@
   que `EnchantVenture_fixes`; si falla, consultar `GET /v1/minecraft/version` con el Core token y corregir
   `game_versions` en [`project_vars.md`](project_vars.md)).
 - Subir la primera versión (`0.0.0-beta.1`) con `powershell -File scripts/curseforge-upload.ps1`
-  (requiere haber corrido antes `python build_translation_pack.py`).
+  (requiere haber corrido antes `python build_pack.py`).
