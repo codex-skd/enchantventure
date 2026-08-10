@@ -1,0 +1,20 @@
+{
+  "rpo.enchantingTableMagicCircle": "دائرة التعويذ السحرية",
+  "rpo.enchantingTableMagicCircle.magicCircleColor": "لون الدائرة السحرية",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.blue": "أزرق",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.purple": "بنفسجي",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.pink": "وردي",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.red": "أحمر",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.orange": "برتقالي",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.gold": "ذهبي",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.green": "أخضر",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.dark": "داكن",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.white": "أبيض",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.flame": "لهب",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.water": "ماء",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures": "استخدام خامات متحركة",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.normal": "عادي",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.bruteforce": "قوة غاشمة",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.disabled": "معطل",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.tooltip": "لمزيد من التفاصيل، راجع صفحة Modrinth"
+}

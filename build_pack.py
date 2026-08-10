@@ -6,7 +6,7 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(ROOT, "resourcepack")
 BUILD = os.path.join(ROOT, "build")
 VERSION = open(os.path.join(ROOT, "version.txt"), encoding="utf-8").read().strip()
-ZIP = os.path.join(BUILD, f"EnchantVenture_translations-{VERSION}.zip")
+ZIP = os.path.join(BUILD, f"EnchantVenture-{VERSION}.zip")
 
 
 def validate_json_files():

@@ -1,0 +1,20 @@
+{
+  "rpo.enchantingTableMagicCircle": "附魔台魔法阵",
+  "rpo.enchantingTableMagicCircle.magicCircleColor": "魔法阵颜色",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.blue": "蓝色",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.purple": "紫色",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.pink": "粉色",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.red": "红色",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.orange": "橙色",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.gold": "金色",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.green": "绿色",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.dark": "暗色",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.white": "白色",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.flame": "火焰",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.water": "水",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures": "使用动画纹理",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.normal": "普通",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.bruteforce": "强制",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.disabled": "禁用",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.tooltip": "详情请查看 Modrinth 页面"
+}

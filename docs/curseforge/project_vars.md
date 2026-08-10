@@ -5,8 +5,8 @@
 | Variable | Valor |
 |----------|-------|
 | `curseforge_project_id` | `1638251` |
-| `mod_id` | `enchantventure_translations` |
-| `display_name` | `EnchantVenture Translations` |
+| `mod_id` | `enchantventure` |
+| `display_name` | `EnchantVenture` |
 | Categoría (class Resource Packs) | `Data Packs` (el resto de categorías de la clase son de resolución: 16x, 32x, 64x... no aplican a un pack de solo traducciones) |
 
 ## Tokens
@@ -26,7 +26,7 @@ Autenticación Core: cabecera `x-api-key`
 | Variable | Valor |
 |----------|-------|
 | `minecraft_version` | `26.2` |
-| `pack_format` | `64` |
+| `pack_format` | `88` |
 | `environment` | `Client` (traducciones, se aplican en el cliente) |
 
 ## Rama
@@ -44,7 +44,7 @@ Ejemplo: `26.2-0.0.0-beta.1`
 
 | Campo | Valor | Notas |
 |-------|-------|-------|
-| `displayName` | `EnchantVenture Translations (0.0.0-beta.1)` | Nombre visible: `display_name (version)` |
+| `displayName` | `EnchantVenture (1.0.0-beta.1)` | Nombre visible: `display_name (version)` |
 | `changelog` | HTML (no Markdown) | Ver estructura abajo |
 | `changelogType` | `html` | Obligatorio para que se vea bien |
 | `releaseType` | `beta` | Según el tipo de versión |
@@ -62,7 +62,7 @@ Ejemplo: `26.2-0.0.0-beta.1`
 
 <hr>
 
-<p><strong>ZIP</strong>: <code>EnchantVenture_translations-0.0.0-beta.1.zip</code></p>
+<p><strong>ZIP</strong>: <code>EnchantVenture-1.0.0-beta.1.zip</code></p>
 ```
 
 > Nota: `gameVersions` usa el `gameVersionId` de Minecraft (de `GET /v1/minecraft/version`), no el pack format.
@@ -100,7 +100,7 @@ release_type = beta
 
 0. ~~Crear el proyecto en CurseForge~~ — hecho (`project_id` 1638251). Logo (`resourcepack/pack.png`) ya
    integrado. Pendiente solo confirmar `game_versions` en la primera subida real.
-1. `python build_translation_pack.py`
+1. `python build_pack.py`
 2. Actualizar `docs/curseforge/versions/<version>.md` con HTML
 3. Actualizar `CHANGELOG.md`
 4. `git commit -m "chore: bump version to <version>"` + `git push`

@@ -1,0 +1,20 @@
+{
+  "rpo.enchantingTableMagicCircle": "Enchanting Table Magic Circle",
+  "rpo.enchantingTableMagicCircle.magicCircleColor": "Kulay ng Mahikang Bilog",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.blue": "Asul",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.purple": "Lila",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.pink": "Rosas",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.red": "Pula",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.orange": "Kahel",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.gold": "Ginto",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.green": "Berde",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.dark": "Madilim",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.white": "Puti",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.flame": "Apoy",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.water": "Tubig",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures": "Gumamit ng Animated Textures",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.normal": "Normal",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.bruteforce": "SAPILITAN",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.disabled": "Hindi Pinagana",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.tooltip": "Para sa detalye, tingnan ang pahina ng Modrinth"
+}

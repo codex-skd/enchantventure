@@ -1,0 +1,20 @@
+{
+  "rpo.enchantingTableMagicCircle": "Enchanting Table Magic Circle",
+  "rpo.enchantingTableMagicCircle.magicCircleColor": "Couleur du cercle magique",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.blue": "Bleu",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.purple": "Violet",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.pink": "Rose",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.red": "Rouge",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.orange": "Orange",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.gold": "Or",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.green": "Vert",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.dark": "Sombre",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.white": "Blanc",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.flame": "Flamme",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.water": "Eau",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures": "Utiliser des textures animées",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.normal": "Normal",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.bruteforce": "FORCE BRUTE",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.disabled": "Désactivé",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.tooltip": "Pour plus de détails, consultez la page Modrinth"
+}

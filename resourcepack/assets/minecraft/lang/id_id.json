@@ -1,0 +1,20 @@
+{
+  "rpo.enchantingTableMagicCircle": "Enchanting Table Magic Circle",
+  "rpo.enchantingTableMagicCircle.magicCircleColor": "Warna Lingkaran Sihir",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.blue": "Biru",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.purple": "Ungu",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.pink": "Merah muda",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.red": "Merah",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.orange": "Oranye",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.gold": "Emas",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.green": "Hijau",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.dark": "Gelap",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.white": "Putih",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.flame": "Api",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.water": "Air",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures": "Gunakan Tekstur Animasi",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.normal": "Normal",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.bruteforce": "PAKSA",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.disabled": "Nonaktif",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.tooltip": "Untuk detail, lihat halaman Modrinth"
+}
