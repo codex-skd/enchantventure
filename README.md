@@ -1,4 +1,4 @@
-# EnchantVenture
+# EnchantVenture Pack
 
 Client-side resource pack for the EnchantVenture modpack (Minecraft 26.2). It bundles:
 
@@ -30,7 +30,7 @@ Client-side resource pack for the EnchantVenture modpack (Minecraft 26.2). It bu
 
 ## Installation
 
-1. Download `EnchantVenture-<version>.zip` from `build/`.
+1. Download `EnchantVenture_Pack-<version>.zip` from `build/`.
 2. Place it in `resourcepacks/`.
 3. Enable it in **Options → Resource Packs** (above any other resource pack that also translates
    the same mods, if applicable).
@@ -48,7 +48,7 @@ and zips them with `pack.mcmeta` at the root (loads directly):
 
 ```bash
 python build_pack.py
-# → build/EnchantVenture-<version>.zip
+# → build/EnchantVenture_Pack-<version>.zip
 ```
 
 Version is read from `version.txt` (`1.0.0-beta.2`).

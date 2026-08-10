@@ -1,9 +1,18 @@
 # Changelog
 
-Todos los cambios notables de EnchantVenture Translations se documentan en este archivo.
+Todos los cambios notables de EnchantVenture Pack se documentan en este archivo.
 
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [1.0.0-beta.3] - 2026-08-10
+
+### Cambiado
+
+- Renombrado el proyecto de **EnchantVenture** a **EnchantVenture Pack** (el pack ya no se llama como la
+  modpack; nombre genérico que puede crecer con más contenido en el futuro). Repo GitLab movido a
+  `stalking-dragons/minecraft/enchantventure-pack`. ZIP ahora: `EnchantVenture_Pack-<version>.zip`.
+- Actualizados summary y descripción general del pack (CurseForge) y referencias internas.
 
 ## [1.0.0-beta.2] - 2026-08-10
 

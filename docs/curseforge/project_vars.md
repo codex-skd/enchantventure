@@ -6,8 +6,8 @@
 |----------|-------|
 | `curseforge_project_id` | `1638251` |
 | `mod_id` | `enchantventure` |
-| `display_name` | `EnchantVenture` |
-| `summary` | `Spanish (es_ES) translations + Enchanting Table Magic Circle for the EnchantVenture modpack.` |
+| `display_name` | `EnchantVenture Pack` |
+| `summary` | `Spanish (es_ES) translations + Enchanting Table Magic Circle. Community resource pack for the EnchantVenture modpack.` |
 | Categoría (class Resource Packs) | `Data Packs` (el resto de categorías de la clase son de resolución: 16x, 32x, 64x... no aplican a un pack de solo traducciones) |
 
 ## Tokens
@@ -45,7 +45,7 @@ Ejemplo: `26.2-0.0.0-beta.1`
 
 | Campo | Valor | Notas |
 |-------|-------|-------|
-| `displayName` | `EnchantVenture (1.0.0-beta.2)` | Nombre visible: `display_name (version)` |
+| `displayName` | `EnchantVenture Pack (1.0.0-beta.3)` | Nombre visible: `display_name (version)` |
 | `changelog` | HTML (no Markdown) | Ver estructura abajo |
 | `changelogType` | `html` | Obligatorio para que se vea bien |
 | `releaseType` | `beta` | Según el tipo de versión |
@@ -58,12 +58,12 @@ Ejemplo: `26.2-0.0.0-beta.1`
 
 <h3>Added</h3>
 <ul>
-<li><strong>EnchantVenture Translations</strong>: first versioned release of the resource pack.</li>
+<li><strong>EnchantVenture Pack</strong>: first versioned release of the resource pack.</li>
 </ul>
 
 <hr>
 
-<p><strong>ZIP</strong>: <code>EnchantVenture-1.0.0-beta.2.zip</code></p>
+<p><strong>ZIP</strong>: <code>EnchantVenture_Pack-1.0.0-beta.3.zip</code></p>
 ```
 
 > Nota: `gameVersions` usa el `gameVersionId` de Minecraft (de `GET /v1/minecraft/version`), no el pack format.

@@ -1,7 +1,7 @@
-# Flujo de trabajo — EnchantVenture (Resource Pack)
+# Flujo de trabajo — EnchantVenture Pack (Resource Pack)
 
 > **Versión del workflow**: 1.17.1 (codex-docs)
-> Este archivo pertenece al proyecto **EnchantVenture**. Cambios aquí solo afectan a este proyecto.
+> Este archivo pertenece al proyecto **EnchantVenture Pack**. Cambios aquí solo afectan a este proyecto.
 > **Trabaja directamente con este archivo**: es el workflow operativo del resource pack, autocontenido. No leas `codex-docs/WORKFLOW_AGENT.md` ni `WORKFLOW_GENERIC.md` de forma rutinaria.
 > On-demand (solo si la tarea lo necesita): `codex-docs/reference/CURSEFORGE.md` (formato HTML al publicar), `codex-docs/reference/REPO_SETUP.md` (setup único de repo).
 
@@ -9,15 +9,15 @@
 
 | Dato | Valor |
 |---|---|
-| Nombre del proyecto (`version.txt`) | `EnchantVenture` |
-| Display name (Title Case) | `EnchantVenture` |
+| Nombre del proyecto (`version.txt`) | `EnchantVenture Pack` |
+| Display name (Title Case) | `EnchantVenture Pack` |
 | Versión de Minecraft | `26.2` |
 | Pack format | `88` (`pack.mcmeta`; desde 1.21.9/26.x usa `min_format`/`max_format` en lugar de `pack_format` — corregido en v1.0.0-beta.1) |
 | Rama de trabajo | `minecraft/26.2/resourcepack/production` |
 | Rama pública hermana | `minecraft/26.2/resourcepack/main` (protegida, la escribe CI/CD) |
 | Instancia CurseForge de referencia | `C:\Users\llagu\curseforge\minecraft\Instances\EnchantVenture\mods` |
 | Modpack objetivo | https://www.curseforge.com/minecraft/modpacks/enchantventure |
-| Repositorio | https://gitlab.com/stalking-dragons/minecraft/enchantventure.git |
+| Repositorio | https://gitlab.com/stalking-dragons/minecraft/enchantventure-pack.git |
 
 ## Qué es este proyecto
 
@@ -40,7 +40,7 @@ No es un datapack (eso es `EnchantVenture_fixes`, repo hermano).
 | Aspecto | Mod | Datapack (`EnchantVenture_fixes`) | Resource pack (este repo) |
 |---|---|---|---|
 | Build | `./gradlew.bat clean build` → JAR | `python build_fix_pack.py` → ZIP | `python build_pack.py` → ZIP |
-| Artefacto | `build/libs/<mod_id>-...-<version>.jar` | `build/EnchantVenture_fixes-<version>.zip` | `build/EnchantVenture-<version>.zip` |
+| Artefacto | `build/libs/<mod_id>-...-<version>.jar` | `build/EnchantVenture_fixes-<version>.zip` | `build/EnchantVenture_Pack-<version>.zip` |
 | Versión | `mod_version` en `gradle.properties` | `version.txt` | `version.txt` (única fuente de verdad) |
 | Contenido versionado | `src/` | `datapack/` (generado desde JARs) | `resourcepack/` (traducciones curadas a mano) |
 | pack_format | — | `107` (datapack) | `88` (resource pack — numeración distinta a la de datapacks; `min_format`/`max_format` desde 26.x) |
@@ -112,7 +112,7 @@ No usar Ollama para pre-filtrar los `en_us.json` de mods (son de referencia y pe
 ## Versionado
 
 - Beta `0.0.0-beta.X` · Release `X.Y.Z` (SemVer)
-- Versión en `version.txt`. ZIP: `EnchantVenture-<version>.zip`
+- Versión en `version.txt`. ZIP: `EnchantVenture_Pack-<version>.zip`
 - Primer versionado: `0.0.0-beta.1`
 - Criterio de bump: no hay una cadencia fija por mod traducido; el usuario decide cuándo se acumula
   suficiente contenido para justificar una nueva beta/release y subida a CurseForge.
