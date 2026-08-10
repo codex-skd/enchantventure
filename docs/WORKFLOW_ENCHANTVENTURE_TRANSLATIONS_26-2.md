@@ -1,6 +1,6 @@
 # Flujo de trabajo — EnchantVenture_translations (Resource Pack)
 
-> **Versión del workflow**: 1.16.0 (codex-docs)
+> **Versión del workflow**: 1.16.1 (codex-docs)
 > Este archivo pertenece al proyecto **EnchantVenture_translations**. Cambios aquí solo afectan a este proyecto.
 > **Trabaja directamente con este archivo**: es el workflow operativo del resource pack, autocontenido. No leas `codex-docs/WORKFLOW_AGENT.md` ni `WORKFLOW_GENERIC.md` de forma rutinaria.
 > On-demand (solo si la tarea lo necesita): `codex-docs/reference/CURSEFORGE.md` (formato HTML al publicar), `codex-docs/reference/REPO_SETUP.md` (setup único de repo).
@@ -12,7 +12,7 @@
 | Nombre del proyecto (`version.txt`) | `EnchantVenture_translations` |
 | Display name (Title Case) | `EnchantVenture Translations` |
 | Versión de Minecraft | `26.2` |
-| Pack format | `64` (`pack.mcmeta`, campo `pack_format`) |
+| Pack format | `88` (`pack.mcmeta`; desde 1.21.9/26.x usa `min_format`/`max_format` en lugar de `pack_format` — corregido en v0.0.0-beta.18) |
 | Rama de trabajo | `minecraft/26.2/resourcepack/production` |
 | Rama pública hermana | `minecraft/26.2/resourcepack/main` (protegida, la escribe CI/CD) |
 | Instancia CurseForge de referencia | `C:\Users\llagu\curseforge\minecraft\Instances\EnchantVenture\mods` |
@@ -34,7 +34,7 @@ por encima, vía resource pack.
 | Artefacto | `build/libs/<mod_id>-...-<version>.jar` | `build/EnchantVenture_fixes-<version>.zip` | `build/EnchantVenture_translations-<version>.zip` |
 | Versión | `mod_version` en `gradle.properties` | `version.txt` | `version.txt` (única fuente de verdad) |
 | Contenido versionado | `src/` | `datapack/` (generado desde JARs) | `resourcepack/` (traducciones curadas a mano) |
-| pack_format | — | `107` (datapack) | `64` (resource pack — numeración distinta a la de datapacks) |
+| pack_format | — | `107` (datapack) | `88` (resource pack — numeración distinta a la de datapacks; `min_format`/`max_format` desde 26.x) |
 | gameVersions CurseForge | `["Client", "Server", "26.2", "NeoForge"]` | `["Datapack", "26.2"]` | `["26.2"]` (categoría Resource Packs) |
 | Tag | `<mc>-neoforge-<version>` | `26.2-<version>` | `26.2-<version>` |
 | docs/curseforge | project_description / project_vars / versions | idéntica | idéntica |

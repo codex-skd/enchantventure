@@ -11,7 +11,7 @@ for the current status of every mod in the modpack.
 
 ## Requirements
 
-- Minecraft **26.2** (pack format 64)
+- Minecraft **26.2** (pack format 88)
 - The EnchantVenture modpack (or any subset of the mods it bundles)
 
 ## Installation

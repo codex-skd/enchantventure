@@ -35,7 +35,7 @@
 
 <table>
 <tr><td><strong>Minecraft</strong></td><td>26.2</td></tr>
-<tr><td><strong>Pack format</strong></td><td>64</td></tr>
+<tr><td><strong>Pack format</strong></td><td>88</td></tr>
 <tr><td><strong>Environment</strong></td><td>Client</td></tr>
 </table>
 

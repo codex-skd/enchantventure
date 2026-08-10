@@ -26,7 +26,7 @@ Autenticación Core: cabecera `x-api-key`
 | Variable | Valor |
 |----------|-------|
 | `minecraft_version` | `26.2` |
-| `pack_format` | `64` |
+| `pack_format` | `88` |
 | `environment` | `Client` (traducciones, se aplican en el cliente) |
 
 ## Rama

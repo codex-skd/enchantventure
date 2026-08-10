@@ -1,6 +1,7 @@
 {
   "pack": {
     "description": "EnchantVenture Translations (es_ES) - community Spanish translations for the EnchantVenture modpack",
-    "pack_format": 64
+    "min_format": 88,
+    "max_format": 88
   }
 }
