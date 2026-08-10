@@ -1,4 +1,4 @@
-# Estado de traducciones — EnchantVenture Translations
+# Estado de traducciones — EnchantVenture Pack
 
 > Generado leyendo el manifest real de cada JAR (`META-INF/neoforge.mods.toml` / `mods.toml` /
 > `fabric.mod.json`) en `C:\Users\llagu\curseforge\minecraft\Instances\EnchantVenture\mods` (154 jars),

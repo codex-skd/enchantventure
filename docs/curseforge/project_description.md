@@ -1,4 +1,4 @@
-<h1 align="center">✨ EnchantVenture</h1>
+<h1 align="center">✨ EnchantVenture Pack</h1>
 
 <p align="center"><strong>Community resource pack for the EnchantVenture modpack — Spanish (es_ES) translations + Enchanting Table Magic Circle. Client-side, drop-in install.</strong></p>
 
@@ -10,8 +10,8 @@
 
 <h2>✨ Overview</h2>
 
-<p><strong>EnchantVenture</strong> is a client-side resource pack for Minecraft 26.2 that brings two things
-to the EnchantVenture modpack:</p>
+<p><strong>EnchantVenture Pack</strong> is the client-side resource pack for the <strong>EnchantVenture</strong>
+modpack (Minecraft 26.2). It bundles the modpack's community extras — currently two things, with more to come:</p>
 
 <ol>
 <li><strong>Spanish (<code>es_ES</code>) translations</strong> for mods that don't ship their own — added as
@@ -48,7 +48,7 @@ Translations are added incrementally, mod by mod.</p>
 <h2>📥 Installation</h2>
 
 <ol>
-<li>Download <code>EnchantVenture-&lt;version&gt;.zip</code>.</li>
+<li>Download <code>EnchantVenture_Pack-&lt;version&gt;.zip</code>.</li>
 <li>Place it in <code>resourcepacks/</code>.</li>
 <li>Enable it in <strong>Options → Resource Packs</strong> (above any other resource pack that also translates the same mods, if applicable).</li>
 <li>Set your game language to <strong>Español (España)</strong>.</li>

@@ -1,4 +1,4 @@
-# CurseForge Upload Script — Resource Pack (EnchantVenture)
+# CurseForge Upload Script — Resource Pack (EnchantVenture Pack)
 # Adapted from codex-docs/scripts/curseforge-upload.ps1 (mods): reads version.txt instead of
 # gradle.properties, uploads the ZIP from build/ as application/zip with resource pack game versions.
 #
@@ -8,7 +8,7 @@
 # Requires:
 #   - docs/curseforge/project_vars.md with: project_id, api_token, game_versions
 #   - version.txt with the current version
-#   - build/EnchantVenture-<version>.zip (run python build_pack.py first)
+#   - build/EnchantVenture_Pack-<version>.zip (run python build_pack.py first)
 #   - docs/curseforge/versions/<version>.md with release notes in HTML
 
 $scriptPath = Split-Path -Parent $MyInvocation.MyCommand.Path
@@ -36,14 +36,14 @@ if (-not $releaseType) { $releaseType = "beta" }
 if (-not $gameVersionsStr) { $gameVersionsStr = "26.2" }
 
 $modVersion = (Get-Content "$repoPath/version.txt").Trim()
-$modName = "EnchantVenture"
+$modName = "EnchantVenture Pack"
 
 # @(...) forces an array; otherwise PowerShell unwraps single values and ConvertTo-Json
 # emits an integer instead of a JSON array, which CurseForge rejects.
 $gameVersions = @($gameVersionsStr -split "," | ForEach-Object { $_.Trim() } | Where-Object { $_ -ne "" } | ForEach-Object { [int]$_ })
 
 # Build paths
-$zipName = "EnchantVenture-${modVersion}.zip"
+$zipName = "EnchantVenture_Pack-${modVersion}.zip"
 $zipPath = "$repoPath/build/$zipName"
 $changelogPath = "$repoPath/docs/curseforge/versions/${modVersion}.md"
 
