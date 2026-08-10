@@ -1,0 +1,20 @@
+{
+  "rpo.enchantingTableMagicCircle": "जादुई मंत्रवृत्त",
+  "rpo.enchantingTableMagicCircle.magicCircleColor": "जादुई वृत्त का रंग",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.blue": "नीला",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.purple": "बैंगनी",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.pink": "गुलाबी",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.red": "लाल",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.orange": "नारंगी",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.gold": "सुनहरा",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.green": "हरा",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.dark": "गहरा",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.white": "सफेद",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.flame": "ज्वाला",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.water": "पानी",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures": "एनिमेटेड टेक्सचर का उपयोग करें",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.normal": "सामान्य",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.bruteforce": "बलपूर्वक",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.disabled": "अक्षम",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.tooltip": "विवरण के लिए Modrinth पेज देखें"
+}

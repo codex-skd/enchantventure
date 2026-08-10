@@ -1,0 +1,15 @@
+{
+    condition: "enchantingTableMagicCircle.magicCircleColor.blue",
+    fallback: [
+	"assets/minecraft/textures/entity/colors/purple_enchanting_table_book_e.png",
+	"assets/minecraft/textures/entity/colors/pink_enchanting_table_book_e.png",
+	"assets/minecraft/textures/entity/colors/red_enchanting_table_book_e.png",
+	"assets/minecraft/textures/entity/colors/orange_enchanting_table_book_e.png",
+	"assets/minecraft/textures/entity/colors/gold_enchanting_table_book_e.png",
+	"assets/minecraft/textures/entity/colors/green_enchanting_table_book_e.png",
+	"assets/minecraft/textures/entity/colors/dark_enchanting_table_book_e.png",
+	"assets/minecraft/textures/entity/colors/white_enchanting_table_book_e.png",
+	"assets/minecraft/textures/entity/colors/flame_enchanting_table_book_e.png",
+	"assets/minecraft/textures/entity/colors/water_enchanting_table_book_e.png"
+    ]
+}

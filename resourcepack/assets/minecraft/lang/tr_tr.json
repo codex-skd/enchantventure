@@ -1,0 +1,20 @@
+{
+  "rpo.enchantingTableMagicCircle": "Enchanting Table Magic Circle",
+  "rpo.enchantingTableMagicCircle.magicCircleColor": "Büyü Çemberi Rengi",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.blue": "Mavi",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.purple": "Mor",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.pink": "Pembe",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.red": "Kırmızı",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.orange": "Turuncu",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.gold": "Altın",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.green": "Yeşil",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.dark": "Koyu",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.white": "Beyaz",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.flame": "Alev",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.water": "Su",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures": "Animasyonlu Dokuları Kullan",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.normal": "Normal",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.bruteforce": "ZORLA",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.disabled": "Devre Dışı",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.tooltip": "Ayrıntılar için Modrinth sayfasına bakın"
+}

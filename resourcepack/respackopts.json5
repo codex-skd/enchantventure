@@ -1,0 +1,16 @@
+{
+    id: "enchantingTableMagicCircle",
+    version: 9,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+		useAnimatedTextures: {
+            type: "enum",
+            values: ["normal", "bruteforce", "disabled"]
+        },
+        magicCircleColor: {
+            type: "enum",
+            values: ["blue", "purple", "pink", "red", "orange", "gold", "green", "dark", "white", "flame", "water"]
+        }
+		
+    }
+}

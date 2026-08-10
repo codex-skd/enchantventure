@@ -1,0 +1,20 @@
+{
+  "rpo.enchantingTableMagicCircle": "Enchanting Table Magic Circle",
+  "rpo.enchantingTableMagicCircle.magicCircleColor": "Màu vòng tròn ma thuật",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.blue": "Xanh dương",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.purple": "Tím",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.pink": "Hồng",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.red": "Đỏ",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.orange": "Cam",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.gold": "Vàng",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.green": "Xanh lá",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.dark": "Tối",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.white": "Trắng",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.flame": "Lửa",
+  "rpo.enchantingTableMagicCircle.magicCircleColor.water": "Nước",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures": "Sử dụng texture động",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.normal": "Bình thường",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.bruteforce": "CƯỠNG BỨC",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.disabled": "Tắt",
+  "rpo.enchantingTableMagicCircle.useAnimatedTextures.tooltip": "Xem chi tiết tại trang Modrinth"
+}
