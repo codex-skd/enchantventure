@@ -44,7 +44,7 @@ Ejemplo: `26.2-0.0.0-beta.1`
 
 | Campo | Valor | Notas |
 |-------|-------|-------|
-| `displayName` | `EnchantVenture (1.0.0-beta.1)` | Nombre visible: `display_name (version)` |
+| `displayName` | `EnchantVenture (1.0.0-beta.2)` | Nombre visible: `display_name (version)` |
 | `changelog` | HTML (no Markdown) | Ver estructura abajo |
 | `changelogType` | `html` | Obligatorio para que se vea bien |
 | `releaseType` | `beta` | Según el tipo de versión |
@@ -62,7 +62,7 @@ Ejemplo: `26.2-0.0.0-beta.1`
 
 <hr>
 
-<p><strong>ZIP</strong>: <code>EnchantVenture-1.0.0-beta.1.zip</code></p>
+<p><strong>ZIP</strong>: <code>EnchantVenture-1.0.0-beta.2.zip</code></p>
 ```
 
 > Nota: `gameVersions` usa el `gameVersionId` de Minecraft (de `GET /v1/minecraft/version`), no el pack format.
