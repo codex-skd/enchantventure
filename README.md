@@ -20,9 +20,13 @@ Client-side resource pack for the EnchantVenture modpack (Minecraft 26.2). It bu
 
 - Minecraft **26.2** (pack format 88)
 - The EnchantVenture modpack (or any subset of the mods it bundles)
+- Required for the magic circle (NeoForge equivalents of the pack's requirements):
+  - **EMF** (Entity Model Features) or **OptiFine** — custom book model (`optifine/cem`).
+  - **ETF** (Entity Texture Features) or **OptiFine** — animated / emissive textures
+    (`optifine/anim`, `_e` overlays). *Animatica is Fabric-only and does not apply to NeoForge.*
 - Optional:
-  - **Respackopts** — to configure the circle color / animation in-game.
-  - **OptiFine** or **EMF + ETF** — for the animated textures and custom book model.
+  - **Respackopts** — to pick the circle color / animation mode in-game. Without it, the
+    default blue circle is used.
 
 ## Installation
 
