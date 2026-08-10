@@ -62,8 +62,13 @@ Translations are added incrementally, mod by mod.</p>
 <tr><td><strong>Minecraft</strong></td><td>26.2</td></tr>
 <tr><td><strong>Pack format</strong></td><td>88</td></tr>
 <tr><td><strong>Environment</strong></td><td>Client</td></tr>
-<tr><td><strong>Optional mods</strong></td><td>Respackopts (color/animation options) · OptiFine or EMF+ETF (animated textures &amp; book model)</td></tr>
+<tr><td><strong>Required (magic circle)</strong></td><td>EMF + ETF (or OptiFine)</td></tr>
+<tr><td><strong>Optional</strong></td><td>Respackopts (color/animation options)</td></tr>
 </table>
+
+<p><em>NeoForge: animated &amp; emissive textures need <strong>ETF</strong> or OptiFine, the custom book
+model needs <strong>EMF</strong> or OptiFine. <strong>Animatica</strong> is Fabric-only and does not
+apply to NeoForge. Without Respackopts the default blue circle is used.</em></p>
 
 <br>
 

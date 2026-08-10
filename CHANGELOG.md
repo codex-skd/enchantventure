@@ -35,7 +35,9 @@ y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 ### Nota
 
 - Sin Respackopts se usa el círculo azul por defecto.
-- La animación requiere OptiFine o EMF+ETF (a instalar manualmente por el usuario).
+- El círculo mágico requiere **EMF + ETF** (o OptiFine) instalados manualmente: EMF para el modelo
+  del libro (`optifine/cem`) y ETF para texturas animadas/emisivas (`optifine/anim`, `_e`). Animatica
+  es solo Fabric y no aplica a NeoForge.
 
 ## [0.0.0-beta.18] - 2026-08-10
 
