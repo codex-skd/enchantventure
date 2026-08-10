@@ -5,6 +5,20 @@ Todos los cambios notables de EnchantVenture Translations se documentan en este 
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.0.0-beta.18] - 2026-08-10
+
+### Corregido
+
+- `pack.mcmeta` ahora usa `min_format`/`max_format` = `88` en lugar del antiguo `pack_format: 64`.
+  El valor 64 correspondía a Minecraft 1.21.7-1.21.8, por lo que el juego marcaba el pack como
+  "diseñado para una versión anterior" y no como compatible con 26.2. Desde 1.21.9/26.x el pack format
+  se declara con `min_format`/`max_format` en vez del campo legacy `pack_format`.
+
+### Nota
+
+- Sin cambios de contenido de traducción: solo metadata del pack. Se documenta además que el pack no
+  requiere el mod `Respackopts` (no expone ninguna opción de configuración).
+
 ## [0.0.0-beta.17] - 2026-08-09
 
 ### Corregido
