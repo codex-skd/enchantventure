@@ -7,6 +7,7 @@
 | `curseforge_project_id` | `1638251` |
 | `mod_id` | `enchantventure` |
 | `display_name` | `EnchantVenture` |
+| `summary` | `Spanish (es_ES) translations + Enchanting Table Magic Circle for the EnchantVenture modpack.` |
 | Categoría (class Resource Packs) | `Data Packs` (el resto de categorías de la clase son de resolución: 16x, 32x, 64x... no aplican a un pack de solo traducciones) |
 
 ## Tokens

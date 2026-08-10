@@ -2,16 +2,19 @@
 
 > ✅ Proyecto ya creado: `curseforge_project_id` = `1638251`. Este documento queda como referencia de los
 > valores usados / a mantener coherentes si se edita la ficha del proyecto en el futuro.
+>
+> ⚠️ **Renombrado (v1.0.0-beta.1)**: el proyecto CurseForge se debe editar manualmente en la web para
+> reflejar el rebranding — no hay endpoint API para cambiar nombre/summary/descripción. Valores nuevos abajo.
 
 ## Campos del formulario
 
-| Campo | Valor usado |
+| Campo | Valor usado (actualizado) |
 |---|---|
-| **Project Name** | `EnchantVenture Translations` |
-| **Slug / URL** | `enchantventure-translations` |
-| **Summary** (línea corta, ~1 frase) | `Spanish (es_ES) translations for mods in the EnchantVenture modpack that don't ship their own.` |
+| **Project Name** | `EnchantVenture` |
+| **Slug / URL** | `enchantventure` |
+| **Summary** (línea corta, ~1 frase) | `Spanish (es_ES) translations + Enchanting Table Magic Circle for the EnchantVenture modpack.` |
 | **Project Type / Class** | Resource Packs |
-| **Category** | Data Packs (dentro de la clase Resource Packs, el resto de categorías son de resolución: 16x, 32x, 64x... — ninguna aplica a un pack de solo traducciones, así que se usó esta) |
+| **Category** | Data Packs (dentro de la clase Resource Packs, el resto de categorías son de resolución: 16x, 32x, 64x... — ninguna aplica a un pack de traducciones+círculo, así que se mantiene esta) |
 | **Client / Server** | Client |
 | **Project License** | All Rights Reserved |
 | **Description** | HTML de [`project_description.md`](project_description.md) |
