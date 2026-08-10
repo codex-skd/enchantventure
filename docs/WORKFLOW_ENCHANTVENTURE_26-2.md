@@ -1,6 +1,6 @@
 # Flujo de trabajo — EnchantVenture (Resource Pack)
 
-> **Versión del workflow**: 1.17.0 (codex-docs)
+> **Versión del workflow**: 1.17.1 (codex-docs)
 > Este archivo pertenece al proyecto **EnchantVenture**. Cambios aquí solo afectan a este proyecto.
 > **Trabaja directamente con este archivo**: es el workflow operativo del resource pack, autocontenido. No leas `codex-docs/WORKFLOW_AGENT.md` ni `WORKFLOW_GENERIC.md` de forma rutinaria.
 > On-demand (solo si la tarea lo necesita): `codex-docs/reference/CURSEFORGE.md` (formato HTML al publicar), `codex-docs/reference/REPO_SETUP.md` (setup único de repo).
@@ -63,6 +63,9 @@ No es un datapack (eso es `EnchantVenture_fixes`, repo hermano).
   no comercial). Adaptado de pack format 69-75 a 88 (26.2).
 - `respackopts.json5` con opciones `magicCircleColor` (11 colores) y `useAnimatedTextures`
   (normal/bruteforce/disabled). Sin Respackopts instalado se usa el azul por defecto.
+- **Requisitos del pack original para el círculo** (a instalar manualmente): **EMF** (o OptiFine)
+  para el modelo del libro (`optifine/cem`), **ETF** (o OptiFine) para texturas animadas/emisivas
+  (`optifine/anim`, `_e`). **Animatica es solo Fabric, no aplica a NeoForge.**
 - Shader `entity.fsh` portado a la base vanilla 26.2 (emissive alpha 252); `entity.vsh` = vanilla 26.2.
 - Al actualizar el pack de origen, revisar: shaders (formato), `optifine/` (CEM/anim) y los 22
   `assets/minecraft/lang/*` (no sobreescriben claves vanilla, solo `rpo.*`).

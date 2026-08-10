@@ -5,6 +5,18 @@ Todos los cambios notables de EnchantVenture Translations se documentan en este 
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.0-beta.2] - 2026-08-10
+
+### Documentado
+
+- Aclarados los requisitos del círculo mágico (los del pack original de Jacosvaldo):
+  - **EMF** (Entity Model Features) u OptiFine — requerido para el modelo del libro (`optifine/cem`).
+  - **ETF** (Entity Texture Features) u OptiFine — requerido para texturas animadas/emisivas
+    (`optifine/anim`, overlays `_e`).
+  - **Animatica es solo Fabric**: no aplica a NeoForge.
+  - **Respackopts** sigue siendo opcional (color/animación); sin él, círculo azul por defecto.
+- Actualizado README, descripción de CurseForge y workflow con estos requisitos.
+
 ## [1.0.0-beta.1] - 2026-08-10
 
 ### Cambiado

@@ -51,7 +51,7 @@ python build_pack.py
 # → build/EnchantVenture-<version>.zip
 ```
 
-Version is read from `version.txt` (`1.0.0-beta.1`).
+Version is read from `version.txt` (`1.0.0-beta.2`).
 
 ## Credits
 
