@@ -5,6 +5,20 @@ Todos los cambios notables de EnchantVenture Pack se documentan en este archivo.
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.0-beta.5] - 2026-08-11
+
+### Documentado
+
+- **Better Villager Animations**: investigadas sus 14 claves de `lang/en_us.json` (nombres de profesión,
+  `offer.rare_for`) — ya estaban 100% cubiertas por el `es_es.json` de este pack, nada pendiente. El
+  texto en inglés que se sigue viendo en los bocadillos de diálogo de los aldeanos (saludos, comentarios
+  ambientales, frases de venta/amenaza) no sale de esas claves: está codificado como literales de texto
+  directamente en el bytecode Java del mod (`VillagerDialogueCatalog`, `VillagerConversationCatalog`,
+  `VillagerDialogueExpansion`, `VillagerThreatDialogueCatalog`, ~136 frases en total), nunca expuesto vía
+  lang key. No es traducible desde un resource pack; documentado en `docs/TRANSLATIONS_STATUS.md`.
+- Sin cambios de contenido en `resourcepack/` — release solo para dejar constancia de esta investigación
+  en el historial de versiones.
+
 ## [1.0.0-beta.4] - 2026-08-11
 
 ### Corregido
