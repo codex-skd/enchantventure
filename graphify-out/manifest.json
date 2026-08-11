@@ -410,8 +410,8 @@
     "semantic_hash": ""
   },
   "CHANGELOG.md": {
-    "mtime": 1786470968.530847,
-    "ast_hash": "e08c9c49d786add251f0a0ae3435be41",
+    "mtime": 1786471701.5409117,
+    "ast_hash": "a695806521ee4157b02f49fa19f4c860",
     "semantic_hash": ""
   },
   "README.md": {
@@ -420,8 +420,8 @@
     "semantic_hash": ""
   },
   "docs/TRANSLATIONS_STATUS.md": {
-    "mtime": 1786352645.0147042,
-    "ast_hash": "3764ce57cd2e5530768bc1e9c8c51270",
+    "mtime": 1786471218.663726,
+    "ast_hash": "5e6e41c94087cd61903c112cc24944b7",
     "semantic_hash": ""
   },
   "docs/curseforge/create_project_form.md": {
@@ -510,8 +510,8 @@
     "semantic_hash": ""
   },
   "version.txt": {
-    "mtime": 1786470489.0738075,
-    "ast_hash": "2fef08ed2f17395e8ece4ab20fb9cec0",
+    "mtime": 1786471649.590458,
+    "ast_hash": "cc692bf157f0a2928a1f3ba785fe6ffe",
     "semantic_hash": ""
   },
   "resourcepack/pack.png": {
@@ -1002,6 +1002,11 @@
   "resourcepack/assets/minecraft/textures/entity/lectern_book.png": {
     "mtime": 1786323523.795684,
     "ast_hash": "7c7654b1277b77686e2577ebc3d5dc8b",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/1.0.0-beta.5.md": {
+    "mtime": 1786471664.7067132,
+    "ast_hash": "e6711c9b7ad64e07a412a94617ade0e1",
     "semantic_hash": ""
   }
 }
