@@ -55,6 +55,17 @@
 > `entity.artifact_golem.*`/`entity.player.timewarp.*`, y las pociones de "Expansión"/"Antigravedad").
 > Las claves `tooltip.bg.*` son códigos de icono y no se traducen.
 >
+> **Limitación de Better Villager Animations**: sus 14 claves de `lang/en_us.json` (nombre del mod,
+> `offer.rare_for`, nombres de profesión) ya estaban 100% cubiertas por el `es_es.json` de este resource
+> pack — no había nada pendiente ahí. Pero el texto que se ve en los bocadillos de diálogo sobre los
+> aldeanos (saludos, comentarios ambientales, frases de venta, líneas de amenaza) **no sale de esas
+> claves de lang**: está codificado como literales de texto directamente en el bytecode Java del mod
+> (`VillagerDialogueCatalog`, `VillagerConversationCatalog`, `VillagerDialogueExpansion`,
+> `VillagerThreatDialogueCatalog` — confirmado extrayendo y grepeando los `.class` del jar,
+> ~136 frases en total entre las 4 clases). Un resource pack solo puede sobrescribir lo que el mod
+> expone vía `lang/*.json`; esto no pasa por ahí, así que no es traducible desde este repo. Traducirlo
+> requeriría un fork/parche del mod (fuera de alcance de un resource pack) — no hay acción posible aquí.
+>
 > Reproducir este escaneo: `python` con `tomllib` (3.11+), leer `META-INF/neoforge.mods.toml` (NeoForge),
 > `META-INF/mods.toml` (Forge) o `fabric.mod.json` (Fabric) de cada jar para sacar `modid`/`name`/`version`,
 > y comprobar si existe `assets/<modid>/lang/es_es.json` dentro del jar. 4 mods (`aiimprovements`,
@@ -88,7 +99,7 @@ el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
 | Better Party | `better_party` | `better-party-neoforge-26.2-1.1.1.jar` | `1.1.1` | SI | 2026-08-03 |
 | Better Party X Waystones | `better_party_x_waystones` | `better-party-x-waystones-neoforge-26.2-1.0.0.jar` | `1.0.0` | SI (override) | 2026-08-04 |
 | Better Party X Xaero's World Map | `better_party_x_xaeros_world_map` | `better-party-x-xaeros-world-map-neoforge-26.2-1.0.0.jar` | `1.0.0` | SI | 2026-08-03 |
-| Better Villager Animations | `bettervillageranimations` | `better-villager-animations-neoforge-26.2.jar` | `1.0.0` | SI | 2026-08-03 |
+| Better Villager Animations | `bettervillageranimations` | `better-villager-animations-neoforge-26.2.jar` | `1.0.0` | SI (ver nota: diálogos hardcodeados no traducibles) | 2026-08-11 |
 | Bridging Mod | `bridgingmod` | `BridgingMod-2.7.0+26.2.neoforge-release.jar` | `2.7.0+26.2` | SI | 2026-08-03 |
 | Carry Mechanics | `carry_mechanics` | `carry_mechanics-26.2-neoforge-1.0.6.jar` | `1.0.6` | PROPIO | 2026-08-04 |
 | clientcrafting mod | `clientcrafting` | `clientcrafting-26.1-2.1.jar` | `2.1` | N/A (sin lang/ en el jar) | 2026-08-03 |
