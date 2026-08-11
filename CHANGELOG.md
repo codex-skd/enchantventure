@@ -18,6 +18,7 @@ y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
   lang key. No es traducible desde un resource pack; documentado en `docs/TRANSLATIONS_STATUS.md`.
 - Sin cambios de contenido en `resourcepack/` — release solo para dejar constancia de esta investigación
   en el historial de versiones.
+- Subido a CurseForge vía `scripts/curseforge-upload.ps1` (file ID `8625876`).
 
 ## [1.0.0-beta.4] - 2026-08-11
 
