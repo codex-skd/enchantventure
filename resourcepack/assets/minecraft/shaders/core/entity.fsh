@@ -53,14 +53,14 @@ void main() {
     faceVertexColor.a = 1.0;
 #endif
 
-    color *= faceVertexColor * ColorModulator;
-#ifndef NO_OVERLAY
-    color.rgb = mix(overlayColor.rgb, color.rgb, overlayColor.a);
-#endif
 #ifndef EMISSIVE
     if (int(round(rawAlpha * 255)) != EMISSIVE_ALPHA) {
         color *= lightMapColor;
     }
+#endif
+    color *= faceVertexColor * ColorModulator;
+#ifndef NO_OVERLAY
+    color.rgb = mix(overlayColor.rgb, color.rgb, overlayColor.a);
 #endif
 
     fragColor = apply_fog(color, sphericalVertexDistance, cylindricalVertexDistance, FogEnvironmentalStart, FogEnvironmentalEnd, FogRenderDistanceStart, FogRenderDistanceEnd, FogColor);

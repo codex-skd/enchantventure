@@ -5,6 +5,23 @@ Todos los cambios notables de EnchantVenture Pack se documentan en este archivo.
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.0-beta.4] - 2026-08-11
+
+### Corregido
+
+- **Shader `entity.fsh` (círculo mágico)**: el orden de operaciones difería del pack original de referencia
+  (`lib_ext/Enchanting Table Magic Circle v.2.5`). El port a la base vanilla de 26.2 aplicaba la
+  multiplicación por color de vértice/`ColorModulator` y la mezcla del overlay **antes** de la
+  multiplicación condicional por `lightMapColor` (que se salta para píxeles con alpha 252, el círculo
+  emisivo); el original aplica la luz primero, y el overlay al final. Ese reordenamiento degradaba el
+  círculo/runas a un blob translúcido sin forma nítida en vez del anillo grabado esperado. Reordenado
+  para que coincida exactamente con la secuencia del original: luz condicional → color de vértice ×
+  `ColorModulator` → mezcla de overlay.
+- Verificado mediante diff completo (154 archivos) del pack original vendorizado en `lib_ext/` contra
+  `resourcepack/`: geometría (`book.jem`), texturas (`circle.png`, `runes.png`, variantes de color) y
+  `.properties` de animación son idénticos byte a byte al original — el único cambio funcional real
+  frente al pack que funciona era este shader.
+
 ## [1.0.0-beta.3] - 2026-08-10
 
 ### Cambiado
