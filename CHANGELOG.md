@@ -21,6 +21,7 @@ y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
   `resourcepack/`: geometría (`book.jem`), texturas (`circle.png`, `runes.png`, variantes de color) y
   `.properties` de animación son idénticos byte a byte al original — el único cambio funcional real
   frente al pack que funciona era este shader.
+- Subido a CurseForge vía `scripts/curseforge-upload.ps1` (file ID `8625810`).
 
 ## [1.0.0-beta.3] - 2026-08-10
 
