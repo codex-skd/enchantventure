@@ -5,6 +5,21 @@ Todos los cambios notables de EnchantVenture Pack se documentan en este archivo.
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.0-beta.6] - 2026-08-12
+
+### Corregido
+
+- **CurseForge — subida rechazada de 1.0.0-beta.5**: el ZIP de beta.5 era byte-idéntico al de beta.4
+  (mismo tamaño exacto, `resourcepack/` sin cambios de contenido) porque `pack.mcmeta` nunca incluía la
+  versión en su `description`. CurseForge rechazó la subida por huella (fingerprint) duplicada de un
+  archivo ya existente en el proyecto. La subida con file ID `8625876` registrada en el commit de
+  beta.5 nunca llegó a estar disponible (confirmado vía `GET /v1/mods/{id}/files/{fileId}` → 404); el
+  intento posterior de re-subir el mismo ZIP sin cambios (file ID `8635550`) tampoco quedó disponible.
+- Añadida la versión a `resourcepack/pack.mcmeta` (`description`) para que cada build genere un ZIP con
+  contenido único, evitando que futuras betas sin cambios de traducción vuelvan a colisionar por
+  fingerprint duplicado en CurseForge.
+- Subido a CurseForge vía `scripts/curseforge-upload.ps1` (file ID `<pendiente>`).
+
 ## [1.0.0-beta.5] - 2026-08-11
 
 ### Documentado
