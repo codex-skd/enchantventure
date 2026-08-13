@@ -18,6 +18,10 @@ y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
   sobre `enchanting_table_book.png`/`_e.png`) no se renderiza correctamente con EMF/ETF en 26.2 —
   produce artefactos de ruido/textura sin recortar sobre el libro. El pack vuelve a ser solo de
   traducciones `es_ES`.
+- Subido a CurseForge vía `scripts/curseforge-upload.ps1` (file ID `8639186`, HTTP 200). Igual que en
+  beta.5/beta.6, la verificación posterior con `GET /v1/mods/{id}/files/{fileId}` devuelve 404 pese a la
+  subida exitosa — patrón recurrente de CurseForge en este proyecto, no bloqueante (confirmar
+  disponibilidad manualmente en la web del proyecto si hace falta certeza).
 
 ## [1.0.0-beta.6] - 2026-08-12
 
