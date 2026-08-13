@@ -1,16 +1,16 @@
-# Graph Report - enchantventure-pack  (2026-08-12)
+# Graph Report - enchantventure-pack  (2026-08-13)
 
 ## Corpus Check
-- 142 files · ~1,190,538 words
+- 122 files · ~184,160 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 132 nodes · 102 edges · 42 communities (35 shown, 7 thin omitted)
+- 134 nodes · 103 edges · 44 communities (36 shown, 8 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `ab082f9c`
+- Built from commit: `a76ca0d7`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -32,9 +32,10 @@
 - [0.0.0-beta.9] - 2026-08-03
 - [1.0.0-beta.3] - 2026-08-10
 - [1.0.0-beta.4] - 2026-08-11
+- [0.0.0-beta.7] - 2026-08-03
 
 ## God Nodes (most connected - your core abstractions)
-1. `Changelog` - 25 edges
+1. `Changelog` - 26 edges
 2. `Flujo de trabajo — EnchantVenture Pack (Resource Pack)` - 12 edges
 3. `CurseForge — Variables del proyecto` - 12 edges
 4. `EnchantVenture Pack` - 8 edges
@@ -51,11 +52,11 @@
 ## Import Cycles
 - None detected.
 
-## Communities (42 total, 7 thin omitted)
+## Communities (44 total, 8 thin omitted)
 
 ### Community 0 - "build_translation_pack.py"
-Cohesion: 0.14
-Nodes (13): Buenas prácticas, Commits (Conventional Commits), Círculo mágico (Enchanting Table Magic Circle, integrado desde v1.0.0-beta.1), Diferencias con un mod NeoForge o con el datapack de fixes, Específico del resource pack, Estructura del proyecto, Flujo de trabajo — EnchantVenture Pack (Resource Pack), Flujo por mod (tarea recurrente) (+5 more)
+Cohesion: 0.15
+Nodes (12): Buenas prácticas, Commits (Conventional Commits), Diferencias con un mod NeoForge o con el datapack de fixes, Específico del resource pack, Estructura del proyecto, Flujo de trabajo — EnchantVenture Pack (Resource Pack), Flujo por mod (tarea recurrente), Flujo por tarea (+4 more)
 
 ### Community 3 - "Flujo de trabajo — EnchantVenture_translations (Resource Pack)"
 Cohesion: 0.50
@@ -75,7 +76,7 @@ Nodes (3): Campos del formulario, CurseForge — Formulario de creación del pro
 
 ### Community 7 - "Changelog"
 Cohesion: 0.06
-Nodes (30): [0.0.0-beta.10] - 2026-08-03, [0.0.0-beta.12] - 2026-08-03, [0.0.0-beta.13] - 2026-08-03, [0.0.0-beta.18] - 2026-08-10, [0.0.0-beta.1] - 2026-08-03, [0.0.0-beta.2] - 2026-08-03, [0.0.0-beta.3] - 2026-08-03, [0.0.0-beta.5] - 2026-08-03 (+22 more)
+Nodes (30): [0.0.0-beta.10] - 2026-08-03, [0.0.0-beta.11] - 2026-08-03, [0.0.0-beta.12] - 2026-08-03, [0.0.0-beta.13] - 2026-08-03, [0.0.0-beta.17] - 2026-08-09, [0.0.0-beta.2] - 2026-08-03, [0.0.0-beta.3] - 2026-08-03, [0.0.0-beta.4] - 2026-08-03 (+22 more)
 
 ### Community 8 - "[0.0.0-beta.14] - 2026-08-04"
 Cohesion: 0.40
@@ -87,29 +88,27 @@ Nodes (3): [0.0.0-beta.15] - 2026-08-04, Añadido, Cambiado
 
 ### Community 11 - "[0.0.0-beta.12] - 2026-08-03"
 Cohesion: 0.67
-Nodes (3): [0.0.0-beta.17] - 2026-08-09, Corregido, Nota
+Nodes (3): [0.0.0-beta.18] - 2026-08-10, Corregido, Nota
 
 ### Community 12 - "[0.0.0-beta.13] - 2026-08-03"
 Cohesion: 0.67
 Nodes (3): [0.0.0-beta.14] - 2026-08-04, Añadido, Cambiado
 
 ## Knowledge Gaps
-- **66 isolated node(s):** `Corregido`, `Documentado`, `Corregido`, `Cambiado`, `Documentado` (+61 more)
+- **67 isolated node(s):** `Eliminado`, `Corregido`, `Documentado`, `Corregido`, `Cambiado` (+62 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **7 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **8 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `Changelog` connect `Changelog` to `Flujo de trabajo — EnchantVenture_translations (Resource Pack)`, `[1.0.0-beta.3] - 2026-08-10`, `[0.0.0-beta.14] - 2026-08-04`, `[1.0.0-beta.4] - 2026-08-11`, `[0.0.0-beta.11] - 2026-08-03`, `[0.0.0-beta.12] - 2026-08-03`, `[0.0.0-beta.13] - 2026-08-03`, `[0.0.0-beta.1] - 2026-08-03`, `[0.0.0-beta.2] - 2026-08-03`, `[0.0.0-beta.9] - 2026-08-03`?**
-  _High betweenness centrality (0.189) - this node is a cross-community bridge._
+- **Why does `Changelog` connect `Changelog` to `Flujo de trabajo — EnchantVenture_translations (Resource Pack)`, `[1.0.0-beta.3] - 2026-08-10`, `[0.0.0-beta.14] - 2026-08-04`, `[1.0.0-beta.4] - 2026-08-11`, `[0.0.0-beta.11] - 2026-08-03`, `[0.0.0-beta.12] - 2026-08-03`, `[0.0.0-beta.13] - 2026-08-03`, `[0.0.0-beta.7] - 2026-08-03`, `[0.0.0-beta.2] - 2026-08-03`, `[0.0.0-beta.1] - 2026-08-03`, `[0.0.0-beta.9] - 2026-08-03`?**
+  _High betweenness centrality (0.196) - this node is a cross-community bridge._
 - **Why does `[1.0.0-beta.1] - 2026-08-10` connect `[0.0.0-beta.14] - 2026-08-04` to `Changelog`?**
   _High betweenness centrality (0.026) - this node is a cross-community bridge._
 - **Why does `[0.0.0-beta.16] - 2026-08-08` connect `Flujo de trabajo — EnchantVenture_translations (Resource Pack)` to `Changelog`?**
   _High betweenness centrality (0.020) - this node is a cross-community bridge._
-- **What connects `Corregido`, `Documentado`, `Corregido` to the rest of the system?**
-  _66 weakly-connected nodes found - possible documentation gaps or missing edges._
-- **Should `build_translation_pack.py` be split into smaller, more focused modules?**
-  _Cohesion score 0.14285714285714285 - nodes in this community are weakly interconnected._
+- **What connects `Eliminado`, `Corregido`, `Documentado` to the rest of the system?**
+  _67 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Changelog` be split into smaller, more focused modules?**
   _Cohesion score 0.06451612903225806 - nodes in this community are weakly interconnected._

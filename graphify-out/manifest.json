@@ -345,8 +345,8 @@
     "semantic_hash": ""
   },
   "resourcepack/assets/minecraft/lang/es_es.json": {
-    "mtime": 1786323530.691209,
-    "ast_hash": "39e5c5b34fde1789891edb3772090a37",
+    "mtime": 1786617225.0108788,
+    "ast_hash": "deab43024bdcff3f837a0ee4e948706f",
     "semantic_hash": ""
   },
   "resourcepack/assets/mutantmonsters/lang/es_es.json": {
@@ -410,13 +410,13 @@
     "semantic_hash": ""
   },
   "CHANGELOG.md": {
-    "mtime": 1786570858.3475773,
-    "ast_hash": "6ec1e249f6e393a7112bfac4ace5863f",
+    "mtime": 1786617623.548598,
+    "ast_hash": "9bfee8ec537806096f03d9cc92522b50",
     "semantic_hash": ""
   },
   "README.md": {
-    "mtime": 1786352534.7062259,
-    "ast_hash": "d3ce19196f2c3373a34657a5b60ce763",
+    "mtime": 1786617239.0000703,
+    "ast_hash": "211afa079692e613902d86093a32215c",
     "semantic_hash": ""
   },
   "docs/TRANSLATIONS_STATUS.md": {
@@ -425,18 +425,18 @@
     "semantic_hash": ""
   },
   "docs/curseforge/create_project_form.md": {
-    "mtime": 1786352565.0839424,
-    "ast_hash": "ec44cc7aa5097c53419389f98f604e1f",
+    "mtime": 1786617308.0335364,
+    "ast_hash": "8f39aa7b4b9a2b26d57c85da4d88f885",
     "semantic_hash": ""
   },
   "docs/curseforge/project_description.md": {
-    "mtime": 1786567703.3571029,
-    "ast_hash": "07515bb47c676eba6842f14778280a26",
+    "mtime": 1786617289.6163437,
+    "ast_hash": "fa75d5bc416aa28677e600848fc70b5b",
     "semantic_hash": ""
   },
   "docs/curseforge/project_vars.md": {
-    "mtime": 1786352537.099449,
-    "ast_hash": "1ff802f844e9de57417d9881ca80f6b8",
+    "mtime": 1786617301.4456637,
+    "ast_hash": "d0e3de2fcfeec671b681fdf9f48e70b7",
     "semantic_hash": ""
   },
   "docs/curseforge/versions/0.0.0-beta.1.md": {
@@ -510,8 +510,8 @@
     "semantic_hash": ""
   },
   "version.txt": {
-    "mtime": 1786570840.1529827,
-    "ast_hash": "9d5846287e2433abf7d621d5de1c1422",
+    "mtime": 1786617507.8886254,
+    "ast_hash": "dd384c140337d4715d1ded8f15f3b35d",
     "semantic_hash": ""
   },
   "resourcepack/pack.png": {
@@ -554,111 +554,6 @@
     "ast_hash": "f8ca39e736537f35e769f324ef436253",
     "semantic_hash": ""
   },
-  "resourcepack/assets/minecraft/lang/ar_sa.json": {
-    "mtime": 1786323522.966545,
-    "ast_hash": "94dcca0dc9e45eaf13cdd3a5e1754960",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/lang/de_de.json": {
-    "mtime": 1786323522.9761868,
-    "ast_hash": "ff5d56340a0541195d99acc50706a8d4",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/lang/en_us.json": {
-    "mtime": 1786323522.9761868,
-    "ast_hash": "e9dc1db585e0e7f3e4e5fc051013323d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/lang/es_ar.json": {
-    "mtime": 1786323522.9777033,
-    "ast_hash": "ece0a569b59e07397266a1e4d0d1e80e",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/lang/es_cl.json": {
-    "mtime": 1786323522.9807584,
-    "ast_hash": "ece0a569b59e07397266a1e4d0d1e80e",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/lang/es_ec.json": {
-    "mtime": 1786323522.9822824,
-    "ast_hash": "ece0a569b59e07397266a1e4d0d1e80e",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/lang/es_mx.json": {
-    "mtime": 1786323522.986878,
-    "ast_hash": "ece0a569b59e07397266a1e4d0d1e80e",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/lang/es_uy.json": {
-    "mtime": 1786323522.989767,
-    "ast_hash": "ece0a569b59e07397266a1e4d0d1e80e",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/lang/es_ve.json": {
-    "mtime": 1786323522.991301,
-    "ast_hash": "ece0a569b59e07397266a1e4d0d1e80e",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/lang/fil_ph.json": {
-    "mtime": 1786323522.9973505,
-    "ast_hash": "29a5bd48fe2ab3e1a93dde2e3a3ce8b4",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/lang/fr_fr.json": {
-    "mtime": 1786323523.0055249,
-    "ast_hash": "7bb262520eb41cb59c2a47b7ebb0227e",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/lang/hi_in.json": {
-    "mtime": 1786323523.011922,
-    "ast_hash": "300b259e5e9cde445eaead5b12d3808f",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/lang/id_id.json": {
-    "mtime": 1786323523.0207107,
-    "ast_hash": "fff7c6be3c1078a8c06cf50d18c93376",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/lang/ja_jp.json": {
-    "mtime": 1786323523.0272532,
-    "ast_hash": "f3c954b031ff10aaa1fb70aaff164a25",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/lang/ko_kr.json": {
-    "mtime": 1786323523.036419,
-    "ast_hash": "44fd8c051627b37a4ef75a6ac27423ec",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/lang/nl_nl.json": {
-    "mtime": 1786323523.0459206,
-    "ast_hash": "c4f41c06257da23e38aa89e8c149ab63",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/lang/pt_br.json": {
-    "mtime": 1786323523.0541284,
-    "ast_hash": "a111104ce8eb2ce3df443c43e927453a",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/lang/pt_pt.json": {
-    "mtime": 1786323523.0636566,
-    "ast_hash": "1a2d58a189456234cea22041ab99257a",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/lang/tr_tr.json": {
-    "mtime": 1786323523.071754,
-    "ast_hash": "ce88f034f22acf79944ad112f0504542",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/lang/vi_vn.json": {
-    "mtime": 1786323523.0780485,
-    "ast_hash": "4a4bf6f4353225b5ce4bbfceb2509388",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/lang/zh_cn.json": {
-    "mtime": 1786323523.0866876,
-    "ast_hash": "c3efd0e1534c31ff1a0f0760fae80e44",
-    "semantic_hash": ""
-  },
   "resourcepack/assets/stellarity/lang/es_es.json": {
     "mtime": 1786148385.2416267,
     "ast_hash": "c9183be2fa063e20a3706a99724d42c7",
@@ -675,8 +570,8 @@
     "semantic_hash": ""
   },
   "docs/WORKFLOW_ENCHANTVENTURE_26-2.md": {
-    "mtime": 1786352644.6658933,
-    "ast_hash": "5df497edb4dacea4bc8fd4fcffc5d80f",
+    "mtime": 1786617264.2780647,
+    "ast_hash": "eb89a65284b5e99457fb373b9d61103a",
     "semantic_hash": ""
   },
   "docs/curseforge/versions/0.0.0-beta.16.md": {
@@ -714,296 +609,6 @@
     "ast_hash": "ec4ea8aaf75ba9019dbda2edb753f820",
     "semantic_hash": ""
   },
-  "resourcepack/assets/enchantinginfuser/textures/entity/enchanting_infuser_book.png": {
-    "mtime": 1786323522.8993857,
-    "ast_hash": "20531a9bff51af53a71edd43b0e79b8b",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/enchantinginfuser/textures/entity/enchanting_infuser_book_e.png": {
-    "mtime": 1786323522.908327,
-    "ast_hash": "c43173f44f86880180c9180b0f6342c9",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/enchantinginfuser/textures/entity/enchanting_infuser_book_e_s.png": {
-    "mtime": 1786323522.9158933,
-    "ast_hash": "03e2c609d676f3e3248e3eb2a83051e3",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/enchantinginfuser/textures/entity/enchanting_infuser_book_s.png": {
-    "mtime": 1786323522.9227982,
-    "ast_hash": "aec717d6e1488410152b188ec0e31836",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/optifine/anim/circle.png": {
-    "mtime": 1786323523.0943496,
-    "ast_hash": "b3ac336ab7e94f12b2928dc56e885fbe",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/optifine/anim/circle_e.png": {
-    "mtime": 1786323523.1253514,
-    "ast_hash": "f28cfea5b0ab3fab9519974fee0a53e4",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/optifine/anim/enchanting_infuser_book_anim.png": {
-    "mtime": 1786323523.1445403,
-    "ast_hash": "a93f86706c4081c60f6c2833092cd813",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/optifine/anim/enchanting_infuser_book_anim_e.png": {
-    "mtime": 1786323523.1622937,
-    "ast_hash": "a93f86706c4081c60f6c2833092cd813",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/optifine/anim/enchanting_infuser_book_runes_anim.png": {
-    "mtime": 1786323523.1806524,
-    "ast_hash": "996e4c8e6ed4fe7d631f0732a8589ebe",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/optifine/anim/enchanting_infuser_book_runes_anim_e.png": {
-    "mtime": 1786323523.195445,
-    "ast_hash": "996e4c8e6ed4fe7d631f0732a8589ebe",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/optifine/anim/runes.png": {
-    "mtime": 1786323523.2133434,
-    "ast_hash": "43136449f551e638462b567b739bcd27",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/optifine/anim/runes_e.png": {
-    "mtime": 1786323523.2366123,
-    "ast_hash": "43136449f551e638462b567b739bcd27",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors/dark_enchanting_table_book.png": {
-    "mtime": 1786323523.3019395,
-    "ast_hash": "039f3eb947533393ba6af7779ec33235",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors/dark_enchanting_table_book_e.png": {
-    "mtime": 1786323523.3081682,
-    "ast_hash": "f722b7d52b9f238cff41398b0a956555",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors/flame_enchanting_table_book.png": {
-    "mtime": 1786323523.3170924,
-    "ast_hash": "b3a62ea92bacb648fb6e05137bb29263",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors/flame_enchanting_table_book_e.png": {
-    "mtime": 1786323523.3298278,
-    "ast_hash": "35589eb3da468d9f867497375f865f9e",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors/gold_enchanting_table_book.png": {
-    "mtime": 1786323523.339242,
-    "ast_hash": "c0a3cb90685743e1120db7b0d909fb64",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors/gold_enchanting_table_book_e.png": {
-    "mtime": 1786323523.3535485,
-    "ast_hash": "a83f492a9e67c8a73974185702e21680",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors/green_enchanting_table_book.png": {
-    "mtime": 1786323523.3599799,
-    "ast_hash": "a5b3246255ee37396d3d652d96ae095b",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors/green_enchanting_table_book_e.png": {
-    "mtime": 1786323523.3798835,
-    "ast_hash": "f0f46864bf5320d53efec578df2a6114",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors/orange_enchanting_table_book.png": {
-    "mtime": 1786323523.5659945,
-    "ast_hash": "7fce5539bf498b948d64268d9f7d73f0",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors/orange_enchanting_table_book_e.png": {
-    "mtime": 1786323523.397957,
-    "ast_hash": "0cd17e361aea75853f5ea5371c30ea76",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors/pink_enchanting_table_book.png": {
-    "mtime": 1786323523.409103,
-    "ast_hash": "983b55a895b0cdc49803e4a1f7d755cd",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors/pink_enchanting_table_book_e.png": {
-    "mtime": 1786323523.4249377,
-    "ast_hash": "bf6994fd1d3865d5df9013d5198cdb5b",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors/purple_enchanting_table_book.png": {
-    "mtime": 1786323523.432018,
-    "ast_hash": "8697cadea512f95e913e40b5375ddf93",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors/purple_enchanting_table_book_e.png": {
-    "mtime": 1786323523.4486103,
-    "ast_hash": "dfd7b3017b19049e8b3a236335a17bb8",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors/red_enchanting_table_book.png": {
-    "mtime": 1786323523.4594657,
-    "ast_hash": "bacc8ed1da4794ca4e29d4e8b9d4e996",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors/red_enchanting_table_book_e.png": {
-    "mtime": 1786323523.484037,
-    "ast_hash": "fa106ec78cbb27d7414682a3a528dfec",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors/water_enchanting_table_book.png": {
-    "mtime": 1786323523.5056417,
-    "ast_hash": "406ed6c5a5076a6444ff61a5bc9962f3",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors/water_enchanting_table_book_e.png": {
-    "mtime": 1786323523.5273838,
-    "ast_hash": "948341d94d0dc218d899077dc350e8ae",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors/white_enchanting_table_book.png": {
-    "mtime": 1786323523.5381136,
-    "ast_hash": "9bad030512207a21069d7eb35651b641",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors/white_enchanting_table_book_e.png": {
-    "mtime": 1786323523.558753,
-    "ast_hash": "3cf0f62d43c3a9ced30aaca1d930c399",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors_anim/dark_circle_e.png": {
-    "mtime": 1786323523.5773442,
-    "ast_hash": "9a6ec98132e7b4be296758a6c2108a18",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors_anim/dark_runes_e.png": {
-    "mtime": 1786323523.5855248,
-    "ast_hash": "aaa5ce028aeebf422ea3892efee6045c",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors_anim/flame_circle_e.png": {
-    "mtime": 1786323523.595637,
-    "ast_hash": "9e7971b65bce9e3198d551bc33cff657",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors_anim/flame_runes_e.png": {
-    "mtime": 1786323523.6043587,
-    "ast_hash": "f1af5421678a763bd832e87450057aaf",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors_anim/gold_circle_e.png": {
-    "mtime": 1786323523.6131408,
-    "ast_hash": "e7d26a2429d2a4f536afacadd0a70386",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors_anim/gold_runes_e.png": {
-    "mtime": 1786323523.62226,
-    "ast_hash": "bbb3fb463ee4ab09c60937fdd7374d7a",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors_anim/green_circle_e.png": {
-    "mtime": 1786323523.6309907,
-    "ast_hash": "e40b8d8930536010544fe41d1429f6e5",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors_anim/green_runes_e.png": {
-    "mtime": 1786323523.6395738,
-    "ast_hash": "a0f1ebadf3fb000dc0f9017d02ec510c",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors_anim/orange_circle_e.png": {
-    "mtime": 1786323523.6487544,
-    "ast_hash": "041595870fde589a77583b9eabf70a3b",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors_anim/orange_runes_e.png": {
-    "mtime": 1786323523.6573837,
-    "ast_hash": "365cb4aa593f9285491a0b22ce7c369b",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors_anim/pink_circle_e.png": {
-    "mtime": 1786323523.6655586,
-    "ast_hash": "6bcb8297e8839ff092f1843f3be7c695",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors_anim/pink_runes_e.png": {
-    "mtime": 1786323523.6754744,
-    "ast_hash": "5f969a029b5f1e5729651b7a6254886f",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors_anim/purple_circle_e.png": {
-    "mtime": 1786323523.6845636,
-    "ast_hash": "e39a435d672f6fdef6b4fe76092bf51d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors_anim/purple_runes_e.png": {
-    "mtime": 1786323523.6929374,
-    "ast_hash": "f4edcd417af78cbf55796432f6d47023",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors_anim/red_circle_e.png": {
-    "mtime": 1786323523.703581,
-    "ast_hash": "c8659266a228acb126741c13d33ca493",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors_anim/red_runes_e.png": {
-    "mtime": 1786323523.7111955,
-    "ast_hash": "f6ff93b07f1e0569196d91449f8f671c",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors_anim/water_circle_e.png": {
-    "mtime": 1786323523.7207963,
-    "ast_hash": "aacbfa7f280e4a5075bf3bf3195cec48",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors_anim/water_runes_e.png": {
-    "mtime": 1786323523.7276485,
-    "ast_hash": "5393af502d3d9d01e0fc13f8caab4a20",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors_anim/white_circle_e.png": {
-    "mtime": 1786323523.7392316,
-    "ast_hash": "03eca0e16886f0dffe58cae2dc4abd09",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/colors_anim/white_runes_e.png": {
-    "mtime": 1786323523.749947,
-    "ast_hash": "3fc9ef9d73099c5034bdb1658d4aa6f7",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/enchanting_screen_book.png": {
-    "mtime": 1786323523.7590199,
-    "ast_hash": "7c7654b1277b77686e2577ebc3d5dc8b",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/enchanting_table_book.png": {
-    "mtime": 1786323523.7650776,
-    "ast_hash": "32981fc88ce17eda767f977c6969cfa0",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/enchanting_table_book_e.png": {
-    "mtime": 1786323523.773426,
-    "ast_hash": "9228e89c337d1eea4323f088d623f62f",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/enchanting_table_book_e_s.png": {
-    "mtime": 1786323523.7880354,
-    "ast_hash": "362eaa5147358f07a0965dc6bd396d41",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/enchanting_table_book_s.png": {
-    "mtime": 1786323523.7941737,
-    "ast_hash": "d6c2904c819ce54ad695ec9e77667527",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/minecraft/textures/entity/lectern_book.png": {
-    "mtime": 1786323523.795684,
-    "ast_hash": "7c7654b1277b77686e2577ebc3d5dc8b",
-    "semantic_hash": ""
-  },
   "docs/curseforge/versions/1.0.0-beta.5.md": {
     "mtime": 1786471664.7067132,
     "ast_hash": "e6711c9b7ad64e07a412a94617ade0e1",
@@ -1012,6 +617,11 @@
   "docs/curseforge/versions/1.0.0-beta.6.md": {
     "mtime": 1786570862.8963473,
     "ast_hash": "4fd60f85326b9d2ac106910ee866109e",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/1.0.0-beta.7.md": {
+    "mtime": 1786617521.6110895,
+    "ast_hash": "9efb1de877dfcce38069054e6f2d249a",
     "semantic_hash": ""
   }
 }
