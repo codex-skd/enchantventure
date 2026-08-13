@@ -5,6 +5,20 @@ Todos los cambios notables de EnchantVenture Pack se documentan en este archivo.
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.0-beta.7] - 2026-08-13
+
+### Eliminado
+
+- **Enchanting Table Magic Circle** (retexturizado animado de la mesa de encantamientos, integrado desde
+  1.0.0-beta.1): retirado por completo — `respackopts.json5`, `assets/minecraft/optifine/`,
+  `assets/minecraft/shaders/`, `assets/minecraft/textures/entity/` (libro/circulo/runas),
+  `assets/enchantinginfuser/textures/` y las claves `rpo.*` de los 22 `assets/minecraft/lang/*`
+  (21 idiomas puramente `rpo.*` eliminados, `es_es.json` limpiado de esas claves conservando el resto
+  de traducciones). Motivo: la animación de textura custom de OptiFine (parcheo `from/to` de fotogramas
+  sobre `enchanting_table_book.png`/`_e.png`) no se renderiza correctamente con EMF/ETF en 26.2 —
+  produce artefactos de ruido/textura sin recortar sobre el libro. El pack vuelve a ser solo de
+  traducciones `es_ES`.
+
 ## [1.0.0-beta.6] - 2026-08-12
 
 ### Corregido

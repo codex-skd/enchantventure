@@ -12,9 +12,9 @@
 |---|---|
 | **Project Name** | `EnchantVenture Pack` |
 | **Slug / URL** | `enchantventure-pack` |
-| **Summary** (línea corta, ~1 frase) | `Community resource pack for the EnchantVenture modpack — Spanish (es_ES) translations + Enchanting Table Magic Circle.` |
+| **Summary** (línea corta, ~1 frase) | `Community resource pack for the EnchantVenture modpack — Spanish (es_ES) translations.` |
 | **Project Type / Class** | Resource Packs |
-| **Category** | Data Packs (dentro de la clase Resource Packs, el resto de categorías son de resolución: 16x, 32x, 64x... — ninguna aplica a un pack de traducciones+círculo, así que se mantiene esta) |
+| **Category** | Data Packs (dentro de la clase Resource Packs, el resto de categorías son de resolución: 16x, 32x, 64x... — ninguna aplica a un pack de solo traducciones, así que se mantiene esta) |
 | **Client / Server** | Client |
 | **Project License** | All Rights Reserved |
 | **Description** | HTML de [`project_description.md`](project_description.md) |
