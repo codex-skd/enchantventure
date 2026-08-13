@@ -21,19 +21,18 @@
 
 ## Qué es este proyecto
 
-Resource pack **client-side** de la modpack EnchantVenture (Minecraft 26.2). Hasta la v0.0.0-beta.18 fue
-solo de traducciones; desde la v1.0.0-beta.1 añade además el **Enchanting Table Magic Circle** de
-Jacosvaldo (adaptado a 26.2):
+Resource pack **client-side** de la modpack EnchantVenture (Minecraft 26.2), solo de traducciones:
 
 - **Traducciones** al español (`es_ES`) para los mods de la modpack que no traen su propio
   `lang/es_es.json`. No modifica ningún JAR ni mod — solo añade/complementa `assets/<modid>/lang/es_es.json`.
-- **Enchanting Table Magic Circle**: retexturizado del libro de la mesa de encantamientos con círculo
-  mágico animado y emisivo, 11 colores y modos de animación configurables vía **Respackopts**
-  (`respackopts.json5`, opcional). Requiere **OptiFine** o **EMF+ETF** para la animación/modelo.
-- **Shaders**: `assets/minecraft/shaders/core/entity.fsh` adaptado a 26.2 (soporte de píxeles emisivos
-  alpha 252 sobre la base vanilla de 26.2).
 
 No es un datapack (eso es `EnchantVenture_fixes`, repo hermano).
+
+> **Nota histórica**: entre v1.0.0-beta.1 y v1.0.0-beta.6 el pack incluyó también el "Enchanting Table
+> Magic Circle" de Jacosvaldo (retexturizado animado de la mesa de encantamientos vía Respackopts).
+> Se retiró en 1.0.0-beta.7 porque la animación de textura custom de OptiFine (parcheo `from/to` de
+> frames) no renderizaba correctamente con EMF/ETF en 26.2 (artefactos de textura sin recortar). No
+> reintroducir sin resolver antes esa incompatibilidad.
 
 ## Diferencias con un mod NeoForge o con el datapack de fixes
 
@@ -51,24 +50,11 @@ No es un datapack (eso es `EnchantVenture_fixes`, repo hermano).
 ## Estructura del proyecto
 
 `build_pack.py` (valida JSON y empaqueta `resourcepack/` → ZIP) · `version.txt` ·
-`resourcepack/` (contenido real del pack, versionado: `pack.mcmeta`, `respackopts.json5`, `pack.png`,
-`assets/<modid>/lang/es_es.json`, `assets/minecraft/` del círculo mágico — texturas, `optifine/`, `shaders/core/`) ·
+`resourcepack/` (contenido real del pack, versionado: `pack.mcmeta`, `pack.png`,
+`assets/<modid>/lang/es_es.json`) ·
 `build/` (no versionado, solo el ZIP) · `temp/` (no versionado, zona de trabajo para analizar JARs) ·
-`lib_ext/` (no versionado, packs externos de referencia para integrar) ·
+`lib_ext/` (no versionado, packs externos de referencia — histórico, ver nota del círculo mágico arriba) ·
 `docs/WORKFLOW...` + `docs/curseforge/` + `docs/TRANSLATIONS_STATUS.md` · `CHANGELOG.md` · `README.md`.
-
-### Círculo mágico (Enchanting Table Magic Circle, integrado desde v1.0.0-beta.1)
-
-- Origen: `lib_ext/Enchanting Table Magic Circle v.2.5 (1.21.9 - 1.21.11)` (Jacosvaldo, permisos de uso
-  no comercial). Adaptado de pack format 69-75 a 88 (26.2).
-- `respackopts.json5` con opciones `magicCircleColor` (11 colores) y `useAnimatedTextures`
-  (normal/bruteforce/disabled). Sin Respackopts instalado se usa el azul por defecto.
-- **Requisitos del pack original para el círculo** (a instalar manualmente): **EMF** (o OptiFine)
-  para el modelo del libro (`optifine/cem`), **ETF** (o OptiFine) para texturas animadas/emisivas
-  (`optifine/anim`, `_e`). **Animatica es solo Fabric, no aplica a NeoForge.**
-- Shader `entity.fsh` portado a la base vanilla 26.2 (emissive alpha 252); `entity.vsh` = vanilla 26.2.
-- Al actualizar el pack de origen, revisar: shaders (formato), `optifine/` (CEM/anim) y los 22
-  `assets/minecraft/lang/*` (no sobreescriben claves vanilla, solo `rpo.*`).
 
 `ageforged_armor`, `armor_cosmetic`, `better_connections`, `carry_mechanics`, `data_miner`, `equivalent_legacy`,
 `info_tab`, `player_activity_view`, `skd_menu`, `teleport_animation`, `tower_waystone`, `utility_core` son mods

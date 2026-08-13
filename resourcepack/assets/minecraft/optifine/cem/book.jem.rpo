@@ -1,6 +1,0 @@
-{
-    condition: "enchantingTableMagicCircle.useAnimatedTextures.normal | enchantingTableMagicCircle.useAnimatedTextures.disabled",
-    fallback: [
-	"assets/minecraft/optifine/cem/variants/book_bruteforce.jem"
-    ]
-}
