@@ -1,283 +1,283 @@
 {
   "resourcepack/assets/adventureenchanting/lang/es_es.json": {
-    "mtime": 1785794654.096197,
-    "ast_hash": "2d3ef969d2e2c714479549c670b1e8d5",
-    "semantic_hash": "2d3ef969d2e2c714479549c670b1e8d5"
+    "mtime": 1787006668.321574,
+    "ast_hash": "7015bdf0b9698d80017e7e63b023cf18",
+    "semantic_hash": ""
   },
   "resourcepack/assets/apexcore/lang/es_es.json": {
-    "mtime": 1785793217.8585322,
-    "ast_hash": "cf201834e73b029c7e36591669668bfd",
-    "semantic_hash": "cf201834e73b029c7e36591669668bfd"
+    "mtime": 1787006668.3220768,
+    "ast_hash": "1a8b054063916725677a2fe42b8f45ef",
+    "semantic_hash": ""
   },
   "resourcepack/assets/balm/lang/es_es.json": {
-    "mtime": 1785793223.4650793,
-    "ast_hash": "fa996a879ecade8ac255efd53600fea0",
-    "semantic_hash": "fa996a879ecade8ac255efd53600fea0"
+    "mtime": 1787006668.3240952,
+    "ast_hash": "31f8f1346e15730a6799d591aad10413",
+    "semantic_hash": ""
   },
   "resourcepack/assets/bcc/lang/es_es.json": {
-    "mtime": 1785793224.2076192,
-    "ast_hash": "410347a5ca62ef4c7ad79c6d86cf55d9",
-    "semantic_hash": "410347a5ca62ef4c7ad79c6d86cf55d9"
+    "mtime": 1787006668.3245986,
+    "ast_hash": "13da278798bda8dc662111b69f20cc90",
+    "semantic_hash": ""
   },
   "resourcepack/assets/berezka_api/lang/es_es.json": {
-    "mtime": 1785793224.8688688,
-    "ast_hash": "8f1f744ee75c1448e679a39a541fd79e",
-    "semantic_hash": "8f1f744ee75c1448e679a39a541fd79e"
+    "mtime": 1787006668.326166,
+    "ast_hash": "e7458fdd55a90c3a33fc475c47c177e0",
+    "semantic_hash": ""
   },
   "resourcepack/assets/better_party/lang/es_es.json": {
-    "mtime": 1785793267.0470603,
-    "ast_hash": "27f6acd65d2598b7b6547365db8a15d8",
-    "semantic_hash": "27f6acd65d2598b7b6547365db8a15d8"
+    "mtime": 1787006668.3281698,
+    "ast_hash": "a5530f55bf8017535cd772a280dd45ac",
+    "semantic_hash": ""
   },
   "resourcepack/assets/better_party_x_xaeros_world_map/lang/es_es.json": {
-    "mtime": 1785793416.0640316,
-    "ast_hash": "b902d7318021b0b57b21913d2f9bc336",
-    "semantic_hash": "b902d7318021b0b57b21913d2f9bc336"
+    "mtime": 1787006668.329174,
+    "ast_hash": "1d0631ee6732886077d8cfcc63c2bdea",
+    "semantic_hash": ""
   },
   "resourcepack/assets/bettervillageranimations/lang/es_es.json": {
-    "mtime": 1785793417.8352213,
-    "ast_hash": "a2b37760fd89f42d8fe4bc4a278ad1d9",
-    "semantic_hash": "a2b37760fd89f42d8fe4bc4a278ad1d9"
+    "mtime": 1787006668.3316894,
+    "ast_hash": "7a6cbe980880822f343127c7b74f2eaf",
+    "semantic_hash": ""
   },
   "resourcepack/assets/bridgingmod/lang/es_es.json": {
-    "mtime": 1785793434.8499677,
-    "ast_hash": "dabf0d73fa0955019d052bb28aee9967",
-    "semantic_hash": "dabf0d73fa0955019d052bb28aee9967"
+    "mtime": 1787006668.333696,
+    "ast_hash": "35e1790f0a17c3f01802d3ac526900dd",
+    "semantic_hash": ""
   },
   "resourcepack/assets/coktools/lang/es_es.json": {
-    "mtime": 1785793444.564219,
-    "ast_hash": "17cbe2f7a657de6d5fb270c71a351159",
-    "semantic_hash": "17cbe2f7a657de6d5fb270c71a351159"
+    "mtime": 1787006668.335202,
+    "ast_hash": "b34101f514fed2bc73fc8c477a8097ff",
+    "semantic_hash": ""
   },
   "resourcepack/assets/craftingtweaks/lang/es_es.json": {
-    "mtime": 1785793452.6457577,
-    "ast_hash": "ef2304f97bc3233a81babaaf0089390f",
-    "semantic_hash": "ef2304f97bc3233a81babaaf0089390f"
+    "mtime": 1787006668.339713,
+    "ast_hash": "735272a03c005b5dd47c94951a70caea",
+    "semantic_hash": ""
   },
   "resourcepack/assets/cristellib/lang/es_es.json": {
-    "mtime": 1785794662.4695637,
-    "ast_hash": "c21d7a81d1b6f9461c1abd89cee5a3b6",
-    "semantic_hash": "c21d7a81d1b6f9461c1abd89cee5a3b6"
+    "mtime": 1787006668.340716,
+    "ast_hash": "459259b1b9550ae6906621722f014931",
+    "semantic_hash": ""
   },
   "resourcepack/assets/echorelics/lang/es_es.json": {
-    "mtime": 1785794662.5903163,
-    "ast_hash": "1f76fa0a8003341c46f211fecbd44eb3",
-    "semantic_hash": "1f76fa0a8003341c46f211fecbd44eb3"
+    "mtime": 1787040513.2647102,
+    "ast_hash": "109da9098bb0bcd84b22a3c711939c6c",
+    "semantic_hash": ""
   },
   "resourcepack/assets/fallingtree/lang/es_es.json": {
-    "mtime": 1785794662.767135,
-    "ast_hash": "f8ee0f7fc7b20f7b242873b5c04406f6",
-    "semantic_hash": "f8ee0f7fc7b20f7b242873b5c04406f6"
+    "mtime": 1787006668.3654275,
+    "ast_hash": "e20aeaabec6ffc43146690aa3a3918b1",
+    "semantic_hash": ""
   },
   "resourcepack/assets/fishofthieves/lang/es_es.json": {
-    "mtime": 1785794662.8610854,
-    "ast_hash": "92561ead7dc23ca49a79739849d74ea1",
-    "semantic_hash": "92561ead7dc23ca49a79739849d74ea1"
+    "mtime": 1787006668.3684702,
+    "ast_hash": "60cfdb041270c4c9e59cf6787c3377ff",
+    "semantic_hash": ""
   },
   "resourcepack/assets/formations/lang/es_es.json": {
-    "mtime": 1785794662.940264,
-    "ast_hash": "ff033283857e08e71fa99bf73735185a",
-    "semantic_hash": "ff033283857e08e71fa99bf73735185a"
+    "mtime": 1787006668.36897,
+    "ast_hash": "989165a5cfefb52d25892b4e8ef225d7",
+    "semantic_hash": ""
   },
   "resourcepack/assets/fusion/lang/es_es.json": {
-    "mtime": 1785794702.486084,
-    "ast_hash": "d630ccde821a819343d1a15e1137cab2",
-    "semantic_hash": "d630ccde821a819343d1a15e1137cab2"
+    "mtime": 1787006668.371478,
+    "ast_hash": "72166d04eb0feded243972342463032e",
+    "semantic_hash": ""
   },
   "resourcepack/assets/gateway_of_doom_x_xaeros_world_map/lang/es_es.json": {
-    "mtime": 1785794702.7110121,
-    "ast_hash": "3b1ffa88ec62cb72c6fed17bcb5ec2b5",
-    "semantic_hash": "3b1ffa88ec62cb72c6fed17bcb5ec2b5"
+    "mtime": 1787006668.3729835,
+    "ast_hash": "fec03edffe64b6f819d11cedb9ae9c5c",
+    "semantic_hash": ""
   },
   "resourcepack/assets/inventoryessentials/lang/es_es.json": {
-    "mtime": 1785794703.0375483,
-    "ast_hash": "a4ceec91aac341432b2bbe1c0d6416a2",
-    "semantic_hash": "a4ceec91aac341432b2bbe1c0d6416a2"
+    "mtime": 1787006668.3769987,
+    "ast_hash": "e13ab88a1488d6698ea9106292f52412",
+    "semantic_hash": ""
   },
   "resourcepack/assets/jamlib/lang/es_es.json": {
-    "mtime": 1785794703.2106464,
-    "ast_hash": "e178b94def362501d79bd916591d266d",
-    "semantic_hash": "e178b94def362501d79bd916591d266d"
+    "mtime": 1787006668.3845425,
+    "ast_hash": "f7a337fdb3b2badff33109ca4db787dd",
+    "semantic_hash": ""
   },
   "resourcepack/assets/justenoughprofessions/lang/es_es.json": {
-    "mtime": 1785794741.3338003,
-    "ast_hash": "0feb48699ec9813046e8ec51b57a13df",
-    "semantic_hash": "0feb48699ec9813046e8ec51b57a13df"
+    "mtime": 1787006668.3895628,
+    "ast_hash": "2977a2b6ba702c8e3a274f247e4695f1",
+    "semantic_hash": ""
   },
   "resourcepack/assets/kenny/lang/es_es.json": {
-    "mtime": 1785794741.4509885,
-    "ast_hash": "7f87163008a1bc02a9a551cbc800a8c0",
-    "semantic_hash": "7f87163008a1bc02a9a551cbc800a8c0"
+    "mtime": 1787006668.39361,
+    "ast_hash": "e71bc7c857d8feeaf952458a467b7878",
+    "semantic_hash": ""
   },
   "resourcepack/assets/marsward/lang/es_es.json": {
-    "mtime": 1785794741.5837045,
-    "ast_hash": "c196af469c99a701c6a1c4add767a8d1",
-    "semantic_hash": "c196af469c99a701c6a1c4add767a8d1"
+    "mtime": 1787006668.3981469,
+    "ast_hash": "fad98a66b09bf3595bd523e25a77eb63",
+    "semantic_hash": ""
   },
   "resourcepack/assets/mes/lang/es_es.json": {
-    "mtime": 1785794741.765568,
-    "ast_hash": "0c48c8d4761f3105081fe8f776caa497",
-    "semantic_hash": "0c48c8d4761f3105081fe8f776caa497"
+    "mtime": 1787006668.3991497,
+    "ast_hash": "c7a70fce5fb31e9bb92774f1ecf13c72",
+    "semantic_hash": ""
   },
   "resourcepack/assets/mmv/lang/es_es.json": {
-    "mtime": 1785794741.8865561,
-    "ast_hash": "cc8fbdac3123da992c0ef3f2478468db",
-    "semantic_hash": "cc8fbdac3123da992c0ef3f2478468db"
+    "mtime": 1787006668.407714,
+    "ast_hash": "83d550b5a50a3f5d8f4c40d91e339b66",
+    "semantic_hash": ""
   },
   "resourcepack/assets/mns/lang/es_es.json": {
-    "mtime": 1785794774.2693734,
-    "ast_hash": "f1eab3d2afa86e02ab91af27ff39da58",
-    "semantic_hash": "f1eab3d2afa86e02ab91af27ff39da58"
+    "mtime": 1787006668.4102237,
+    "ast_hash": "20cd85cc3e71e495d9edf94c5b78d66e",
+    "semantic_hash": ""
   },
   "resourcepack/assets/mocreatures/lang/es_es.json": {
-    "mtime": 1785794774.5480309,
-    "ast_hash": "4dcb32e6419e8ba002d88ea4a5adb6ae",
-    "semantic_hash": "4dcb32e6419e8ba002d88ea4a5adb6ae"
+    "mtime": 1787041458.108503,
+    "ast_hash": "70677aa2a7b4d117df616e7a6cbf150c",
+    "semantic_hash": ""
   },
   "resourcepack/assets/modonomicon/lang/es_es.json": {
-    "mtime": 1785794774.6408882,
-    "ast_hash": "7f927ca93428bed4da6aaa3a17a747a5",
-    "semantic_hash": "7f927ca93428bed4da6aaa3a17a747a5"
+    "mtime": 1787006668.4127343,
+    "ast_hash": "a40dd9b6f3d11655460c8cf58352cbc0",
+    "semantic_hash": ""
   },
   "resourcepack/assets/mtr/lang/es_es.json": {
-    "mtime": 1785794808.838087,
-    "ast_hash": "22c07536e00d8fcd6e76c0d0120c5f12",
-    "semantic_hash": "22c07536e00d8fcd6e76c0d0120c5f12"
+    "mtime": 1787006668.4147425,
+    "ast_hash": "f9a15c0e48c82edb3cc11c16c22ff089",
+    "semantic_hash": ""
   },
   "resourcepack/assets/mvs/lang/es_es.json": {
-    "mtime": 1785794808.9317327,
-    "ast_hash": "ea5083ab11d9e36f681fca81879922b1",
-    "semantic_hash": "ea5083ab11d9e36f681fca81879922b1"
+    "mtime": 1787006668.417752,
+    "ast_hash": "1f56b26a546c757b6bfe143b9d8be439",
+    "semantic_hash": ""
   },
   "resourcepack/assets/naraka/lang/es_es.json": {
-    "mtime": 1785794809.0307648,
-    "ast_hash": "5aaf1fd224b439425bcf8b30ada844f3",
-    "semantic_hash": "5aaf1fd224b439425bcf8b30ada844f3"
+    "mtime": 1787006668.4187572,
+    "ast_hash": "71eb90428cf6f1910f9808f4fcfb98b6",
+    "semantic_hash": ""
   },
   "resourcepack/assets/neroagriculture/lang/es_es.json": {
-    "mtime": 1785794809.1263921,
-    "ast_hash": "50361fabe4139255211bd7c53a9e5b7f",
-    "semantic_hash": "50361fabe4139255211bd7c53a9e5b7f"
+    "mtime": 1787006668.4232755,
+    "ast_hash": "bd3cf5d42a4e498a3a9e7461e4d4d657",
+    "semantic_hash": ""
   },
   "resourcepack/assets/nerodecor/lang/es_es.json": {
-    "mtime": 1785794809.2187066,
-    "ast_hash": "3ad21563dcc96ed31fa25300a1ebf8e4",
-    "semantic_hash": "3ad21563dcc96ed31fa25300a1ebf8e4"
+    "mtime": 1787006668.424781,
+    "ast_hash": "713b4c2ee827abc6262b2a1d751771e2",
+    "semantic_hash": ""
   },
   "resourcepack/assets/nerolandcore/lang/es_es.json": {
-    "mtime": 1785794843.668112,
-    "ast_hash": "4450454a6ffd1727de6b590026fb0b62",
-    "semantic_hash": "4450454a6ffd1727de6b590026fb0b62"
+    "mtime": 1787006668.4252837,
+    "ast_hash": "da53ad4844460710a453a845907ca2d2",
+    "semantic_hash": ""
   },
   "resourcepack/assets/nerologistics/lang/es_es.json": {
-    "mtime": 1785794843.7694936,
-    "ast_hash": "45f3733aa70d0a931906d77a62ae06db",
-    "semantic_hash": "45f3733aa70d0a931906d77a62ae06db"
+    "mtime": 1787006668.4262862,
+    "ast_hash": "bd00cb1778625d92abe99eb738f6f385",
+    "semantic_hash": ""
   },
   "resourcepack/assets/neroquests/lang/es_es.json": {
-    "mtime": 1785794843.86902,
-    "ast_hash": "9eb141a8ff1ed9d039c886ee3ac0f6da",
-    "semantic_hash": "9eb141a8ff1ed9d039c886ee3ac0f6da"
+    "mtime": 1787006668.4273005,
+    "ast_hash": "73c35f3964b1dd39b51839d8663a2c06",
+    "semantic_hash": ""
   },
   "resourcepack/assets/nerospace/lang/es_es.json": {
-    "mtime": 1785794843.9692953,
-    "ast_hash": "b0ff0350260b2e860e746590c66e5d1f",
-    "semantic_hash": "b0ff0350260b2e860e746590c66e5d1f"
+    "mtime": 1787006668.4288037,
+    "ast_hash": "c19c65e03184efee9ad825d44910573c",
+    "semantic_hash": ""
   },
   "resourcepack/assets/nerotech/lang/es_es.json": {
-    "mtime": 1785794844.1393945,
-    "ast_hash": "5927c9f81c657b64eff057b4f9a0be6c",
-    "semantic_hash": "5927c9f81c657b64eff057b4f9a0be6c"
+    "mtime": 1787006668.4293065,
+    "ast_hash": "8a9c108239a2714d71837dda5d8f6665",
+    "semantic_hash": ""
   },
   "resourcepack/assets/notenoughcrashes/lang/es_es.json": {
-    "mtime": 1785794876.758406,
-    "ast_hash": "15bd9c8ffaf866c70d79a29a0f2f0fd5",
-    "semantic_hash": "15bd9c8ffaf866c70d79a29a0f2f0fd5"
+    "mtime": 1787006668.4303396,
+    "ast_hash": "05eace059e0c73565524b21cfedc9f2a",
+    "semantic_hash": ""
   },
   "resourcepack/assets/pantryforblockheads/lang/es_es.json": {
-    "mtime": 1785794876.8498068,
-    "ast_hash": "65ee9f07c38a9a7485190772ff9e623b",
-    "semantic_hash": "65ee9f07c38a9a7485190772ff9e623b"
+    "mtime": 1787006668.4333608,
+    "ast_hash": "099280bd6a5df455de87ddb3bea3db5f",
+    "semantic_hash": ""
   },
   "resourcepack/assets/reliquary/lang/es_es.json": {
-    "mtime": 1785794876.9597483,
-    "ast_hash": "4af04913e1ce2fa0ada0db6c2dbfa1e8",
-    "semantic_hash": "4af04913e1ce2fa0ada0db6c2dbfa1e8"
+    "mtime": 1787006668.433863,
+    "ast_hash": "fa5b83dc27b183515b19ae4e0259a3ca",
+    "semantic_hash": ""
   },
   "resourcepack/assets/rightclickharvest/lang/es_es.json": {
-    "mtime": 1785794877.060263,
-    "ast_hash": "42598de36d79741002d5bd50dfdb1118",
-    "semantic_hash": "42598de36d79741002d5bd50dfdb1118"
+    "mtime": 1787006668.4363704,
+    "ast_hash": "2b540827b83b38d227b7f53f17ea2796",
+    "semantic_hash": ""
   },
   "resourcepack/assets/structurify/lang/es_es.json": {
-    "mtime": 1785794911.4053457,
-    "ast_hash": "71ac2b7cde25119d84e3a324a07a2263",
-    "semantic_hash": "71ac2b7cde25119d84e3a324a07a2263"
+    "mtime": 1787006668.4519784,
+    "ast_hash": "5b4d1e350a80d6b2572a622a94f93148",
+    "semantic_hash": ""
   },
   "resourcepack/assets/supermartijn642corelib/lang/es_es.json": {
-    "mtime": 1785794911.4926746,
-    "ast_hash": "92ea5491203fa73aa831a4839b6c144d",
-    "semantic_hash": "92ea5491203fa73aa831a4839b6c144d"
+    "mtime": 1787006668.452982,
+    "ast_hash": "76e5539681c0a0dd6885997dd9dd076a",
+    "semantic_hash": ""
   },
   "resourcepack/assets/takesapillage/lang/es_es.json": {
-    "mtime": 1785794911.588313,
-    "ast_hash": "d45b2b7e304a8eed2355aea1b70f7372",
-    "semantic_hash": "d45b2b7e304a8eed2355aea1b70f7372"
+    "mtime": 1787006668.4544888,
+    "ast_hash": "9c89a6fc50d5531daaca3f0931b725fd",
+    "semantic_hash": ""
   },
   "resourcepack/assets/tbos/lang/es_es.json": {
-    "mtime": 1785794911.6944513,
-    "ast_hash": "4902cac2601cd5b906e731cd3e3e44a3",
-    "semantic_hash": "4902cac2601cd5b906e731cd3e3e44a3"
+    "mtime": 1787042599.183166,
+    "ast_hash": "2a41201e744053e287b09c6d8e7252ea",
+    "semantic_hash": ""
   },
   "resourcepack/assets/the_lost_city/lang/es_es.json": {
-    "mtime": 1785794945.6183171,
-    "ast_hash": "e226bd1b08dad688203a9034f48e3644",
-    "semantic_hash": "e226bd1b08dad688203a9034f48e3644"
+    "mtime": 1787006668.4575129,
+    "ast_hash": "ca4c090caa5a3f425b23dcfd6b6c7392",
+    "semantic_hash": ""
   },
   "resourcepack/assets/tntfoundry/lang/es_es.json": {
-    "mtime": 1785794945.7107413,
-    "ast_hash": "5ee60f232b6f56b2a4a99fe12757dc0d",
-    "semantic_hash": "5ee60f232b6f56b2a4a99fe12757dc0d"
+    "mtime": 1787006668.4585176,
+    "ast_hash": "b62c17648be9b07421577f8cc62c6cf4",
+    "semantic_hash": ""
   },
   "resourcepack/assets/toms_storage/lang/es_es.json": {
-    "mtime": 1785794945.8056483,
-    "ast_hash": "9bbf1772480d85ba5c454467b80d1740",
-    "semantic_hash": "9bbf1772480d85ba5c454467b80d1740"
+    "mtime": 1787006668.4630694,
+    "ast_hash": "4ec81546882f3dafff40b1ff7d61fd2d",
+    "semantic_hash": ""
   },
   "resourcepack/assets/uei/lang/es_es.json": {
-    "mtime": 1785794945.896551,
-    "ast_hash": "7590bac58002909a8bd66d6bc506fc50",
-    "semantic_hash": "7590bac58002909a8bd66d6bc506fc50"
+    "mtime": 1787006668.4645765,
+    "ast_hash": "501628d7d5f8f7924216b23f868adb19",
+    "semantic_hash": ""
   },
   "resourcepack/assets/uilib/lang/es_es.json": {
-    "mtime": 1785794946.247205,
-    "ast_hash": "f3204d426770e35e02f82fd0c2fb0373",
-    "semantic_hash": "f3204d426770e35e02f82fd0c2fb0373"
+    "mtime": 1787006668.46558,
+    "ast_hash": "25bb2ca2820463b0367f9e3abec41c2a",
+    "semantic_hash": ""
   },
   "resourcepack/assets/variantsandventures/lang/es_es.json": {
-    "mtime": 1785794982.2037613,
-    "ast_hash": "17b7e52aababfeb9ce2cee61db7bbd5b",
-    "semantic_hash": "17b7e52aababfeb9ce2cee61db7bbd5b"
+    "mtime": 1787006668.466607,
+    "ast_hash": "821a511eb2d3311f79429028da40b66e",
+    "semantic_hash": ""
   },
   "resourcepack/assets/visualworkbench/lang/es_es.json": {
-    "mtime": 1785794982.2996235,
-    "ast_hash": "c7ed98761398d2e838c5d99db2d10dac",
-    "semantic_hash": "c7ed98761398d2e838c5d99db2d10dac"
+    "mtime": 1787006668.4676106,
+    "ast_hash": "23e011e166452f57c427a582289351dc",
+    "semantic_hash": ""
   },
   "resourcepack/assets/wishfulrecipes/lang/es_es.json": {
-    "mtime": 1785794982.3927598,
-    "ast_hash": "8e93fc4047afb926ee54ed18f8f5190b",
-    "semantic_hash": "8e93fc4047afb926ee54ed18f8f5190b"
+    "mtime": 1787040349.8959506,
+    "ast_hash": "a977af9e491bea2e9a38bb9c5552c80f",
+    "semantic_hash": ""
   },
   "resourcepack/assets/xaeroworldmap/lang/es_es.json": {
-    "mtime": 1785794982.4844966,
-    "ast_hash": "89ca34351f9a9aba34e969fbcf4b7f3c",
-    "semantic_hash": "89ca34351f9a9aba34e969fbcf4b7f3c"
+    "mtime": 1787006668.4821937,
+    "ast_hash": "9081b48a496176e91f4206789cb578d4",
+    "semantic_hash": ""
   },
   "resourcepack/assets/yamlconfig/lang/es_es.json": {
-    "mtime": 1785794982.5878615,
-    "ast_hash": "1cb5bc85be8400b2f48826e312f34745",
-    "semantic_hash": "1cb5bc85be8400b2f48826e312f34745"
+    "mtime": 1787006668.4826958,
+    "ast_hash": "37f1ae8edee934fea92fd327d630a913",
+    "semantic_hash": ""
   },
   "scripts/curseforge-upload.ps1": {
     "mtime": 1786352638.6856697,
@@ -285,123 +285,123 @@
     "semantic_hash": ""
   },
   "resourcepack/assets/bettercombat/lang/es_es.json": {
-    "mtime": 1785871459.3817127,
-    "ast_hash": "05b4c246cd6d29beb1177721aa0da814",
+    "mtime": 1787006668.3301773,
+    "ast_hash": "d43b3d98ec9008c89e7c2365ae99436e",
     "semantic_hash": ""
   },
   "resourcepack/assets/configured/lang/es_es.json": {
-    "mtime": 1785871401.21804,
-    "ast_hash": "912e821661d9811f4258158f8ee0e4d5",
+    "mtime": 1787006668.3372068,
+    "ast_hash": "cf25977ce2b5d78d9f312af0c96c18a4",
     "semantic_hash": ""
   },
   "resourcepack/assets/curios/lang/es_es.json": {
-    "mtime": 1785871459.3781095,
-    "ast_hash": "7406b142f594ec513f1a55d6bf36f673",
+    "mtime": 1787006668.3422227,
+    "ast_hash": "87943faabeaf4ee8bdeeeb652c8e0913",
     "semantic_hash": ""
   },
   "resourcepack/assets/cyclopscore/lang/es_es.json": {
-    "mtime": 1785871504.92912,
-    "ast_hash": "7513c8991108b4617200c2917cccd244",
+    "mtime": 1787006668.3427258,
+    "ast_hash": "7be801ec0d77fe373c3243173c8beaaf",
     "semantic_hash": ""
   },
   "resourcepack/assets/dnt/lang/es_es.json": {
-    "mtime": 1785871428.9709442,
-    "ast_hash": "2fead589c3200388f7b73f54575392fc",
+    "mtime": 1787006668.3462546,
+    "ast_hash": "277ac90f750f251c1514d832ea3c9177",
     "semantic_hash": ""
   },
   "resourcepack/assets/ecologics/lang/es_es.json": {
-    "mtime": 1785871401.21804,
-    "ast_hash": "4242c3316ea152c1855b5cd891715c88",
+    "mtime": 1787006668.355337,
+    "ast_hash": "30d3520cbb1fe7b9be4e88421ea28245",
     "semantic_hash": ""
   },
   "resourcepack/assets/enchdesc/lang/es_es.json": {
-    "mtime": 1785871504.9308352,
-    "ast_hash": "60c0d561c14fde9121e2d98baf26bd6b",
+    "mtime": 1787006668.3573563,
+    "ast_hash": "4c3d2058d33b2ae4a0318805475d8dae",
     "semantic_hash": ""
   },
   "resourcepack/assets/evilcraft/lang/es_es.json": {
-    "mtime": 1785870900.1432629,
-    "ast_hash": "f3eccfca36f1f9ad1894afdae5c4234f",
+    "mtime": 1787006668.3603685,
+    "ast_hash": "b1561d304c25191306e291ed3a825913",
     "semantic_hash": ""
   },
   "resourcepack/assets/evilcraftcompat/lang/es_es.json": {
-    "mtime": 1785870925.515804,
-    "ast_hash": "2d3b560da88cc76187dbcbf4097b579d",
+    "mtime": 1787006668.3618739,
+    "ast_hash": "ae53faddeb81d99409d527533ddc7dc5",
     "semantic_hash": ""
   },
   "resourcepack/assets/iris/lang/es_es.json": {
-    "mtime": 1785871459.380195,
-    "ast_hash": "a21ec3f9923fb03b366f06482d6857c4",
+    "mtime": 1787006668.3790016,
+    "ast_hash": "95fd1ee5188b510a0c2fb912aeef69ca",
     "semantic_hash": ""
   },
   "resourcepack/assets/jade/lang/es_es.json": {
-    "mtime": 1785871607.1702344,
-    "ast_hash": "f33707cd1015ee8cf19ff009698f535f",
+    "mtime": 1787006668.381531,
+    "ast_hash": "70e0d15954d21ca852e476bf506b3f3e",
     "semantic_hash": ""
   },
   "resourcepack/assets/jei/lang/es_es.json": {
-    "mtime": 1785871862.0519152,
-    "ast_hash": "2affa99ae22c32531c79982d388a9d53",
+    "mtime": 1787041196.8098204,
+    "ast_hash": "6bffb8d5c0246846560bdbb830041ca9",
     "semantic_hash": ""
   },
   "resourcepack/assets/minecraft/lang/es_es.json": {
-    "mtime": 1786617225.0108788,
-    "ast_hash": "deab43024bdcff3f837a0ee4e948706f",
+    "mtime": 1787006668.4026804,
+    "ast_hash": "fb80d63f6bb9c141fcf54da0c2eb9fa9",
     "semantic_hash": ""
   },
   "resourcepack/assets/mutantmonsters/lang/es_es.json": {
-    "mtime": 1785871629.0985627,
-    "ast_hash": "c24f34826f49c61c97563e877ddc76f7",
+    "mtime": 1787006668.416246,
+    "ast_hash": "2e97ad54719eda2e755b745f29731e5e",
     "semantic_hash": ""
   },
   "resourcepack/assets/naturescompass/lang/es_es.json": {
-    "mtime": 1785871401.2144437,
-    "ast_hash": "a61de568d9f8b14cd284728167ea6d34",
+    "mtime": 1787006668.419261,
+    "ast_hash": "210060ea9a6a3b065c8c5ae89a3ba545",
     "semantic_hash": ""
   },
   "resourcepack/assets/repurposed_structures/lang/es_es.json": {
-    "mtime": 1785871401.21596,
-    "ast_hash": "d6e385641509156a77625adc935c3ead",
+    "mtime": 1787006668.4353676,
+    "ast_hash": "18180100a7c2105cca3245557c8c0a7d",
     "semantic_hash": ""
   },
   "resourcepack/assets/sodium-extra/lang/es_es.json": {
-    "mtime": 1785871539.9806302,
-    "ast_hash": "b9ee65071c7dd5693fb288d5efaaf1ea",
+    "mtime": 1787006668.43839,
+    "ast_hash": "e990d5b8d82976c5514c7add0186f419",
     "semantic_hash": ""
   },
   "resourcepack/assets/sophisticatedbackpacks/lang/es_es.json": {
-    "mtime": 1785871782.671317,
-    "ast_hash": "58ad9ac8a4e7dad1a24695c53b9384e3",
+    "mtime": 1787042098.5559819,
+    "ast_hash": "b9cfc0497397b8e41259518893addc3b",
     "semantic_hash": ""
   },
   "resourcepack/assets/sophisticatedcore/lang/es_es.json": {
-    "mtime": 1785871459.3817127,
-    "ast_hash": "b01d5e49cdc0522579bed99e25bc96ef",
+    "mtime": 1787041888.8824072,
+    "ast_hash": "980df56a2b33e8bd75681f7d1e3d127b",
     "semantic_hash": ""
   },
   "resourcepack/assets/sophisticatedstorage/lang/es_es.json": {
-    "mtime": 1785871814.786537,
-    "ast_hash": "bc40f9e0f953446ef5bf7b03fd9fa9fe",
+    "mtime": 1787042374.6155102,
+    "ast_hash": "44f459f40442c575645bcd3f5ecea98d",
     "semantic_hash": ""
   },
   "resourcepack/assets/tombstone/lang/es_es.json": {
-    "mtime": 1785871744.0908387,
-    "ast_hash": "db91b91b6d23872a158a3a20dd27a122",
+    "mtime": 1787006668.461529,
+    "ast_hash": "e8882cb7819d3f2febd7ab9a60162aa9",
     "semantic_hash": ""
   },
   "resourcepack/assets/waystones/lang/es_es.json": {
-    "mtime": 1785871936.4840946,
-    "ast_hash": "f19992e6de9103579229aa2e81084156",
+    "mtime": 1787006668.473667,
+    "ast_hash": "a1728fc9874600e261f74d52ca607d58",
     "semantic_hash": ""
   },
   "resourcepack/assets/xaerobetterpvp/lang/es_es.json": {
-    "mtime": 1785871706.501707,
-    "ast_hash": "c384ea4e241b28b21aab169f4ef6e8aa",
+    "mtime": 1787006668.4786859,
+    "ast_hash": "963dc66a994022e510782bcc8cda3871",
     "semantic_hash": ""
   },
   "resourcepack/assets/xaerominimap/lang/es_es.json": {
-    "mtime": 1785872062.8917468,
-    "ast_hash": "c22c44ee9c063dec1d39eff928e6478a",
+    "mtime": 1787006668.4801908,
+    "ast_hash": "bfdb9b1ff4018dab478fca5d1576c3f3",
     "semantic_hash": ""
   },
   ".gitlab-ci.yml": {
@@ -410,8 +410,8 @@
     "semantic_hash": ""
   },
   "CHANGELOG.md": {
-    "mtime": 1786617623.548598,
-    "ast_hash": "9bfee8ec537806096f03d9cc92522b50",
+    "mtime": 1787063929.483225,
+    "ast_hash": "9e342f402760c1aeb8260b9891c8380a",
     "semantic_hash": ""
   },
   "README.md": {
@@ -420,8 +420,8 @@
     "semantic_hash": ""
   },
   "docs/TRANSLATIONS_STATUS.md": {
-    "mtime": 1786471218.663726,
-    "ast_hash": "5e6e41c94087cd61903c112cc24944b7",
+    "mtime": 1787060364.9435887,
+    "ast_hash": "a78ffc1aa388d0a2fce9b57adf969130",
     "semantic_hash": ""
   },
   "docs/curseforge/create_project_form.md": {
@@ -435,8 +435,8 @@
     "semantic_hash": ""
   },
   "docs/curseforge/project_vars.md": {
-    "mtime": 1786617301.4456637,
-    "ast_hash": "d0e3de2fcfeec671b681fdf9f48e70b7",
+    "mtime": 1787063901.8503609,
+    "ast_hash": "57ea863bc136724e0e5bd0c63a62fcde",
     "semantic_hash": ""
   },
   "docs/curseforge/versions/0.0.0-beta.1.md": {
@@ -510,8 +510,8 @@
     "semantic_hash": ""
   },
   "version.txt": {
-    "mtime": 1786617507.8886254,
-    "ast_hash": "dd384c140337d4715d1ded8f15f3b35d",
+    "mtime": 1787063812.7054443,
+    "ast_hash": "35c36e89ef751b74c7aa3b07d7e0f6b6",
     "semantic_hash": ""
   },
   "resourcepack/pack.png": {
@@ -520,8 +520,8 @@
     "semantic_hash": ""
   },
   "resourcepack/assets/sophisticatedinventoryinteractions/lang/es_es.json": {
-    "mtime": 1785878837.120272,
-    "ast_hash": "faeb216f278cd5a12b62cb47cccee7c0",
+    "mtime": 1787006668.4429111,
+    "ast_hash": "41882c9a419402cb7f130f6066b968eb",
     "semantic_hash": ""
   },
   "docs/curseforge/versions/0.0.0-beta.15.md": {
@@ -535,38 +535,38 @@
     "semantic_hash": ""
   },
   "resourcepack/assets/advancednetherite/lang/es_es.json": {
-    "mtime": 1786087464.921162,
+    "mtime": 1787006668.3170605,
     "ast_hash": "27e7e2fc65cbf22f89982a787401596a",
     "semantic_hash": ""
   },
   "resourcepack/assets/explorerscompass/lang/es_es.json": {
-    "mtime": 1786093900.3271008,
+    "mtime": 1787006668.36338,
     "ast_hash": "218be7aad10c3bc104fb245829791e51",
     "semantic_hash": ""
   },
   "resourcepack/assets/immersive_armors/lang/es_es.json": {
-    "mtime": 1786100102.5387466,
+    "mtime": 1787006668.374993,
     "ast_hash": "bb4f76c537cac718f3e002c6b3e8e769",
     "semantic_hash": ""
   },
   "resourcepack/assets/lootr/lang/es_es.json": {
-    "mtime": 1786100769.6865127,
+    "mtime": 1787006668.3951147,
     "ast_hash": "f8ca39e736537f35e769f324ef436253",
     "semantic_hash": ""
   },
   "resourcepack/assets/stellarity/lang/es_es.json": {
-    "mtime": 1786148385.2416267,
-    "ast_hash": "c9183be2fa063e20a3706a99724d42c7",
+    "mtime": 1787006668.450974,
+    "ast_hash": "419fe9d065c9e08406c58cea66899398",
     "semantic_hash": ""
   },
   "resourcepack/assets/warlockery/lang/es_es.json": {
-    "mtime": 1786130166.2572603,
+    "mtime": 1787006668.47164,
     "ast_hash": "fa8ded64d3ba1f78f11d3a7b594620f7",
     "semantic_hash": ""
   },
   "resourcepack/assets/workhand_tools/lang/es_es.json": {
-    "mtime": 1786148217.4004712,
-    "ast_hash": "3fd7c2c9b66de688b1eb3aacbf4289b5",
+    "mtime": 1787006668.4771793,
+    "ast_hash": "2ab3197e8620e63c02ba456f7bb80a8c",
     "semantic_hash": ""
   },
   "docs/WORKFLOW_ENCHANTVENTURE_26-2.md": {
@@ -622,6 +622,41 @@
   "docs/curseforge/versions/1.0.0-beta.7.md": {
     "mtime": 1786617521.6110895,
     "ast_hash": "9efb1de877dfcce38069054e6f2d249a",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/enchantinginfuser/lang/es_es.json": {
+    "mtime": 1787039926.5041742,
+    "ast_hash": "62e3ef0b74fc36aebd6815ae81725a3c",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/entity_model_features/lang/es_es.json": {
+    "mtime": 1787042790.964665,
+    "ast_hash": "4dca57da1e731f33c4336f7673140dfc",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/entity_texture_features/lang/es_es.json": {
+    "mtime": 1787060349.6266406,
+    "ast_hash": "a443a0be6a1abb4c65212ea8e7087c71",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/respackopts/lang/es_es.json": {
+    "mtime": 1787040297.874797,
+    "ast_hash": "f79554b14fc0567dd8cad9058d3836ab",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/workshop_for_handsome_adventurer/lang/es_es.json": {
+    "mtime": 1787040606.8954282,
+    "ast_hash": "0b6de512f77fa42212dcc75c8633028d",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/yet_another_config_lib_v3/lang/es_es.json": {
+    "mtime": 1787040228.2981915,
+    "ast_hash": "e1326de7f260da5d7eea841334d59f93",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/1.5.0.md": {
+    "mtime": 1787063809.4041681,
+    "ast_hash": "68cc9ea1b33ef9a15fdecf6310d62071",
     "semantic_hash": ""
   }
 }
