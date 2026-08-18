@@ -5,6 +5,15 @@ Todos los cambios notables de EnchantVenture Pack se documentan en este archivo.
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.5.0-beta.13] - 2026-08-18
+
+### Añadido
+
+- **Entity Model Features** (`entity_model_features`): traducción `es_ES` completa vía override (291
+  claves). Mod nuevo en la instancia. Traducción delegada a OpenCode; el modelo imprimió el JSON en su
+  salida de texto en lugar de escribir el archivo directamente, se extrajo y guardó manualmente tras
+  verificar cobertura 100%.
+
 ## [1.5.0-beta.12] - 2026-08-18
 
 ### Añadido
