@@ -5,6 +5,25 @@ Todos los cambios notables de EnchantVenture Pack se documentan en este archivo.
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.5.0-beta.14] - 2026-08-18
+
+### Añadido
+
+- **Entity Texture Features** (`entity_texture_features`): traducción `es_ES` completa vía override (309
+  claves). Mod nuevo en la instancia. Traducción delegada a OpenCode en tres pasadas: la primera dejó el
+  JSON corrupto/truncado a 127 claves válidas recuperables, una segunda pasada dirigida a las 182
+  restantes solo completó 167, y las 15 finales (explicaciones de propiedad y ajustes de piel de jugador)
+  se tradujeron manualmente. Cobertura final 309/309 verificada.
+
+### Nota de cierre de ronda
+
+- Ronda de auditoría de traducciones `es_ES` completada: 14 mods procesados
+  (enchantinginfuser, yet_another_config_lib_v3, respackopts, wishfulrecipes, echorelics,
+  workshop_for_handsome_adventurer, jei, mocreatures, sophisticatedcore, sophisticatedbackpacks,
+  sophisticatedstorage, tbos, entity_model_features, entity_texture_features), versión 1.0.0-beta.7 →
+  1.5.0-beta.14. Pendiente de finalizar (bump a release estable 1.5.0 y subida a CurseForge, solo con
+  confirmación del usuario).
+
 ## [1.5.0-beta.13] - 2026-08-18
 
 ### Añadido
