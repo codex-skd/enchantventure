@@ -126,7 +126,7 @@ el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
 | Dungeons and Taverns Nether Fortress Overhaul | `mr_dungeons_andtavernsnetherfortressoverhaul` | `DnT-nether-fortress-overhaul-v3.1 [NeoForge].jar` | `1-v3.1` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Dungeons and Taverns Pillager Outpost Overhaul | `dnt` | `DnT-pillager-outpost-overhaul-v3.3 [NeoForge].jar` | `1-v3.3` | SI (override) | 2026-08-04 |
 | Dungeons and Taverns Woodland Mansion Overhaul | `mr_dungeons_andtavernswoodlandmansionoverhaul` | `DnT-woodland-mansion-overhaul-2.1 [NeoForge].jar` | `2.1` | N/A (sin lang/ en el jar) | 2026-08-03 |
-| Echo Relics | `echorelics` | `echorelics-0.1.0.jar` | `0.1.0` | SI | 2026-08-03 |
+| Echo Relics | `echorelics` | `echorelics-0.2.0.jar` | `0.2.0` | SI (override) | 2026-08-18 |
 | Ecologics | `ecologics` | `Ecologics-NeoFab-26.2-2.6.0.jar` | `2.6.0` | SI (override) | 2026-08-04 |
 | Enchanted Adventure | `adventureenchanting` | `adventureenchanting-0.1.0.jar` | `0.1.0` | SI | 2026-08-03 |
 | Enchanting Infuser | `enchantinginfuser` | `EnchantingInfuser-v26.2.0-mc26.2.x-NeoForge.jar` | `26.2.0` | SI (override) | 2026-08-18 |

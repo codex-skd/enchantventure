@@ -5,6 +5,19 @@ Todos los cambios notables de EnchantVenture Pack se documentan en este archivo.
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.5.0-beta.5] - 2026-08-18
+
+### Añadido
+
+- **Echo Relics** (`echorelics`): traducción `es_ES` actualizada vía override (25 claves). El jar en la
+  instancia subió de versión (0.1.0 → 0.2.0) y añadió claves nuevas sin cubrir.
+
+### Corregido
+
+- Auditoría de mods marcados incorrectamente como pendientes: AppleSkin, Cloth Config, Connected Glass,
+  Gateway of Doom, Warlockery y Ancient Artifacts ya traían `es_es.json` completo en el jar actualizado
+  de la instancia — no requerían override en este pack. Corregido en `docs/TRANSLATIONS_STATUS.md`.
+
 ## [1.5.0-beta.4] - 2026-08-18
 
 ### Añadido
