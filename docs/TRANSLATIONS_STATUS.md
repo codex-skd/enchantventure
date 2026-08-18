@@ -164,7 +164,7 @@ el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
 | It Takes a Pillage Continuation | `takesapillage` | `takesapillage-neoforge-1.0.12+mc26.2.jar` | `1.0.12` | SI | 2026-08-03 |
 | Jade | `jade` | `Jade-mc26.2-NeoForge-26.2.8.jar` | `26.2.8` (del nombre de archivo, el manifest no resuelve la variable) | SI (override) | 2026-08-04 |
 | JamLib | `jamlib` | `jamlib-neoforge-2.3.1+26.2.x.jar` | `2.3.1+26.2.x` | SI | 2026-08-03 |
-| Just Enough Items | `jei` | `jei-26.2-neoforge-30.15.0.121.jar` | `30.15.0.121` | SI (override) | 2026-08-04 |
+| Just Enough Items | `jei` | `jei-26.2-neoforge-30.24.0.167.jar` | `30.24.0.167` | SI (override) | 2026-08-18 |
 | Just Enough Professions (JEP) | `justenoughprofessions` | `JustEnoughProfessions-neoforge-26.2-12.0.0.jar` | `12.0.0` (del nombre de archivo, el manifest no resuelve la variable) | SI | 2026-08-03 |
 | Kenny | `kenny` | `Kenny-6.0.0-neoforge+mc26.2.jar` | `6.0.0` | SI | 2026-08-03 |
 | Legendary Tooltips | `legendarytooltips` | `LegendaryTooltips-26.2-neoforge-1.6.2.jar` | `1.6.2` | N/A (sin lang/ en el jar) | 2026-08-03 |

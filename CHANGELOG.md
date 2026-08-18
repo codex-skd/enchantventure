@@ -5,6 +5,14 @@ Todos los cambios notables de EnchantVenture Pack se documentan en este archivo.
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.5.0-beta.7] - 2026-08-18
+
+### Añadido
+
+- **Just Enough Items** (`jei`): traducción `es_ES` actualizada vía override (334 claves). Traducción
+  delegada a OpenCode (modelo `nvidia/nemotron-3-super-120b-a12b`); verificada y corregida manualmente
+  antes de commitear (2 claves inventadas eliminadas, 10 claves reales faltantes traducidas a mano).
+
 ## [1.5.0-beta.6] - 2026-08-18
 
 ### Añadido
