@@ -5,6 +5,14 @@ Todos los cambios notables de EnchantVenture Pack se documentan en este archivo.
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.5.0-beta.8] - 2026-08-18
+
+### Añadido
+
+- **DrZhark's Mo'Creatures** (`mocreatures`): traducción `es_ES` completa vía override (319 claves).
+  Traducción delegada a OpenCode (modelo `nvidia/nemotron-3-super-120b-a12b`); verificada cobertura
+  100% sin claves inventadas ni faltantes.
+
 ## [1.5.0-beta.7] - 2026-08-18
 
 ### Añadido

@@ -120,7 +120,7 @@ el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
 | Cyclops Core | `cyclopscore` | `cyclopscore-26.2-neoforge-1.30.0-1066.jar` | `1.30.0-1066` | SI (override) | 2026-08-04 |
 | Data Miner | `data_miner` | `data_miner-26.2-neoforge-1.0.0.jar` | `1.0.0` | PROPIO | 2026-08-03 |
 | Deimos | `deimos` | `deimos-26.2-neoforge-2.7.jar` | `2.7` | N/A (sin lang/ en el jar) | 2026-08-03 |
-| DrZhark's Mo'Creatures | `mocreatures` | `mocreatures-neoforge-26.2.0+26.2.jar` | `26.2.0` | SI | 2026-08-03 |
+| DrZhark's Mo'Creatures | `mocreatures` | `mocreatures-neoforge-26.2.0+26.2.jar` | `26.2.0` | SI (override) | 2026-08-18 |
 | Dungeons and Taverns | `dnt` | `dungeons-and-taverns-5.3.0 [NeoForge].jar` | `5.3.0` | SI (override) | 2026-08-04 |
 | Dungeons and Taverns Ancient City Overhaul | `dnt` | `DnT-ancient-city-overhaul-3.4 [NeoForge].jar` | `3.4` | SI (override) | 2026-08-04 |
 | Dungeons and Taverns Nether Fortress Overhaul | `mr_dungeons_andtavernsnetherfortressoverhaul` | `DnT-nether-fortress-overhaul-v3.1 [NeoForge].jar` | `1-v3.1` | N/A (sin lang/ en el jar) | 2026-08-03 |
