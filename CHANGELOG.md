@@ -5,6 +5,13 @@ Todos los cambios notables de EnchantVenture Pack se documentan en este archivo.
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.5.0-beta.2] - 2026-08-18
+
+### Añadido
+
+- **YetAnotherConfigLib** (`yet_another_config_lib_v3`): traducción `es_ES` completa vía override (26
+  claves). El jar en la instancia se actualizó desde la última revisión y trae claves nuevas sin cubrir.
+
 ## [1.5.0-beta.1] - 2026-08-18
 
 ### Añadido
