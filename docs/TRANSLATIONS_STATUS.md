@@ -210,7 +210,7 @@ el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
 | Sodium | `sodium` | `sodium-neoforge-0.9.1+mc26.2.jar` | `0.9.1+mc26.2` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Sodium Extra | `sodium-extra` | `sodium-extra-neoforge-0.9.3+mc26.2.jar` | `0.9.3+mc26.2` | SI (override) | 2026-08-04 |
 | Sophisticated Backpacks | `sophisticatedbackpacks` | `sophisticatedbackpacks-26.2-3.25.83.2018.jar` | `3.25.83` | SI (override) | 2026-08-04 |
-| Sophisticated Core | `sophisticatedcore` | `sophisticatedcore-26.2-1.4.90.2199.jar` | `1.4.90` | SI (override) | 2026-08-04 |
+| Sophisticated Core | `sophisticatedcore` | `sophisticatedcore-26.2-1.4.96.2238.jar` | `1.4.96` | SI (override) | 2026-08-18 |
 | Sophisticated Inventory Interactions | `sophisticatedinventoryinteractions` | `sophisticatedinventoryinteractions-26.2-0.1.16.188.jar` | `0.1.16.188` | SI (override) | 2026-08-04 |
 | Sophisticated Storage | `sophisticatedstorage` | `sophisticatedstorage-26.2-1.5.101.2028.jar` | `1.5.101` | SI (override) | 2026-08-04 |
 | Stellarity | `stellarity` | `Stellarity-5.5.4.jar` | `5.5.4` | SI (override) | 2026-08-08 |

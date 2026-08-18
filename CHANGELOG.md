@@ -5,6 +5,14 @@ Todos los cambios notables de EnchantVenture Pack se documentan en este archivo.
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.5.0-beta.9] - 2026-08-18
+
+### Añadido
+
+- **Sophisticated Core** (`sophisticatedcore`): traducción `es_ES` actualizada vía override (302 claves).
+  Traducción delegada a OpenCode; 1 clave faltante (`item.sophisticatedcore.stack_upgrade_conversion.tooltip`)
+  corregida manualmente.
+
 ## [1.5.0-beta.8] - 2026-08-18
 
 ### Añadido
