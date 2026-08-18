@@ -218,7 +218,7 @@ el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
 | Structurify | `structurify` | `structurify-neoforge-2.0.30+mc26.2.jar` | `2.0.30` | SI | 2026-08-03 |
 | SuperMartijn642's Core Lib | `supermartijn642corelib` | `supermartijn642corelib-1.1.22a-neoforge-mc26.2.jar` | `1.1.22+a` | SI | 2026-08-03 |
 | Teleport Animation | `teleport_animation` | `teleport_animation-26.2-neoforge-1.0.1.jar` | `1.0.1` | PROPIO | 2026-08-03 |
-| The Birth of Steve | `tbos` | `tbos-neoforge-26.2-0.4.0.jar` | `0.4.0` | SI | 2026-08-03 |
+| The Birth of Steve | `tbos` | `tbos-neoforge-26.2-0.7.0.jar` | `0.7.0` | SI (override) | 2026-08-18 |
 | The Lost City | `the_lost_city` | `the_lost_city-1.4.1-neoforge-1.26.1.jar` | `1.4.1` | SI | 2026-08-03 |
 | TNT Foundry | `tntfoundry` | `tntfoundry-1.0.0.jar` | `1.0.0` | SI | 2026-08-03 |
 | Tom's Simple Storage Mod | `toms_storage` | `toms_storage-26.2-2.11.1.jar` | `2.11.1` | SI | 2026-08-03 |

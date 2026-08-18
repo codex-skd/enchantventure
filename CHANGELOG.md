@@ -5,6 +5,15 @@ Todos los cambios notables de EnchantVenture Pack se documentan en este archivo.
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.5.0-beta.12] - 2026-08-18
+
+### Añadido
+
+- **The Birth of Steve** (`tbos`): traducción `es_ES` actualizada vía override (507 claves). Traducción
+  delegada a OpenCode en dos pasadas: la primera cubrió 425/507 claves, una segunda pasada dirigida
+  completó las 82 claves de lore/mazmorra que faltaban (categorías de sala, mensajes de archivo,
+  fragmentos de tomo, diario de misión).
+
 ## [1.5.0-beta.11] - 2026-08-18
 
 ### Añadido
