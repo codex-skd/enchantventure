@@ -5,6 +5,16 @@ Todos los cambios notables de EnchantVenture Pack se documentan en este archivo.
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.5.0-beta.1] - 2026-08-18
+
+### Añadido
+
+- **Enchanting Infuser** (`enchantinginfuser`): traducción `es_ES` completa (14 claves). Mod nuevo en la
+  instancia desde la última auditoría (2026-08-08).
+- Inicio de la ronda de auditoría de mods nuevos/actualizados en la instancia: 20 mods pendientes de
+  `es_ES` detectados (revisión mod a mod, ver `docs/TRANSLATIONS_STATUS.md`). No incluye subida a
+  CurseForge hasta completar la ronda.
+
 ## [1.0.0-beta.7] - 2026-08-13
 
 ### Eliminado

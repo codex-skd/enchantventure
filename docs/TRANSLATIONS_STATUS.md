@@ -129,6 +129,7 @@ el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
 | Echo Relics | `echorelics` | `echorelics-0.1.0.jar` | `0.1.0` | SI | 2026-08-03 |
 | Ecologics | `ecologics` | `Ecologics-NeoFab-26.2-2.6.0.jar` | `2.6.0` | SI (override) | 2026-08-04 |
 | Enchanted Adventure | `adventureenchanting` | `adventureenchanting-0.1.0.jar` | `0.1.0` | SI | 2026-08-03 |
+| Enchanting Infuser | `enchantinginfuser` | `EnchantingInfuser-v26.2.0-mc26.2.x-NeoForge.jar` | `26.2.0` | SI (override) | 2026-08-18 |
 | EnchantmentDescriptions | `enchdesc` | `EnchantmentDescriptions-neoforge-MC26.2-26.2.0.1.jar` | `26.2.0.1` | SI (override) | 2026-08-04 |
 | Equivalent Legacy | `equivalent_legacy` | `equivalent_legacy-26.2-neoforge-1.1.0.jar` | `1.1.0` | PROPIO | 2026-08-04 |
 | EvilCraft | `evilcraft` | `evilcraft-26.2-neoforge-1.2.98-1004.jar` | `1.2.98-1004` | SI (override) | 2026-08-04 |
