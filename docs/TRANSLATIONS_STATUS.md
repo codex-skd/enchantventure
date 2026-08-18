@@ -202,6 +202,7 @@ el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
 | Reliquary Reincarnations | `reliquary` | `reliquary-26.2-2.0.89.1531.jar` | `2.0.89` | SI | 2026-08-03 |
 | Repurposed Structures | `repurposed_structures` | `repurposed_structures-7.7.5+26.2-neoforge.jar` | `7.7.5+26.2-neoforge` | SI (override) | 2026-08-04 |
 | Resourceful Lib | `resourcefullib` | `ResourcefulLib-5.0.3.jar` | `5.0.3` | N/A (sin lang/ en el jar) | 2026-08-03 |
+| Resource Pack Options | `respackopts` | `respackopts-26.2.1.jar` | `26.2.1` | SI | 2026-08-18 |
 | Right Click Harvest | `rightclickharvest` | `rightclickharvest-neoforge-4.6.2+26.2.x.jar` | `4.6.2+26.2.x` | SI | 2026-08-03 |
 | Shogi | `shogi` | `shogi-neoforge-26.2-26.2.0.4.jar` | `26.2.0.4` | SI | 2026-08-03 |
 | SKD Menu | `skd_menu` | `skd_menu-26.2-neoforge-1.2.0.jar` | `1.2.0` | PROPIO | 2026-08-03 |
