@@ -5,6 +5,13 @@ Todos los cambios notables de EnchantVenture Pack se documentan en este archivo.
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.5.0] - 2026-08-18
+
+### Añadido
+
+- Release estable consolidando la ronda de traducciones `es_ES` de las betas 1.5.0-beta.1 a beta.14: 14
+  mods traducidos o actualizados (ver entradas de beta anteriores para el detalle mod a mod).
+
 ## [1.5.0-beta.14] - 2026-08-18
 
 ### Añadido
