@@ -212,7 +212,7 @@ el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
 | Sophisticated Backpacks | `sophisticatedbackpacks` | `sophisticatedbackpacks-26.2-3.25.85.2046.jar` | `3.25.85` | SI (override) | 2026-08-18 |
 | Sophisticated Core | `sophisticatedcore` | `sophisticatedcore-26.2-1.4.96.2238.jar` | `1.4.96` | SI (override) | 2026-08-18 |
 | Sophisticated Inventory Interactions | `sophisticatedinventoryinteractions` | `sophisticatedinventoryinteractions-26.2-0.1.16.188.jar` | `0.1.16.188` | SI (override) | 2026-08-04 |
-| Sophisticated Storage | `sophisticatedstorage` | `sophisticatedstorage-26.2-1.5.101.2028.jar` | `1.5.101` | SI (override) | 2026-08-04 |
+| Sophisticated Storage | `sophisticatedstorage` | `sophisticatedstorage-26.2-1.5.105.2067.jar` | `1.5.105` | SI (override) | 2026-08-18 |
 | Stellarity | `stellarity` | `Stellarity-5.5.4.jar` | `5.5.4` | SI (override) | 2026-08-08 |
 | Structure Essentials mod | `structureessentials` | `structureessentials-26.2-5.0.jar` | `5.0` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Structurify | `structurify` | `structurify-neoforge-2.0.30+mc26.2.jar` | `2.0.30` | SI | 2026-08-03 |
