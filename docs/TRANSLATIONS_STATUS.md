@@ -233,7 +233,7 @@ el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
 | Visual Workbench | `visualworkbench` | `VisualWorkbench-v26.2.1-mc26.2.x-NeoForge.jar` | `26.2.1` | SI | 2026-08-03 |
 | Warlockery | `warlockery` | `warlockery-neoforge-1.3.0.jar` | `1.3.0` | SI | 2026-08-04 |
 | Waystones | `waystones` | `waystones-neoforge-26.2-26.2.0.7.jar` | `26.2.0.7` | SI (override) | 2026-08-04 |
-| Wishful Recipes | `wishfulrecipes` | `wishfulrecipes-26.2-neoforge-0.2.2.jar` | `0.2.2` | SI | 2026-08-03 |
+| Wishful Recipes | `wishfulrecipes` | `wishfulrecipes-26.2-neoforge-1.jar` | `1` | SI | 2026-08-18 |
 | Workhand Tools | `workhand_tools` | `workhand_tools-26.2-neoforge-1.0.0.jar` | `1.0.0` | SI (override) | 2026-08-08 |
 | Xaero's Minimap | `xaerominimap` | `xaerominimap-neoforge-26.2-26.4.2.jar` | `26.4.2` | SI (override) | 2026-08-04 |
 | Xaero's World Map | `xaeroworldmap` | `xaeroworldmap-neoforge-26.2-1.44.2.jar` | `1.44.2` | SI | 2026-08-03 |

@@ -5,6 +5,13 @@ Todos los cambios notables de EnchantVenture Pack se documentan en este archivo.
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.5.0-beta.4] - 2026-08-18
+
+### Añadido
+
+- **Wishful Recipes** (`wishfulrecipes`): traducción `es_ES` actualizada (33 claves). El jar en la
+  instancia subió de versión (0.2.2 → 1) y añadió claves nuevas sin cubrir.
+
 ## [1.5.0-beta.3] - 2026-08-18
 
 ### Añadido
