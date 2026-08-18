@@ -235,6 +235,7 @@ el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
 | Waystones | `waystones` | `waystones-neoforge-26.2-26.2.0.7.jar` | `26.2.0.7` | SI (override) | 2026-08-04 |
 | Wishful Recipes | `wishfulrecipes` | `wishfulrecipes-26.2-neoforge-1.jar` | `1` | SI | 2026-08-18 |
 | Workhand Tools | `workhand_tools` | `workhand_tools-26.2-neoforge-1.0.0.jar` | `1.0.0` | SI (override) | 2026-08-08 |
+| Workshop for Handsome Adventurer | `workshop_for_handsome_adventurer` | `workshop_for_handsome_adventurer--mc26.2--neoforge--1.36.0.jar` | `1.36.0` | SI (override) | 2026-08-18 |
 | Xaero's Minimap | `xaerominimap` | `xaerominimap-neoforge-26.2-26.4.2.jar` | `26.4.2` | SI (override) | 2026-08-04 |
 | Xaero's World Map | `xaeroworldmap` | `xaeroworldmap-neoforge-26.2-1.44.2.jar` | `1.44.2` | SI | 2026-08-03 |
 | YAML Config | `yamlconfig` | `yamlconfig-neoforge-21.1.0.jar` | `21.1.0` | SI | 2026-08-03 |

@@ -5,6 +5,13 @@ Todos los cambios notables de EnchantVenture Pack se documentan en este archivo.
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.5.0-beta.6] - 2026-08-18
+
+### Añadido
+
+- **Workshop for Handsome Adventurer** (`workshop_for_handsome_adventurer`): traducción `es_ES` completa
+  vía override (165 claves). Mod nuevo en la instancia desde la última auditoría.
+
 ## [1.5.0-beta.5] - 2026-08-18
 
 ### Añadido
