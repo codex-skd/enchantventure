@@ -231,7 +231,7 @@ el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
 | Utility Core | `utility_core` | `utility_core-26.2-neoforge-1.11.0.jar` | `1.11.0` | PROPIO | 2026-08-03 |
 | Variants&Ventures | `variantsandventures` | `variantsandventures-neoforge-1.0.26+mc26.2.jar` | `1.0.26` | SI | 2026-08-03 |
 | Visual Workbench | `visualworkbench` | `VisualWorkbench-v26.2.1-mc26.2.x-NeoForge.jar` | `26.2.1` | SI | 2026-08-03 |
-| Warlockery | `warlockery` | `warlockery-neoforge-1.3.0.jar` | `1.3.0` | SI | 2026-08-04 |
+| Warlockery | `warlockery` | `warlockery-neoforge-1.4.0-LlaGuiT0-26.2.0.45.jar` | `1.4.0-LlaGuiT0-26.2.0.45` | SI | 2026-08-18 |
 | Waystones | `waystones` | `waystones-neoforge-26.2-26.2.0.7.jar` | `26.2.0.7` | SI (override) | 2026-08-04 |
 | Wishful Recipes | `wishfulrecipes` | `wishfulrecipes-26.2-neoforge-1.jar` | `1` | SI | 2026-08-18 |
 | Workhand Tools | `workhand_tools` | `workhand_tools-26.2-neoforge-1.0.0.jar` | `1.0.0` | SI (override) | 2026-08-08 |
