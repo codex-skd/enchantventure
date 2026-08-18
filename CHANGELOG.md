@@ -5,6 +5,141 @@ Todos los cambios notables de EnchantVenture Pack se documentan en este archivo.
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.5.0] - 2026-08-18
+
+### Añadido
+
+- Release estable consolidando la ronda de traducciones `es_ES` de las betas 1.5.0-beta.1 a beta.14: 14
+  mods traducidos o actualizados (ver entradas de beta anteriores para el detalle mod a mod).
+- Subido a CurseForge vía `scripts/curseforge-upload.ps1` (file ID `8677816`, HTTP 200).
+
+## [1.5.0-beta.14] - 2026-08-18
+
+### Añadido
+
+- **Entity Texture Features** (`entity_texture_features`): traducción `es_ES` completa vía override (309
+  claves). Mod nuevo en la instancia. Traducción delegada a OpenCode en tres pasadas: la primera dejó el
+  JSON corrupto/truncado a 127 claves válidas recuperables, una segunda pasada dirigida a las 182
+  restantes solo completó 167, y las 15 finales (explicaciones de propiedad y ajustes de piel de jugador)
+  se tradujeron manualmente. Cobertura final 309/309 verificada.
+
+### Nota de cierre de ronda
+
+- Ronda de auditoría de traducciones `es_ES` completada: 14 mods procesados
+  (enchantinginfuser, yet_another_config_lib_v3, respackopts, wishfulrecipes, echorelics,
+  workshop_for_handsome_adventurer, jei, mocreatures, sophisticatedcore, sophisticatedbackpacks,
+  sophisticatedstorage, tbos, entity_model_features, entity_texture_features), versión 1.0.0-beta.7 →
+  1.5.0-beta.14. Pendiente de finalizar (bump a release estable 1.5.0 y subida a CurseForge, solo con
+  confirmación del usuario).
+
+## [1.5.0-beta.13] - 2026-08-18
+
+### Añadido
+
+- **Entity Model Features** (`entity_model_features`): traducción `es_ES` completa vía override (291
+  claves). Mod nuevo en la instancia. Traducción delegada a OpenCode; el modelo imprimió el JSON en su
+  salida de texto en lugar de escribir el archivo directamente, se extrajo y guardó manualmente tras
+  verificar cobertura 100%.
+
+## [1.5.0-beta.12] - 2026-08-18
+
+### Añadido
+
+- **The Birth of Steve** (`tbos`): traducción `es_ES` actualizada vía override (507 claves). Traducción
+  delegada a OpenCode en dos pasadas: la primera cubrió 425/507 claves, una segunda pasada dirigida
+  completó las 82 claves de lore/mazmorra que faltaban (categorías de sala, mensajes de archivo,
+  fragmentos de tomo, diario de misión).
+
+## [1.5.0-beta.11] - 2026-08-18
+
+### Añadido
+
+- **Sophisticated Storage** (`sophisticatedstorage`): traducción `es_ES` actualizada vía override (421
+  claves). Traducción delegada a OpenCode; 15 claves faltantes (variantes de
+  `stack_upgrade_tier_X_to_tier_Y_conversion`) corregidas manualmente con patrón consistente.
+
+## [1.5.0-beta.10] - 2026-08-18
+
+### Añadido
+
+- **Sophisticated Backpacks** (`sophisticatedbackpacks`): traducción `es_ES` actualizada vía override
+  (410 claves). Traducción delegada a OpenCode; cobertura 100% verificada sin correcciones necesarias.
+
+## [1.5.0-beta.9] - 2026-08-18
+
+### Añadido
+
+- **Sophisticated Core** (`sophisticatedcore`): traducción `es_ES` actualizada vía override (302 claves).
+  Traducción delegada a OpenCode; 1 clave faltante (`item.sophisticatedcore.stack_upgrade_conversion.tooltip`)
+  corregida manualmente.
+
+## [1.5.0-beta.8] - 2026-08-18
+
+### Añadido
+
+- **DrZhark's Mo'Creatures** (`mocreatures`): traducción `es_ES` completa vía override (319 claves).
+  Traducción delegada a OpenCode (modelo `nvidia/nemotron-3-super-120b-a12b`); verificada cobertura
+  100% sin claves inventadas ni faltantes.
+
+## [1.5.0-beta.7] - 2026-08-18
+
+### Añadido
+
+- **Just Enough Items** (`jei`): traducción `es_ES` actualizada vía override (334 claves). Traducción
+  delegada a OpenCode (modelo `nvidia/nemotron-3-super-120b-a12b`); verificada y corregida manualmente
+  antes de commitear (2 claves inventadas eliminadas, 10 claves reales faltantes traducidas a mano).
+
+## [1.5.0-beta.6] - 2026-08-18
+
+### Añadido
+
+- **Workshop for Handsome Adventurer** (`workshop_for_handsome_adventurer`): traducción `es_ES` completa
+  vía override (165 claves). Mod nuevo en la instancia desde la última auditoría.
+
+## [1.5.0-beta.5] - 2026-08-18
+
+### Añadido
+
+- **Echo Relics** (`echorelics`): traducción `es_ES` actualizada vía override (25 claves). El jar en la
+  instancia subió de versión (0.1.0 → 0.2.0) y añadió claves nuevas sin cubrir.
+
+### Corregido
+
+- Auditoría de mods marcados incorrectamente como pendientes: AppleSkin, Cloth Config, Connected Glass,
+  Gateway of Doom, Warlockery y Ancient Artifacts ya traían `es_es.json` completo en el jar actualizado
+  de la instancia — no requerían override en este pack. Corregido en `docs/TRANSLATIONS_STATUS.md`.
+
+## [1.5.0-beta.4] - 2026-08-18
+
+### Añadido
+
+- **Wishful Recipes** (`wishfulrecipes`): traducción `es_ES` actualizada (33 claves). El jar en la
+  instancia subió de versión (0.2.2 → 1) y añadió claves nuevas sin cubrir.
+
+## [1.5.0-beta.3] - 2026-08-18
+
+### Añadido
+
+- **Resource Pack Options** (`respackopts`): traducción `es_ES` completa (26 claves). Mod nuevo en la
+  instancia desde la última auditoría.
+
+## [1.5.0-beta.2] - 2026-08-18
+
+### Añadido
+
+- **YetAnotherConfigLib** (`yet_another_config_lib_v3`): traducción `es_ES` completa vía override (26
+  claves). El jar en la instancia se actualizó desde la última revisión y trae claves nuevas sin cubrir.
+
+## [1.5.0-beta.1] - 2026-08-18
+
+### Añadido
+
+- **Enchanting Infuser** (`enchantinginfuser`): traducción `es_ES` completa (14 claves). Mod nuevo en la
+  instancia desde la última auditoría (2026-08-08).
+- Inicio de la ronda de auditoría de mods nuevos/actualizados en la instancia: 20 mods pendientes de
+  `es_ES` detectados (revisión mod a mod, ver `docs/TRANSLATIONS_STATUS.md`). No incluye subida a
+  CurseForge hasta completar la ronda.
+
 ## [1.0.0-beta.7] - 2026-08-13
 
 ### Eliminado

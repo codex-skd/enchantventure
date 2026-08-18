@@ -120,16 +120,19 @@ el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
 | Cyclops Core | `cyclopscore` | `cyclopscore-26.2-neoforge-1.30.0-1066.jar` | `1.30.0-1066` | SI (override) | 2026-08-04 |
 | Data Miner | `data_miner` | `data_miner-26.2-neoforge-1.0.0.jar` | `1.0.0` | PROPIO | 2026-08-03 |
 | Deimos | `deimos` | `deimos-26.2-neoforge-2.7.jar` | `2.7` | N/A (sin lang/ en el jar) | 2026-08-03 |
-| DrZhark's Mo'Creatures | `mocreatures` | `mocreatures-neoforge-26.2.0+26.2.jar` | `26.2.0` | SI | 2026-08-03 |
+| DrZhark's Mo'Creatures | `mocreatures` | `mocreatures-neoforge-26.2.0+26.2.jar` | `26.2.0` | SI (override) | 2026-08-18 |
 | Dungeons and Taverns | `dnt` | `dungeons-and-taverns-5.3.0 [NeoForge].jar` | `5.3.0` | SI (override) | 2026-08-04 |
 | Dungeons and Taverns Ancient City Overhaul | `dnt` | `DnT-ancient-city-overhaul-3.4 [NeoForge].jar` | `3.4` | SI (override) | 2026-08-04 |
 | Dungeons and Taverns Nether Fortress Overhaul | `mr_dungeons_andtavernsnetherfortressoverhaul` | `DnT-nether-fortress-overhaul-v3.1 [NeoForge].jar` | `1-v3.1` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Dungeons and Taverns Pillager Outpost Overhaul | `dnt` | `DnT-pillager-outpost-overhaul-v3.3 [NeoForge].jar` | `1-v3.3` | SI (override) | 2026-08-04 |
 | Dungeons and Taverns Woodland Mansion Overhaul | `mr_dungeons_andtavernswoodlandmansionoverhaul` | `DnT-woodland-mansion-overhaul-2.1 [NeoForge].jar` | `2.1` | N/A (sin lang/ en el jar) | 2026-08-03 |
-| Echo Relics | `echorelics` | `echorelics-0.1.0.jar` | `0.1.0` | SI | 2026-08-03 |
+| Echo Relics | `echorelics` | `echorelics-0.2.0.jar` | `0.2.0` | SI (override) | 2026-08-18 |
 | Ecologics | `ecologics` | `Ecologics-NeoFab-26.2-2.6.0.jar` | `2.6.0` | SI (override) | 2026-08-04 |
 | Enchanted Adventure | `adventureenchanting` | `adventureenchanting-0.1.0.jar` | `0.1.0` | SI | 2026-08-03 |
+| Enchanting Infuser | `enchantinginfuser` | `EnchantingInfuser-v26.2.0-mc26.2.x-NeoForge.jar` | `26.2.0` | SI (override) | 2026-08-18 |
 | EnchantmentDescriptions | `enchdesc` | `EnchantmentDescriptions-neoforge-MC26.2-26.2.0.1.jar` | `26.2.0.1` | SI (override) | 2026-08-04 |
+| Entity Model Features (EMF) | `entity_model_features` | `entity_model_features-3.2.6-26.2-neoforge.jar` | `3.2.6-26.2` | SI (override) | 2026-08-18 |
+| Entity Texture Features (ETF) | `entity_texture_features` | `entity_texture_features-7.1.1-26.2-neoforge.jar` | `7.1.1-26.2` | SI (override) | 2026-08-18 |
 | Equivalent Legacy | `equivalent_legacy` | `equivalent_legacy-26.2-neoforge-1.1.0.jar` | `1.1.0` | PROPIO | 2026-08-04 |
 | EvilCraft | `evilcraft` | `evilcraft-26.2-neoforge-1.2.98-1004.jar` | `1.2.98-1004` | SI (override) | 2026-08-04 |
 | Explorer's Compass | `explorerscompass` | `ExplorersCompass-26.2-3.3.0-neoforge.jar` | `26.2-3.3.0-neoforge` | SI | 2026-08-03 |
@@ -163,7 +166,7 @@ el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
 | It Takes a Pillage Continuation | `takesapillage` | `takesapillage-neoforge-1.0.12+mc26.2.jar` | `1.0.12` | SI | 2026-08-03 |
 | Jade | `jade` | `Jade-mc26.2-NeoForge-26.2.8.jar` | `26.2.8` (del nombre de archivo, el manifest no resuelve la variable) | SI (override) | 2026-08-04 |
 | JamLib | `jamlib` | `jamlib-neoforge-2.3.1+26.2.x.jar` | `2.3.1+26.2.x` | SI | 2026-08-03 |
-| Just Enough Items | `jei` | `jei-26.2-neoforge-30.15.0.121.jar` | `30.15.0.121` | SI (override) | 2026-08-04 |
+| Just Enough Items | `jei` | `jei-26.2-neoforge-30.24.0.167.jar` | `30.24.0.167` | SI (override) | 2026-08-18 |
 | Just Enough Professions (JEP) | `justenoughprofessions` | `JustEnoughProfessions-neoforge-26.2-12.0.0.jar` | `12.0.0` (del nombre de archivo, el manifest no resuelve la variable) | SI | 2026-08-03 |
 | Kenny | `kenny` | `Kenny-6.0.0-neoforge+mc26.2.jar` | `6.0.0` | SI | 2026-08-03 |
 | Legendary Tooltips | `legendarytooltips` | `LegendaryTooltips-26.2-neoforge-1.6.2.jar` | `1.6.2` | N/A (sin lang/ en el jar) | 2026-08-03 |
@@ -201,22 +204,23 @@ el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
 | Reliquary Reincarnations | `reliquary` | `reliquary-26.2-2.0.89.1531.jar` | `2.0.89` | SI | 2026-08-03 |
 | Repurposed Structures | `repurposed_structures` | `repurposed_structures-7.7.5+26.2-neoforge.jar` | `7.7.5+26.2-neoforge` | SI (override) | 2026-08-04 |
 | Resourceful Lib | `resourcefullib` | `ResourcefulLib-5.0.3.jar` | `5.0.3` | N/A (sin lang/ en el jar) | 2026-08-03 |
+| Resource Pack Options | `respackopts` | `respackopts-26.2.1.jar` | `26.2.1` | SI | 2026-08-18 |
 | Right Click Harvest | `rightclickharvest` | `rightclickharvest-neoforge-4.6.2+26.2.x.jar` | `4.6.2+26.2.x` | SI | 2026-08-03 |
 | Shogi | `shogi` | `shogi-neoforge-26.2-26.2.0.4.jar` | `26.2.0.4` | SI | 2026-08-03 |
 | SKD Menu | `skd_menu` | `skd_menu-26.2-neoforge-1.2.0.jar` | `1.2.0` | PROPIO | 2026-08-03 |
 | Smoothchunk mod | `smoothchunk` | `smoothchunk-26.1-4.2.jar` | `4.2` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Sodium | `sodium` | `sodium-neoforge-0.9.1+mc26.2.jar` | `0.9.1+mc26.2` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Sodium Extra | `sodium-extra` | `sodium-extra-neoforge-0.9.3+mc26.2.jar` | `0.9.3+mc26.2` | SI (override) | 2026-08-04 |
-| Sophisticated Backpacks | `sophisticatedbackpacks` | `sophisticatedbackpacks-26.2-3.25.83.2018.jar` | `3.25.83` | SI (override) | 2026-08-04 |
-| Sophisticated Core | `sophisticatedcore` | `sophisticatedcore-26.2-1.4.90.2199.jar` | `1.4.90` | SI (override) | 2026-08-04 |
+| Sophisticated Backpacks | `sophisticatedbackpacks` | `sophisticatedbackpacks-26.2-3.25.85.2046.jar` | `3.25.85` | SI (override) | 2026-08-18 |
+| Sophisticated Core | `sophisticatedcore` | `sophisticatedcore-26.2-1.4.96.2238.jar` | `1.4.96` | SI (override) | 2026-08-18 |
 | Sophisticated Inventory Interactions | `sophisticatedinventoryinteractions` | `sophisticatedinventoryinteractions-26.2-0.1.16.188.jar` | `0.1.16.188` | SI (override) | 2026-08-04 |
-| Sophisticated Storage | `sophisticatedstorage` | `sophisticatedstorage-26.2-1.5.101.2028.jar` | `1.5.101` | SI (override) | 2026-08-04 |
+| Sophisticated Storage | `sophisticatedstorage` | `sophisticatedstorage-26.2-1.5.105.2067.jar` | `1.5.105` | SI (override) | 2026-08-18 |
 | Stellarity | `stellarity` | `Stellarity-5.5.4.jar` | `5.5.4` | SI (override) | 2026-08-08 |
 | Structure Essentials mod | `structureessentials` | `structureessentials-26.2-5.0.jar` | `5.0` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Structurify | `structurify` | `structurify-neoforge-2.0.30+mc26.2.jar` | `2.0.30` | SI | 2026-08-03 |
 | SuperMartijn642's Core Lib | `supermartijn642corelib` | `supermartijn642corelib-1.1.22a-neoforge-mc26.2.jar` | `1.1.22+a` | SI | 2026-08-03 |
 | Teleport Animation | `teleport_animation` | `teleport_animation-26.2-neoforge-1.0.1.jar` | `1.0.1` | PROPIO | 2026-08-03 |
-| The Birth of Steve | `tbos` | `tbos-neoforge-26.2-0.4.0.jar` | `0.4.0` | SI | 2026-08-03 |
+| The Birth of Steve | `tbos` | `tbos-neoforge-26.2-0.7.0.jar` | `0.7.0` | SI (override) | 2026-08-18 |
 | The Lost City | `the_lost_city` | `the_lost_city-1.4.1-neoforge-1.26.1.jar` | `1.4.1` | SI | 2026-08-03 |
 | TNT Foundry | `tntfoundry` | `tntfoundry-1.0.0.jar` | `1.0.0` | SI | 2026-08-03 |
 | Tom's Simple Storage Mod | `toms_storage` | `toms_storage-26.2-2.11.1.jar` | `2.11.1` | SI | 2026-08-03 |
@@ -229,11 +233,12 @@ el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
 | Utility Core | `utility_core` | `utility_core-26.2-neoforge-1.11.0.jar` | `1.11.0` | PROPIO | 2026-08-03 |
 | Variants&Ventures | `variantsandventures` | `variantsandventures-neoforge-1.0.26+mc26.2.jar` | `1.0.26` | SI | 2026-08-03 |
 | Visual Workbench | `visualworkbench` | `VisualWorkbench-v26.2.1-mc26.2.x-NeoForge.jar` | `26.2.1` | SI | 2026-08-03 |
-| Warlockery | `warlockery` | `warlockery-neoforge-1.3.0.jar` | `1.3.0` | SI | 2026-08-04 |
+| Warlockery | `warlockery` | `warlockery-neoforge-1.4.0-LlaGuiT0-26.2.0.45.jar` | `1.4.0-LlaGuiT0-26.2.0.45` | SI | 2026-08-18 |
 | Waystones | `waystones` | `waystones-neoforge-26.2-26.2.0.7.jar` | `26.2.0.7` | SI (override) | 2026-08-04 |
-| Wishful Recipes | `wishfulrecipes` | `wishfulrecipes-26.2-neoforge-0.2.2.jar` | `0.2.2` | SI | 2026-08-03 |
+| Wishful Recipes | `wishfulrecipes` | `wishfulrecipes-26.2-neoforge-1.jar` | `1` | SI | 2026-08-18 |
 | Workhand Tools | `workhand_tools` | `workhand_tools-26.2-neoforge-1.0.0.jar` | `1.0.0` | SI (override) | 2026-08-08 |
+| Workshop for Handsome Adventurer | `workshop_for_handsome_adventurer` | `workshop_for_handsome_adventurer--mc26.2--neoforge--1.36.0.jar` | `1.36.0` | SI (override) | 2026-08-18 |
 | Xaero's Minimap | `xaerominimap` | `xaerominimap-neoforge-26.2-26.4.2.jar` | `26.4.2` | SI (override) | 2026-08-04 |
 | Xaero's World Map | `xaeroworldmap` | `xaeroworldmap-neoforge-26.2-1.44.2.jar` | `1.44.2` | SI | 2026-08-03 |
 | YAML Config | `yamlconfig` | `yamlconfig-neoforge-21.1.0.jar` | `21.1.0` | SI | 2026-08-03 |
-| YetAnotherConfigLib | `yet_another_config_lib_v3` | `yet_another_config_lib_v3-3.9.5+26.2-neoforge.jar` | `3.9.5+26.2-neoforge` | SI | 2026-08-03 |
+| YetAnotherConfigLib | `yet_another_config_lib_v3` | `yet_another_config_lib_v3-3.9.5+26.2-neoforge.jar` | `3.9.5+26.2-neoforge` | SI (override) | 2026-08-18 |
