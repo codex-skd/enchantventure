@@ -90,7 +90,7 @@ El script `scripts/curseforge-upload.ps1` lee estas líneas (`key = value`). Rel
 project_id = 1638251
 api_token = ee776b0a-ee95-4850-b554-06be02a8657f
 game_versions = 16498
-release_type = beta
+release_type = release
 ```
 
 > `game_versions` reutiliza el `gameVersionId` de `26.2` ya validado en

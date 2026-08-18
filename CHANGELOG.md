@@ -11,6 +11,7 @@ y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 - Release estable consolidando la ronda de traducciones `es_ES` de las betas 1.5.0-beta.1 a beta.14: 14
   mods traducidos o actualizados (ver entradas de beta anteriores para el detalle mod a mod).
+- Subido a CurseForge vía `scripts/curseforge-upload.ps1` (file ID `8677816`, HTTP 200).
 
 ## [1.5.0-beta.14] - 2026-08-18
 
