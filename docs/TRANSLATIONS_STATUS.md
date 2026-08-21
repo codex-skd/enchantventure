@@ -72,13 +72,23 @@
 > `apexcore`, `jade`, `justenoughprofessions`) declaran la versión como `${file.jarVersion}` en su manifest
 > (variable que solo se resuelve al compilar) — para esos se usó la versión visible en el nombre del archivo.
 
-Total: 155 mods · 97 ya con `es_ES` · 0 pendientes (con texto real que traducir) · 46 sin `lang/` (nada que
-traducir) · 12 propios (fuera de alcance de este repo). Tras la auditoría de 2026-08-04, 23 mods quedaron
-completados vía override de este resource pack (su `es_ES` propio era parcial o inexistente). Revisión de
-mods nuevos del 2026-08-04: Better Party X Waystones (48 claves) y Sophisticated Inventory Interactions
-(27 claves) se completaron también vía override; AppleSkin ya traía su propio `es_es.json` completo.
-El 2026-08-08 se añadió el mod nuevo `workhand_tools` (28 claves, override) y se reescribió por completo
-el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
+Total: 168 mods · 101 ya con `es_ES` · 1 pendiente (`occultism`, override en progreso — ver más abajo) · 47 sin
+`lang/` (nada que traducir) · 20 propios (fuera de alcance de este repo). Tras la auditoría de 2026-08-04, 23
+mods quedaron completados vía override de este resource pack (su `es_ES` propio era parcial o inexistente).
+Revisión de mods nuevos del 2026-08-04: Better Party X Waystones (48 claves) y Sophisticated Inventory
+Interactions (27 claves) se completaron también vía override; AppleSkin ya traía su propio `es_es.json`
+completo. El 2026-08-08 se añadió el mod nuevo `workhand_tools` (28 claves, override) y se reescribió por
+completo el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
+
+Revisión de mods nuevos el 2026-08-21: 14 mods nuevos detectados en la instancia. `basalt_watchtower` (10
+claves), `travel_bites` (21 claves) y `miniworkers` (477 claves) se tradujeron desde cero (no traían
+`es_es.json`). `neofarmervillagers` ya traía su propio `es_es.json` completo (6/6 claves). `libjf` no tiene
+`lang/` en el jar. 8 mods son `PROPIO` (van en su propio repo, no aquí): `ascendant_attributes`,
+`ascendant_enchanting`, `ascendant_equipment`, `ascendant_spawners`, `common_toolkit`, `regalia_slots_api`,
+`vellumli`; además `utility_core` (ya `PROPIO`) se dividió en 3 jars (`utility_core_admin`/`_fixes`/`_qol`),
+solo se actualizó su fila. `occultism` (3943 claves) trae `es_es.json` propio incompleto (390 claves
+faltantes + 2733 idénticas al inglés, mismo patrón de bug que `stellarity`) — override en progreso, ver nota
+más abajo.
 
 | Mod | modid | Archivo | Versión | Estado | Última revisión |
 |---|---|---|---|---|---|
@@ -87,6 +97,10 @@ el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
 | AI-Improvements | `aiimprovements` | `AI-Improvements-26.1.1-0.5.4.jar` | `0.5.4` (del nombre de archivo, el manifest no resuelve la variable) | N/A (sin lang/ en el jar) | 2026-08-03 |
 | AppleSkin | `appleskin` | `appleskin-neoforge-mc26.2-3.0.10.jar` | `3.0.10` | SI | 2026-08-04 |
 | Ancient Artifacts 2 | `ancient_artifacts` | `Ancient Artifacts 2 V2.5.5g for 1.21.6-26.2.jar` | `2.5.5g` | SI (override en `minecraft`, ver nota) | 2026-08-04 |
+| Ascendant Attributes | `ascendant_attributes` | `ascendant_attributes-26.2-neoforge-26.2.0.57-1.1.0.jar` | `1.1.0` | PROPIO | 2026-08-21 |
+| Ascendant Enchanting | `ascendant_enchanting` | `ascendant_enchanting-26.2-neoforge-26.2.0.57-1.1.0.jar` | `1.1.0` | PROPIO | 2026-08-21 |
+| Ascendant Equipment | `ascendant_equipment` | `ascendant_equipment-26.2-neoforge-26.2.0.57-1.1.0.jar` | `1.1.0` | PROPIO | 2026-08-21 |
+| Ascendant Spawners | `ascendant_spawners` | `ascendant_spawners-26.2-neoforge-26.2.0.57-1.0.0.jar` | `1.0.0` | PROPIO | 2026-08-21 |
 | ApexCore | `apexcore` | `apexcore-26.2.0.jar` | `26.2.0` (del nombre de archivo, el manifest no resuelve la variable) | SI | 2026-08-03 |
 | Architectury | `architectury` | `architectury-neoforge-21.0.6.jar` | `21.0.6` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Armor Cosmetic | `armor_cosmetic` | `armor_cosmetic-26.2-neoforge-1.0.4.jar` | `1.0.4` | PROPIO | 2026-08-04 |
@@ -94,6 +108,7 @@ el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
 | Balm | `balm` | `balm-neoforge-26.2-26.2.0.5.jar` | `26.2.0.5` | SI | 2026-08-03 |
 | Berezka API | `berezka_api` | `berezka_api-1.2.9.5-beta.4-neoforge-1.26.2.jar` | `1.2.9.5-beta.4` | SI (override) | 2026-08-04 |
 | Better Combat | `bettercombat` | `bettercombat-neoforge-3.2.2+26.2.jar` | `3.2.2` | SI (override) | 2026-08-04 |
+| Basalt Watchtower | `basalt_watchtower` | `basalt_watchtower-1.0.0 Neoforge 26.2.jar` | `1.0.0` | SI (override) | 2026-08-21 |
 | Better Compatibility Checker | `bcc` | `better-compatability-checker-neoforge-26.2.0.1.jar` | `26.2.0.1` | SI | 2026-08-03 |
 | Better Connections | `better_connections` | `better_connections-26.2-neoforge-1.0.0.jar` | `1.0.0` | PROPIO | 2026-08-03 |
 | Better Party | `better_party` | `better-party-neoforge-26.2-1.1.1.jar` | `1.1.1` | SI | 2026-08-03 |
@@ -107,6 +122,7 @@ el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
 | CoK_Tools | `coktools` | `CoKTools-Neoforge-mc26.2-26.2.0.2.jar` | `26.2.0.2` | SI | 2026-08-03 |
 | Complementary Core | `complementary_core` | `cc-2.3.1-neoforge_1.21.5-26.1.2.jar` | `2.3.1` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Complementary Structures: Towers | `cs_towers` | `cs_towers-0.2.0-neoforge_1.21.x.jar` | `0.2.0` | N/A (sin lang/ en el jar) | 2026-08-03 |
+| Common Toolkit | `common_toolkit` | `common_toolkit-26.2-neoforge-26.2.0.57-1.1.0.jar` | `1.1.0` | PROPIO | 2026-08-21 |
 | Configurable | `configurable` | `configurable-3.5.2+26.2-neoforge.jar` | `3.5.2+26.2` | N/A (sin lang/ en el jar) | 2026-08-04 |
 | Configured | `configured` | `configured-neoforge-26.2-2.7.5.jar` | `2.7.5` | SI (override) | 2026-08-04 |
 | Connected Glass | `connectedglass` | `connectedglass-1.1.14-neoforge-mc26.2.jar` | `1.1.14` | SI | 2026-08-03 |
@@ -170,6 +186,7 @@ el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
 | Just Enough Professions (JEP) | `justenoughprofessions` | `JustEnoughProfessions-neoforge-26.2-12.0.0.jar` | `12.0.0` (del nombre de archivo, el manifest no resuelve la variable) | SI | 2026-08-03 |
 | Kenny | `kenny` | `Kenny-6.0.0-neoforge+mc26.2.jar` | `6.0.0` | SI | 2026-08-03 |
 | Legendary Tooltips | `legendarytooltips` | `LegendaryTooltips-26.2-neoforge-1.6.2.jar` | `1.6.2` | N/A (sin lang/ en el jar) | 2026-08-03 |
+| LibJF | `libjf` | `libjf-26.2.1+forge.jar` | `26.2.1` | N/A (sin lang/ en el jar) | 2026-08-21 |
 | Lithostitched | `lithostitched` | `lithostitched-1.7.13-neoforge-26.2.jar` | `1.7.13` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Lootr | `lootr` | `lootr-neoforge-26.2-1.24.39.121.jar` | `1.24.39.121` | SI | 2026-08-03 |
 | Marsward | `marsward` | `marsward-1.0.6.jar` | `1.0.6` | SI | 2026-08-03 |
@@ -182,8 +199,10 @@ el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
 | MoogsVoyagerStructures | `mvs` | `MoogsVoyagerStructures-1.21-5.0.11.jar` | `5.0.11` | SI | 2026-08-03 |
 | Mouse Tweaks | `mousetweaks` | `MouseTweaks-neoforge-mc26.2-2.31.jar` | `2.31` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Mutant Monsters | `mutantmonsters` | `MutantMonsters-v26.2.1-mc26.2.x-NeoForge.jar` | `26.2.1` | SI (override) | 2026-08-04 |
+| Miniworkers | `miniworkers` | `miniworkers-0.1.5.jar` | `0.1.5` | SI (override) | 2026-08-21 |
 | Naraka | `naraka` | `naraka-neoforge-26.2-1.1.1.jar` | `1.1.1` | SI | 2026-08-03 |
 | Nature's Compass | `naturescompass` | `NaturesCompass-26.2-3.3.0-neoforge.jar` | `26.2-3.3.0-neoforge` | SI (override) | 2026-08-04 |
+| Neo Farmer Villagers | `neofarmervillagers` | `neofarmervillagers-1.0.1-neoforge-26.2.jar` | `1.0.1` | SI | 2026-08-21 |
 | NeroAgriculture | `neroagriculture` | `neroagriculture-neoforge-26.2-0.1.0-beta.1.jar` | `0.1.0-beta.1` | SI | 2026-08-03 |
 | NeroDecor | `nerodecor` | `nerodecor-neoforge-26.2-0.1.0-beta.1.jar` | `0.1.0-beta.1` | SI | 2026-08-03 |
 | Neroland Core | `nerolandcore` | `nerolandcore-neoforge-26.2-1.9.0.jar` | `1.9.0` | SI | 2026-08-03 |
@@ -201,6 +220,7 @@ el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
 | PrickleMC | `prickle` | `PrickleMC-neoforge-MC26.2-26.2.0.3.jar` | `26.2.0.3` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Prism | `prism` | `Prism-26.2-neoforge-1.1.2.jar` | `1.1.2` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Puzzles Lib | `puzzleslib` | `PuzzlesLib-v26.2.1-mc26.2.x-NeoForge.jar` | `26.2.1` | N/A (sin lang/ en el jar) | 2026-08-03 |
+| Regalia Slots API | `regalia_slots_api` | `regalia_slots_api-26.2-neoforge-26.2.0.57-1.1.0.jar` | `1.1.0` | PROPIO | 2026-08-21 |
 | Reliquary Reincarnations | `reliquary` | `reliquary-26.2-2.0.89.1531.jar` | `2.0.89` | SI | 2026-08-03 |
 | Repurposed Structures | `repurposed_structures` | `repurposed_structures-7.7.5+26.2-neoforge.jar` | `7.7.5+26.2-neoforge` | SI (override) | 2026-08-04 |
 | Resourceful Lib | `resourcefullib` | `ResourcefulLib-5.0.3.jar` | `5.0.3` | N/A (sin lang/ en el jar) | 2026-08-03 |
@@ -226,12 +246,16 @@ el `es_es.json` de `stellarity` (645 claves) que estaba corrupto.
 | Tom's Simple Storage Mod | `toms_storage` | `toms_storage-26.2-2.11.1.jar` | `2.11.1` | SI | 2026-08-03 |
 | Tower Waystone | `tower_waystone` | `tower_waystone-26.2-neoforge-1.0.2.jar` | `1.0.2` | PROPIO | 2026-08-04 |
 | Towns and Towers | `t_and_t` | `t_and_t-fabric-neoforge-1.13.11.jar` | `1.13.11` | N/A (sin lang/ en el jar) | 2026-08-03 |
+| Travel Bites | `travel_bites` | `travelbites-2.0.0-neoforge-26.1.2.jar` | `2.0.0` | SI (override) | 2026-08-21 |
 | TT20 | `tt20` | `tt20-0.8.4+mc26.1.1-neoforge.jar` | `0.8.4+mc26.1.1` | N/A (sin lang/ en el jar) | 2026-08-04 |
 | UI Lib | `uilib` | `uilib-neoforge-21.1.1.jar` | `21.1.1` | SI | 2026-08-03 |
 | Universal Bone Meal | `universalbonemeal` | `UniversalBoneMeal-v26.2.0-mc26.2.x-NeoForge.jar` | `26.2.0` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Universal Enchantment Info | `uei` | `UniversalEnchantmentInfo-26.2-neoforge-1.2.0.jar` | `1.2.0` | SI | 2026-08-03 |
-| Utility Core | `utility_core` | `utility_core-26.2-neoforge-1.11.0.jar` | `1.11.0` | PROPIO | 2026-08-03 |
+| Utility Core (Admin) | `utility_core` | `utility_core_admin-26.2-neoforge-26.2.0.57-2.3.0.jar` | `2.3.0` | PROPIO (mod dividido en 3 jars: admin/fixes/qol, antes 1 solo `utility_core`) | 2026-08-21 |
+| Utility Core (Fixes) | `utility_core` | `utility_core_fixes-26.2-neoforge-26.2.0.57-2.4.0.jar` | `2.4.0` | PROPIO | 2026-08-21 |
+| Utility Core (QoL) | `utility_core` | `utility_core_qol-26.2-neoforge-26.2.0.57-2.3.0.jar` | `2.3.0` | PROPIO | 2026-08-21 |
 | Variants&Ventures | `variantsandventures` | `variantsandventures-neoforge-1.0.26+mc26.2.jar` | `1.0.26` | SI | 2026-08-03 |
+| Vellumli | `vellumli` | `vellumli-26.2-neoforge-26.2.0.57-1.1.0.jar` | `1.1.0` | PROPIO | 2026-08-21 |
 | Visual Workbench | `visualworkbench` | `VisualWorkbench-v26.2.1-mc26.2.x-NeoForge.jar` | `26.2.1` | SI | 2026-08-03 |
 | Warlockery | `warlockery` | `warlockery-neoforge-1.4.0-LlaGuiT0-26.2.0.45.jar` | `1.4.0-LlaGuiT0-26.2.0.45` | SI | 2026-08-18 |
 | Waystones | `waystones` | `waystones-neoforge-26.2-26.2.0.7.jar` | `26.2.0.7` | SI (override) | 2026-08-04 |
