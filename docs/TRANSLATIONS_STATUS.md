@@ -72,7 +72,7 @@
 > `apexcore`, `jade`, `justenoughprofessions`) declaran la versión como `${file.jarVersion}` en su manifest
 > (variable que solo se resuelve al compilar) — para esos se usó la versión visible en el nombre del archivo.
 
-Total: 168 mods · 101 ya con `es_ES` · 1 pendiente (`occultism`, override en progreso — ver más abajo) · 47 sin
+Total: 171 mods · 104 ya con `es_ES` · 0 pendientes (con texto real que traducir) · 46 sin `lang/` (nada que traducir) · 12 propios (fuera de alcance de este repo). Tras la auditoría de 2026-08-04, 23 mods quedaron completados vía override de este resource pack (su `es_ES` propio era parcial o inexistente).
 `lang/` (nada que traducir) · 20 propios (fuera de alcance de este repo). Tras la auditoría de 2026-08-04, 23
 mods quedaron completados vía override de este resource pack (su `es_ES` propio era parcial o inexistente).
 Revisión de mods nuevos del 2026-08-04: Better Party X Waystones (48 claves) y Sophisticated Inventory
@@ -266,3 +266,7 @@ más abajo.
 | Xaero's World Map | `xaeroworldmap` | `xaeroworldmap-neoforge-26.2-1.44.2.jar` | `1.44.2` | SI | 2026-08-03 |
 | YAML Config | `yamlconfig` | `yamlconfig-neoforge-21.1.0.jar` | `21.1.0` | SI | 2026-08-03 |
 | YetAnotherConfigLib | `yet_another_config_lib_v3` | `yet_another_config_lib_v3-3.9.5+26.2-neoforge.jar` | `3.9.5+26.2-neoforge` | SI (override) | 2026-08-18 |
+| Basalt Watchtower | `basalt_watchtower` | `N/A` | `N/A` | SI (override) | 2026-08-21 |
+| Miniworkers | `miniworkers` | `N/A` | `N/A` | SI (override) | 2026-08-21 |
+| Occultism | `occultism` | `N/A` | `N/A` | SI (override) | 2026-08-21 |
+> Nota: el es_es_original estaba incompleto y contenía traducciones falsas; se sobrescribió con traducción completa.
