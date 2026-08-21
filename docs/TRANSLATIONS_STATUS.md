@@ -72,9 +72,10 @@
 > `apexcore`, `jade`, `justenoughprofessions`) declaran la versión como `${file.jarVersion}` en su manifest
 > (variable que solo se resuelve al compilar) — para esos se usó la versión visible en el nombre del archivo.
 
-Total: 171 mods · 104 ya con `es_ES` · 0 pendientes (con texto real que traducir) · 46 sin `lang/` (nada que traducir) · 12 propios (fuera de alcance de este repo). Tras la auditoría de 2026-08-04, 23 mods quedaron completados vía override de este resource pack (su `es_ES` propio era parcial o inexistente).
-`lang/` (nada que traducir) · 20 propios (fuera de alcance de este repo). Tras la auditoría de 2026-08-04, 23
-mods quedaron completados vía override de este resource pack (su `es_ES` propio era parcial o inexistente).
+Total: 176 mods documentados (177 contando `occultism`, override en progreso) · 108 ya con `es_ES` · 1
+pendiente (`occultism`, override en progreso — ver más abajo) · 47 sin `lang/` (nada que traducir) · 21
+propios (fuera de alcance de este repo). Tras la auditoría de 2026-08-04, 23 mods quedaron completados vía
+override de este resource pack (su `es_ES` propio era parcial o inexistente).
 Revisión de mods nuevos del 2026-08-04: Better Party X Waystones (48 claves) y Sophisticated Inventory
 Interactions (27 claves) se completaron también vía override; AppleSkin ya traía su propio `es_es.json`
 completo. El 2026-08-08 se añadió el mod nuevo `workhand_tools` (28 claves, override) y se reescribió por
