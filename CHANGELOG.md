@@ -5,6 +5,21 @@ Todos los cambios notables de EnchantVenture Pack se documentan en este archivo.
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.6.0] - 2026-08-22
+
+### Añadido
+
+- **Nuevas traducciones `es_ES` integradas desde los JARs de los mods** (auditoría completa de 8 mods externos que ya incluyen español pero faltaban en el resourcepack):
+  - **Aerial Hell** (1,588 claves): bloques, herramientas, combate, guía y mazmorras
+  - **AppleSkin** (22 claves): HUD de comida, saturación, tooltips
+  - **Bosscraft 2: Remake** (93 claves): espadas, dagas, avances, botín de jefes
+  - **Cloth Config** (51 claves): GUI de configuración, botones, tooltips
+  - **Connected Glass** (122 claves): bloques, paneles, variantes teñidas
+  - **Croptopia** (605 claves): cultivos, alimentos, guía (Croptopedia)
+  - **Gateway of Doom** (468 claves): menús, perfiles, oleadas, recompensas
+  - **Neo Farmer Villagers** (7 claves): vínculo granjero-cofre, mensajes
+- Total de mods con `es_ES` en el resourcepack: **106**
+
 ## [1.5.0] - 2026-08-18
 
 ### Añadido
