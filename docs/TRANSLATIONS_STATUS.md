@@ -66,16 +66,20 @@
 > expone vía `lang/*.json`; esto no pasa por ahí, así que no es traducible desde este repo. Traducirlo
 > requeriría un fork/parche del mod (fuera de alcance de un resource pack) — no hay acción posible aquí.
 >
+> **Nota de Occultism**: su `es_es.json` propio (dentro del jar) cubre 3583 de las 3943 claves de
+> `en_us.json`: 390 claves faltan por completo y 2733 son copia idéntica del inglés (traducción falsa),
+> mismo patrón de bug que se corrigió antes en `stellarity`. Este resource pack sobrescribe con una
+> traducción completa y real de las 3943 claves (override en `resourcepack/assets/occultism/lang/es_es.json`).
+>
 > Reproducir este escaneo: `python` con `tomllib` (3.11+), leer `META-INF/neoforge.mods.toml` (NeoForge),
 > `META-INF/mods.toml` (Forge) o `fabric.mod.json` (Fabric) de cada jar para sacar `modid`/`name`/`version`,
 > y comprobar si existe `assets/<modid>/lang/es_es.json` dentro del jar. 4 mods (`aiimprovements`,
 > `apexcore`, `jade`, `justenoughprofessions`) declaran la versión como `${file.jarVersion}` en su manifest
 > (variable que solo se resuelve al compilar) — para esos se usó la versión visible en el nombre del archivo.
 
-Total: 176 mods documentados (177 contando `occultism`, override en progreso) · 108 ya con `es_ES` · 1
-pendiente (`occultism`, override en progreso — ver más abajo) · 47 sin `lang/` (nada que traducir) · 21
-propios (fuera de alcance de este repo). Tras la auditoría de 2026-08-04, 23 mods quedaron completados vía
-override de este resource pack (su `es_ES` propio era parcial o inexistente).
+Total: 174 mods documentados · 106 ya con `es_ES` · 0 pendientes (con texto real que traducir) · 47 sin
+`lang/` (nada que traducir) · 21 propios (fuera de alcance de este repo). Tras la auditoría de 2026-08-04, 23
+mods quedaron completados vía override de este resource pack (su `es_ES` propio era parcial o inexistente).
 Revisión de mods nuevos del 2026-08-04: Better Party X Waystones (48 claves) y Sophisticated Inventory
 Interactions (27 claves) se completaron también vía override; AppleSkin ya traía su propio `es_es.json`
 completo. El 2026-08-08 se añadió el mod nuevo `workhand_tools` (28 claves, override) y se reescribió por
@@ -87,9 +91,9 @@ claves), `travel_bites` (21 claves) y `miniworkers` (477 claves) se tradujeron d
 `lang/` en el jar. 8 mods son `PROPIO` (van en su propio repo, no aquí): `ascendant_attributes`,
 `ascendant_enchanting`, `ascendant_equipment`, `ascendant_spawners`, `common_toolkit`, `regalia_slots_api`,
 `vellumli`; además `utility_core` (ya `PROPIO`) se dividió en 3 jars (`utility_core_admin`/`_fixes`/`_qol`),
-solo se actualizó su fila. `occultism` (3943 claves) trae `es_es.json` propio incompleto (390 claves
-faltantes + 2733 idénticas al inglés, mismo patrón de bug que `stellarity`) — override en progreso, ver nota
-más abajo.
+solo se actualizó su fila. `occultism` (3943 claves) traía `es_es.json` propio incompleto (390 claves
+faltantes + 2733 idénticas al inglés, mismo patrón de bug que `stellarity`) — completado vía override, ver
+nota más abajo.
 
 | Mod | modid | Archivo | Versión | Estado | Última revisión |
 |---|---|---|---|---|---|
@@ -214,6 +218,7 @@ más abajo.
 | NeroTech | `nerotech` | `nerotech-neoforge-26.2-0.1.0-beta.1.jar` | `0.1.0-beta.1` | SI | 2026-08-03 |
 | NetherPortalFix | `netherportalfix` | `netherportalfix-neoforge-26.2-26.2.0.1.jar` | `26.2.0.1` | SI | 2026-08-03 |
 | Not Enough Crashes | `notenoughcrashes` | `notenoughcrashes-neoforge-4.4.9+26.2.jar` | `4.4.9+26.2` | SI | 2026-08-03 |
+| Occultism | `occultism` | `occultism-26.2-neoforge-1.251.1.jar` | `1.251.1` | SI (override, ver nota) | 2026-08-21 |
 | Ore Vein Miner | `mr_ore_veinminer` | `ore-vein-miner-26.2snap.jar` | `26.1` | N/A (sin lang/ en el jar) | 2026-08-03 |
 | Pantry for Blockheads | `pantryforblockheads` | `pantryforblockheads-neoforge-26.2-26.2.0.5.jar` | `26.2.0.5` | SI | 2026-08-03 |
 | Player Activity View | `player_activity_view` | `player_activity_view-26.2-neoforge-1.0.0.jar` | `1.0.0` | PROPIO | 2026-08-03 |
@@ -267,7 +272,3 @@ más abajo.
 | Xaero's World Map | `xaeroworldmap` | `xaeroworldmap-neoforge-26.2-1.44.2.jar` | `1.44.2` | SI | 2026-08-03 |
 | YAML Config | `yamlconfig` | `yamlconfig-neoforge-21.1.0.jar` | `21.1.0` | SI | 2026-08-03 |
 | YetAnotherConfigLib | `yet_another_config_lib_v3` | `yet_another_config_lib_v3-3.9.5+26.2-neoforge.jar` | `3.9.5+26.2-neoforge` | SI (override) | 2026-08-18 |
-| Basalt Watchtower | `basalt_watchtower` | `N/A` | `N/A` | SI (override) | 2026-08-21 |
-| Miniworkers | `miniworkers` | `N/A` | `N/A` | SI (override) | 2026-08-21 |
-| Occultism | `occultism` | `N/A` | `N/A` | SI (override) | 2026-08-21 |
-> Nota: el es_es_original estaba incompleto y contenía traducciones falsas; se sobrescribió con traducción completa.
