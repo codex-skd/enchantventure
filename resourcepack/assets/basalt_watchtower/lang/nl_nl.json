@@ -1,0 +1,12 @@
+{
+  "itemGroup.basalt_watchtower": "Pestaña del Mod",
+  "block.basalt_watchtower.example_block": "Bloque de Ejemplo",
+  "item.basalt_watchtower.example_item": "Objeto de Ejemplo",
+  "basalt_watchtower.configuration.title": "Configuraciones de Basalt Watchtower",
+  "basalt_watchtower.configuration.section.basalt_watchtower.common.toml": "Configuraciones de Basalt Watchtower",
+  "basalt_watchtower.configuration.section.basalt_watchtower.common.toml.title": "Configuraciones de Basalt Watchtower",
+  "basalt_watchtower.configuration.items": "Lista de Objetos",
+  "basalt_watchtower.configuration.logDirtBlock": "Bloque de Tierra Registrada",
+  "basalt_watchtower.configuration.magicNumberIntroduction": "Texto del Número Mágico",
+  "basalt_watchtower.configuration.magicNumber": "Número Mágico"
+}
