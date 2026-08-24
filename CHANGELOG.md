@@ -5,6 +5,24 @@ Todos los cambios notables de EnchantVenture Pack se documentan en este archivo.
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.6.2] - 2026-08-24
+
+### Añadido
+
+- **Theurgy** (2863 claves): traducción `es_ES` completa desde cero — el mod no trae español propio (solo
+  `en_us`, `ja_jp`, `pt_br`, `ru_ru`, `zh_cn`). Cubre bloques, ítems, tooltips, el libro guía completo "The
+  Hermetica", categorías JEI/EMI, GUI, atajos de teclado y etiquetas de ítems.
+- Total de mods con `es_ES` en el resourcepack: **107**
+
+## [1.6.1] - 2026-08-23
+
+### Cambiado
+
+- Integración de 18 idiomas en el resource pack (inglés como base + 7 variantes de español + alemán,
+  francés, portugués BR/PT, árabe, neerlandés, turco, vietnamita, hindi, indonesio, japonés y coreano) para
+  los 106 mods ya cubiertos. Corrige texto inconsistente en inglés al seleccionar idiomas distintos de
+  español/inglés.
+
 ## [1.6.0] - 2026-08-22
 
 ### Añadido
