@@ -77,7 +77,7 @@
 > `apexcore`, `jade`, `justenoughprofessions`) declaran la versión como `${file.jarVersion}` en su manifest
 > (variable que solo se resuelve al compilar) — para esos se usó la versión visible en el nombre del archivo.
 
-Total: 174 mods documentados · 106 ya con `es_ES` · 0 pendientes (con texto real que traducir) · 47 sin
+Total: 175 mods documentados · 107 ya con `es_ES` · 0 pendientes (con texto real que traducir) · 47 sin
 `lang/` (nada que traducir) · 21 propios (fuera de alcance de este repo). Tras la auditoría de 2026-08-04, 23
 mods quedaron completados vía override de este resource pack (su `es_ES` propio era parcial o inexistente).
 Revisión de mods nuevos del 2026-08-04: Better Party X Waystones (48 claves) y Sophisticated Inventory
@@ -97,7 +97,10 @@ nota más abajo.
 
 | Mod | modid | Archivo | Versión | Estado | Última revisión |
 |---|---|---|---|---|---|
-| Advanced Netherite | `advancednetherite` | `advancednetherite-neoforge-2.4.2-26.2.jar` | `2.4.2` | SI | 2026-08-03 |
+| Advanced Netherite | `advancednetherite` | `advancednetherite-neoforge-2.4.2-26.2.jar` | `2.4.2` | SI | 
+\`\`\`Revisión de mods nuevos del 2026-08-24: `theurgy` (1495 claves, override) se tradujo desde cero (2863 claves en total, 1368 ya traducidas en sesiones previas, 1495 restantes cubiertas en esta sesión), completando la cobertura al 100% junto a la sesión anterior que cubrió 1368 claves de `theurgy`. Se mergearon los chunks `es_part01.json` a `es_part33.json` para generar `resourcepack/assets/theurgy/lang/es_es.json` con todas las 2863 claves. Build `python build_pack.py` passed.
+\`\`\`
+2026-08-03 |
 | Ageforged Armor | `ageforged_armor` | `ageforged_armor-26.2-neoforge-1.1.3.jar` | `1.1.3` | PROPIO | 2026-08-03 |
 | AI-Improvements | `aiimprovements` | `AI-Improvements-26.1.1-0.5.4.jar` | `0.5.4` (del nombre de archivo, el manifest no resuelve la variable) | N/A (sin lang/ en el jar) | 2026-08-03 |
 | AppleSkin | `appleskin` | `appleskin-neoforge-mc26.2-3.0.10.jar` | `3.0.10` | SI | 2026-08-04 |
@@ -248,6 +251,7 @@ nota más abajo.
 | Teleport Animation | `teleport_animation` | `teleport_animation-26.2-neoforge-1.0.1.jar` | `1.0.1` | PROPIO | 2026-08-03 |
 | The Birth of Steve | `tbos` | `tbos-neoforge-26.2-0.7.0.jar` | `0.7.0` | SI (override) | 2026-08-18 |
 | The Lost City | `the_lost_city` | `the_lost_city-1.4.1-neoforge-1.26.1.jar` | `1.4.1` | SI | 2026-08-03 |
+| Theurgy | `theurgy` | `theurgy-26.2-neoforge-1.116.0.jar` | `1.116.0` | SI | 2026-08-24 |
 | TNT Foundry | `tntfoundry` | `tntfoundry-1.0.0.jar` | `1.0.0` | SI | 2026-08-03 |
 | Tom's Simple Storage Mod | `toms_storage` | `toms_storage-26.2-2.11.1.jar` | `2.11.1` | SI | 2026-08-03 |
 | Tower Waystone | `tower_waystone` | `tower_waystone-26.2-neoforge-1.0.2.jar` | `1.0.2` | PROPIO | 2026-08-04 |
