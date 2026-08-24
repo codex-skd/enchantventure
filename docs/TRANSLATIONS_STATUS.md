@@ -77,7 +77,7 @@
 > `apexcore`, `jade`, `justenoughprofessions`) declaran la versión como `${file.jarVersion}` en su manifest
 > (variable que solo se resuelve al compilar) — para esos se usó la versión visible en el nombre del archivo.
 
-Total: 174 mods documentados · 106 ya con `es_ES` · 0 pendientes (con texto real que traducir) · 47 sin
+Total: 175 mods documentados · 107 ya con `es_ES` · 0 pendientes (con texto real que traducir) · 47 sin
 `lang/` (nada que traducir) · 21 propios (fuera de alcance de este repo). Tras la auditoría de 2026-08-04, 23
 mods quedaron completados vía override de este resource pack (su `es_ES` propio era parcial o inexistente).
 Revisión de mods nuevos del 2026-08-04: Better Party X Waystones (48 claves) y Sophisticated Inventory
@@ -94,6 +94,9 @@ claves), `travel_bites` (21 claves) y `miniworkers` (477 claves) se tradujeron d
 solo se actualizó su fila. `occultism` (3943 claves) traía `es_es.json` propio incompleto (390 claves
 faltantes + 2733 idénticas al inglés, mismo patrón de bug que `stellarity`) — completado vía override, ver
 nota más abajo.
+
+Revisión de mods nuevos el 2026-08-24: `theurgy` (2863 claves) no traía `es_es.json` propio (el jar
+solo incluye `en_us`, `ja_jp`, `pt_br`, `ru_ru`, `zh_cn`) — se tradujo desde cero en este resource pack.
 
 | Mod | modid | Archivo | Versión | Estado | Última revisión |
 |---|---|---|---|---|---|
@@ -248,6 +251,7 @@ nota más abajo.
 | Teleport Animation | `teleport_animation` | `teleport_animation-26.2-neoforge-1.0.1.jar` | `1.0.1` | PROPIO | 2026-08-03 |
 | The Birth of Steve | `tbos` | `tbos-neoforge-26.2-0.7.0.jar` | `0.7.0` | SI (override) | 2026-08-18 |
 | The Lost City | `the_lost_city` | `the_lost_city-1.4.1-neoforge-1.26.1.jar` | `1.4.1` | SI | 2026-08-03 |
+| Theurgy | `theurgy` | `theurgy-26.2-neoforge-1.116.0.jar` | `1.116.0` | SI | 2026-08-24 |
 | TNT Foundry | `tntfoundry` | `tntfoundry-1.0.0.jar` | `1.0.0` | SI | 2026-08-03 |
 | Tom's Simple Storage Mod | `toms_storage` | `toms_storage-26.2-2.11.1.jar` | `2.11.1` | SI | 2026-08-03 |
 | Tower Waystone | `tower_waystone` | `tower_waystone-26.2-neoforge-1.0.2.jar` | `1.0.2` | PROPIO | 2026-08-04 |
