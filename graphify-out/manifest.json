@@ -410,8 +410,8 @@
     "semantic_hash": ""
   },
   "CHANGELOG.md": {
-    "mtime": 1787397558.777961,
-    "ast_hash": "505aa99e7ac24e3221596eeeafb7bbcf",
+    "mtime": 1787603725.4333308,
+    "ast_hash": "e10011f1496cd7f928b9c46158aa7d64",
     "semantic_hash": ""
   },
   "README.md": {
@@ -420,8 +420,8 @@
     "semantic_hash": ""
   },
   "docs/TRANSLATIONS_STATUS.md": {
-    "mtime": 1787366578.546593,
-    "ast_hash": "21927544685c7f740b35d20aa5e12a84",
+    "mtime": 1787601208.2010996,
+    "ast_hash": "75401fde5fdc50870a5a9dc50a70fd09",
     "semantic_hash": ""
   },
   "docs/curseforge/create_project_form.md": {
@@ -510,8 +510,8 @@
     "semantic_hash": ""
   },
   "version.txt": {
-    "mtime": 1787485870.159015,
-    "ast_hash": "fad559d22a5329a1ac596bbef9e2c9e2",
+    "mtime": 1787603708.2695642,
+    "ast_hash": "69dbd37ef93f9dc4558b08164d58e460",
     "semantic_hash": ""
   },
   "resourcepack/pack.png": {
@@ -10792,6 +10792,21 @@
   "docs/curseforge/versions/1.6.0.md": {
     "mtime": 1787397566.9421544,
     "ast_hash": "d2f3ecd54078ac9524daaf0dc15a90b4",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/theurgy/lang/es_es.json": {
+    "mtime": 1787601148.726195,
+    "ast_hash": "105110b89aff24e86a6fbc898da36eb6",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/1.6.1.md": {
+    "mtime": 1787486265.6566448,
+    "ast_hash": "4021242d67467d24551ee3bfaff02a2e",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/1.6.2.md": {
+    "mtime": 1787603719.0110676,
+    "ast_hash": "06c16d61acd660bd4377d4767a50e66a",
     "semantic_hash": ""
   }
 }
