@@ -65,6 +65,16 @@
 > ~136 frases en total entre las 4 clases). Un resource pack solo puede sobrescribir lo que el mod
 > expone vía `lang/*.json`; esto no pasa por ahí, así que no es traducible desde este repo. Traducirlo
 > requeriría un fork/parche del mod (fuera de alcance de un resource pack) — no hay acción posible aquí.
+> Revisado el 2026-08-25: tampoco es traducible desde el datapack `EnchantVenture_fixes` — un datapack
+> solo puede sobrescribir contenido data-driven (`data/`), nunca literales de texto compilados en
+> bytecode Java. El jar no trae ningún `data/`/`assets/*.json` con estos diálogos (confirmado
+> `unzip -l`: solo `.class` y `lang/*.json`), así que la limitación es total salvo forkear el mod.
+>
+> **Nota de Marsward**: su "Field Manual" en el juego (18 capítulos) tampoco sale de `lang/*.json` —
+> está codificado como texto literal en `data/marsward/field_manual/field_manual.json` (un archivo de
+> datapack del propio mod). A diferencia de Better Villager Animations, esto **sí** es data-driven, así
+> que un datapack sí puede sobrescribirlo. Traducido en el datapack hermano `EnchantVenture_fixes`
+> (`data/marsward/field_manual/field_manual.json`, ver su `README.md`) — no en este resource pack.
 >
 > **Nota de Occultism**: su `es_es.json` propio (dentro del jar) cubre 3583 de las 3943 claves de
 > `en_us.json`: 390 claves faltan por completo y 2733 son copia idéntica del inglés (traducción falsa),
