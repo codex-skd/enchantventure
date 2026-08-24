@@ -95,12 +95,12 @@ solo se actualizó su fila. `occultism` (3943 claves) traía `es_es.json` propio
 faltantes + 2733 idénticas al inglés, mismo patrón de bug que `stellarity`) — completado vía override, ver
 nota más abajo.
 
+Revisión de mods nuevos el 2026-08-24: `theurgy` (2863 claves) no traía `es_es.json` propio (el jar
+solo incluye `en_us`, `ja_jp`, `pt_br`, `ru_ru`, `zh_cn`) — se tradujo desde cero en este resource pack.
+
 | Mod | modid | Archivo | Versión | Estado | Última revisión |
 |---|---|---|---|---|---|
-| Advanced Netherite | `advancednetherite` | `advancednetherite-neoforge-2.4.2-26.2.jar` | `2.4.2` | SI | 
-\`\`\`Revisión de mods nuevos del 2026-08-24: `theurgy` (1495 claves, override) se tradujo desde cero (2863 claves en total, 1368 ya traducidas en sesiones previas, 1495 restantes cubiertas en esta sesión), completando la cobertura al 100% junto a la sesión anterior que cubrió 1368 claves de `theurgy`. Se mergearon los chunks `es_part01.json` a `es_part33.json` para generar `resourcepack/assets/theurgy/lang/es_es.json` con todas las 2863 claves. Build `python build_pack.py` passed.
-\`\`\`
-2026-08-03 |
+| Advanced Netherite | `advancednetherite` | `advancednetherite-neoforge-2.4.2-26.2.jar` | `2.4.2` | SI | 2026-08-03 |
 | Ageforged Armor | `ageforged_armor` | `ageforged_armor-26.2-neoforge-1.1.3.jar` | `1.1.3` | PROPIO | 2026-08-03 |
 | AI-Improvements | `aiimprovements` | `AI-Improvements-26.1.1-0.5.4.jar` | `0.5.4` (del nombre de archivo, el manifest no resuelve la variable) | N/A (sin lang/ en el jar) | 2026-08-03 |
 | AppleSkin | `appleskin` | `appleskin-neoforge-mc26.2-3.0.10.jar` | `3.0.10` | SI | 2026-08-04 |
