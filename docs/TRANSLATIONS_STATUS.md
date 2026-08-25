@@ -108,6 +108,12 @@ nota más abajo.
 Revisión de mods nuevos el 2026-08-24: `theurgy` (2863 claves) no traía `es_es.json` propio (el jar
 solo incluye `en_us`, `ja_jp`, `pt_br`, `ru_ru`, `zh_cn`) — se tradujo desde cero en este resource pack.
 
+Revisión el 2026-08-25 (instancia `(Traducciones) EnchantVenture`): se encontró `slaughter_hide.jar` suelto
+en `mods/`, pero no figura en `installedAddons` de `minecraftinstance.json` (161 entradas oficiales) — no es
+parte real del modpack, es un jar añadido manualmente a esta instancia local. No se documenta aquí (si en el
+futuro se añade oficialmente al modpack, sí traería `es_es.json` propio completo: 57/57 claves, ninguna
+idéntica al inglés). Sin cambios respecto al escaneo del 2026-08-24: 0 pendientes.
+
 | Mod | modid | Archivo | Versión | Estado | Última revisión |
 |---|---|---|---|---|---|
 | Advanced Netherite | `advancednetherite` | `advancednetherite-neoforge-2.4.2-26.2.jar` | `2.4.2` | SI | 2026-08-03 |
