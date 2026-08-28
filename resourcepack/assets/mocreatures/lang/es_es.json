@@ -317,5 +317,15 @@
   "entity.mocreatures.manticore_pet": "Mantícore de compañía",
   "item.mocreatures.manticore_pet_spawn_egg": "Huevo de generación de mantícore de compañía",
   "message.mocreatures.staying": "%s se queda quieto",
-  "message.mocreatures.following": "%s te sigue"
+  "message.mocreatures.following": "%s te sigue",
+  "entity.mocreatures.chimpanzee": "Chimpancé",
+  "entity.mocreatures.medusa": "Medusa",
+  "entity.mocreatures.minotaur": "Minotauro",
+  "entity.mocreatures.ogre_prince": "Príncipe ogro",
+  "item.mocreatures.chimpanzee_spawn_egg": "Huevo generador de chimpancé",
+  "item.mocreatures.machete": "Machete de ogro",
+  "item.mocreatures.medusa_spawn_egg": "Huevo generador de medusa",
+  "item.mocreatures.minotaur_spawn_egg": "Huevo generador de minotauro",
+  "item.mocreatures.ogre_prince_spawn_egg": "Huevo generador de príncipe ogro",
+  "item.mocreatures.staffportalogre": "Bastón portal de ogro"
 }

@@ -26,5 +26,8 @@
   "item.workhand_tools.diamond_workhand_expert_shovel": "Pala Workhand experta de diamante",
   "item.workhand_tools.diamond_workhand_professional_pickaxe": "Pico Workhand profesional de diamante",
   "item.workhand_tools.diamond_workhand_professional_shovel": "Pala Workhand profesional de diamante",
-  "item.workhand_tools.robust_stick": "Palo robusto"
+  "item.workhand_tools.robust_stick": "Palo robusto",
+  "block.workhand_tools.chunk_anchor": "Ancla de chunk",
+  "item.workhand_tools.anchor_tome": "Tomo del ancla",
+  "item.workhand_tools.chunk_anchor": "Ancla de chunk"
 }

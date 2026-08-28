@@ -15,7 +15,7 @@
 | Pack format | `88` (`pack.mcmeta`; desde 1.21.9/26.x usa `min_format`/`max_format` en lugar de `pack_format` — corregido en v1.0.0-beta.1) |
 | Rama de trabajo | `minecraft/26.2/resourcepack/production` |
 | Rama pública hermana | `minecraft/26.2/resourcepack/main` (protegida, la escribe CI/CD) |
-| Instancia CurseForge de referencia | `C:\Users\llagu\curseforge\minecraft\Instances\EnchantVenture\mods` |
+| Instancia CurseForge de referencia | `C:\Users\llagu\curseforge\minecraft\Instances\(Traducciones) EnchantVenture\mods` |
 | Modpack objetivo | https://www.curseforge.com/minecraft/modpacks/enchantventure |
 | Repositorio | https://gitlab.com/stalking-dragons/minecraft/enchantventure-pack.git |
 
@@ -68,7 +68,7 @@ Trabajar `docs/TRANSLATIONS_STATUS.md` de arriba a abajo, un mod `PENDIENTE` cad
 
 1. **Extraer** el `lang/en_us.json` del JAR del mod a `temp/<modid>/en_us.json`:
    ```bash
-   cd "C:\Users\llagu\curseforge\minecraft\Instances\EnchantVenture\mods"
+   cd "C:\Users\llagu\curseforge\minecraft\Instances\(Traducciones) EnchantVenture\mods"
    unzip -p "<jar>" "assets/<modid>/lang/en_us.json" > "G:\Proyectos\Mods_Minecraft\EnchantVenture\temp\<modid>\en_us.json"
    ```
    Confirmar primero el `modid` real (puede no coincidir con el nombre del jar): `unzip -l "<jar>" | grep lang/`.
