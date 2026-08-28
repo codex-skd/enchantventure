@@ -5,6 +5,45 @@ Todos los cambios notables de EnchantVenture Pack se documentan en este archivo.
 El formato sigue [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 y el proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.7.0] - 2026-08-28
+
+### Añadido
+
+- Traducción `es_ES` para mods nuevos del modpack:
+  - **Survival Instinct** (279 claves): equipo táctico, exo-armaduras, armas de fuego, comida enlatada,
+    bloques de mobiliario
+  - **Frontier Armaments** (97 claves): armas de pólvora y juegos de armadura
+  - **Horde Hoard** (27 claves): reglas de juego y pantalla de configuración
+  - **Gateway of Doom x Xaero's Minimap** (4 claves): marcadores del minimapa
+  - **Dangerous** (1 clave): efecto de estado
+- Cobertura `es_ES` completada en mods que añadieron claves en su última versión: **Croptopia** (+54),
+  **Mo'Creatures** (+10), **Workhand Tools** (+3), **JEI** (+2), **Structurify** (+1)
+- Total de mods con `es_ES` en el resourcepack: **99** · 0 pendientes
+
+### Cambiado
+
+- Resincronizado contra el modpack **EnchantVenture v5.206.352** (162 add-ons). `docs/TRANSLATIONS_STATUS.md`
+  regenerado por completo desde un escaneo en vivo de los JARs de la instancia.
+- **28 mods retirados del modpack** → se eliminaron sus carpetas de override del pack (Ancient Artifacts 2,
+  Curios API, Warlockery, Naraka, The Lost City, Repurposed Structures, Right Click Harvest, FallingTree,
+  Bridging Mod, Enchanted Adventure, Configured, Kenny, MoogsMissingVillages, NetherPortalFix, TNT Foundry,
+  Hammers and Excavators, y otros).
+- La instancia de referencia del workflow pasa a `(Traducciones) EnchantVenture`.
+
+### Corregido
+
+- **Eliminada la capa rota de "18 idiomas" introducida en v1.6.1.** Aquellos archivos no contenían
+  traducciones reales: el texto en español se había copiado tal cual dentro de cada nombre de idioma
+  (`en_us.json`, `de_de.json`, `fr_fr.json`, `ja_jp.json`…). En la práctica, un jugador con el juego en
+  inglés —o en cualquier idioma que no fuera español— veía los nombres de ítems y bloques en español para
+  ~93 mods, porque el `en_us.json` del pack pisaba el inglés real de cada mod.
+- Se borraron los 1767 archivos. El pack vuelve a ser **solo `es_ES`**: cualquier otro idioma cae en la
+  traducción propia de cada mod y el inglés vuelve a ser inglés. El tamaño del ZIP baja de ~12 MB a ~2 MB.
+
+### Eliminado
+
+- 1767 archivos `lang/*.json` no-`es_ES` de 93 carpetas de override (ver "Corregido").
+
 ## [1.6.2] - 2026-08-24
 
 ### Añadido
