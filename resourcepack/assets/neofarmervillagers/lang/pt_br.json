@@ -1,8 +1,0 @@
-{
-  "neofarmervillagers.configuration.title": "Neo Farmer Villagers",
-  "neofarmervillagers.message.select_farmer": "Agricultor seleccionado: por favor, seleccione una caja.",
-  "neofarmervillagers.message.link_success": "Cofre vinculado con éxito al granjero.",
-  "neofarmervillagers.message.must_be_chest": "El segundo clic debe hacerse en un cofre.",
-  "neofarmervillagers.message.farmer_not_loaded": "El agricultor seleccionado ya no está cargado.",
-  "neofarmervillagers.message.chest_no_access": "El cofre debe tener al menos un lado abierto para que el granjero pueda acceder a él."
-}
