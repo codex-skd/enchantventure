@@ -1,0 +1,6 @@
+{
+  "modmenu.descriptionTranslation.gateway_of_doom_x_xaeros_minimap": "Muestra los portales activos de Gateway of Doom en el minimapa de Xaero.",
+  "gateway_of_doom_x_xaeros_minimap.marker.wave": "Oleada %s/%s",
+  "gateway_of_doom_x_xaeros_minimap.marker.boss_phase": "Fase de jefe",
+  "gateway_of_doom_x_xaeros_minimap.marker.preparing": "Preparando"
+}

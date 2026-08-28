@@ -131,5 +131,6 @@
   "gui.structurify.structure_sets.structure_set.is_disabled.description": "Cuando está desactivado, el conjunto de estructuras no se generará.",
   "gui.structurify.structure_sets.structure_set.title": "Configuración del conjunto de estructuras",
   "gui.structurify.structure_sets.structure_set.weights.title": "Pesos de estructuras",
-  "gui.structurify.structure_sets.structure_set.weight.description": "El peso representa la probabilidad de ser elegido frente a los demás. Un peso mayor significa una mayor probabilidad de ser elegido."
+  "gui.structurify.structure_sets.structure_set.weight.description": "El peso representa la probabilidad de ser elegido frente a los demás. Un peso mayor significa una mayor probabilidad de ser elegido.",
+  "gui.structurify.label.none": "Ninguno"
 }

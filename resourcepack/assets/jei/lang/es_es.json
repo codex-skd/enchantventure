@@ -332,5 +332,7 @@
   "description.jei.debug.formatting.2": "Probando %s %s reemplazos de formato.",
   "description.jei.debug.formatting.3": "%s anidados",
   "jei.alias.panda.spawn.egg": "endangered",
-  "jei.alias.villager.spawn.egg": "HMMM"
+  "jei.alias.villager.spawn.egg": "HMMM",
+  "jei.config.client.advanced.recipeSyncWarningEnabled": "Aviso de sincronización de recetas",
+  "jei.config.client.advanced.recipeSyncWarningEnabled.description": "Muestra un aviso en el chat cuando el servidor no proporciona recetas sincronizadas a JEI (por ejemplo, servidores vanilla o servidores sin JEI instalado)."
 }
