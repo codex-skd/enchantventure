@@ -1,9 +1,4 @@
 {
-  "resourcepack/assets/adventureenchanting/lang/es_es.json": {
-    "mtime": 1787006668.0,
-    "ast_hash": "7015bdf0b9698d80017e7e63b023cf18",
-    "semantic_hash": ""
-  },
   "resourcepack/assets/apexcore/lang/es_es.json": {
     "mtime": 1787006668.0,
     "ast_hash": "1a8b054063916725677a2fe42b8f45ef",
@@ -39,11 +34,6 @@
     "ast_hash": "7a6cbe980880822f343127c7b74f2eaf",
     "semantic_hash": ""
   },
-  "resourcepack/assets/bridgingmod/lang/es_es.json": {
-    "mtime": 1787006668.0,
-    "ast_hash": "35e1790f0a17c3f01802d3ac526900dd",
-    "semantic_hash": ""
-  },
   "resourcepack/assets/coktools/lang/es_es.json": {
     "mtime": 1787006668.0,
     "ast_hash": "b34101f514fed2bc73fc8c477a8097ff",
@@ -62,11 +52,6 @@
   "resourcepack/assets/echorelics/lang/es_es.json": {
     "mtime": 1787040512.0,
     "ast_hash": "109da9098bb0bcd84b22a3c711939c6c",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/fallingtree/lang/es_es.json": {
-    "mtime": 1787006668.0,
-    "ast_hash": "e20aeaabec6ffc43146690aa3a3918b1",
     "semantic_hash": ""
   },
   "resourcepack/assets/fishofthieves/lang/es_es.json": {
@@ -104,11 +89,6 @@
     "ast_hash": "2977a2b6ba702c8e3a274f247e4695f1",
     "semantic_hash": ""
   },
-  "resourcepack/assets/kenny/lang/es_es.json": {
-    "mtime": 1787006668.0,
-    "ast_hash": "e71bc7c857d8feeaf952458a467b7878",
-    "semantic_hash": ""
-  },
   "resourcepack/assets/marsward/lang/es_es.json": {
     "mtime": 1787006668.0,
     "ast_hash": "fad98a66b09bf3595bd523e25a77eb63",
@@ -119,19 +99,14 @@
     "ast_hash": "c7a70fce5fb31e9bb92774f1ecf13c72",
     "semantic_hash": ""
   },
-  "resourcepack/assets/mmv/lang/es_es.json": {
-    "mtime": 1787006668.0,
-    "ast_hash": "83d550b5a50a3f5d8f4c40d91e339b66",
-    "semantic_hash": ""
-  },
   "resourcepack/assets/mns/lang/es_es.json": {
     "mtime": 1787006668.0,
     "ast_hash": "20cd85cc3e71e495d9edf94c5b78d66e",
     "semantic_hash": ""
   },
   "resourcepack/assets/mocreatures/lang/es_es.json": {
-    "mtime": 1787041458.0,
-    "ast_hash": "70677aa2a7b4d117df616e7a6cbf150c",
+    "mtime": 1787877074.8952954,
+    "ast_hash": "e483e1bdf3a227cdcfc19923c6c42033",
     "semantic_hash": ""
   },
   "resourcepack/assets/modonomicon/lang/es_es.json": {
@@ -147,11 +122,6 @@
   "resourcepack/assets/mvs/lang/es_es.json": {
     "mtime": 1787006668.0,
     "ast_hash": "1f56b26a546c757b6bfe143b9d8be439",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/naraka/lang/es_es.json": {
-    "mtime": 1787006668.0,
-    "ast_hash": "71eb90428cf6f1910f9808f4fcfb98b6",
     "semantic_hash": ""
   },
   "resourcepack/assets/neroagriculture/lang/es_es.json": {
@@ -204,14 +174,9 @@
     "ast_hash": "fa5b83dc27b183515b19ae4e0259a3ca",
     "semantic_hash": ""
   },
-  "resourcepack/assets/rightclickharvest/lang/es_es.json": {
-    "mtime": 1787006668.0,
-    "ast_hash": "2b540827b83b38d227b7f53f17ea2796",
-    "semantic_hash": ""
-  },
   "resourcepack/assets/structurify/lang/es_es.json": {
-    "mtime": 1787006668.0,
-    "ast_hash": "5b4d1e350a80d6b2572a622a94f93148",
+    "mtime": 1787877074.9005523,
+    "ast_hash": "ccf1db60da05d0f243d645a5d6af41d4",
     "semantic_hash": ""
   },
   "resourcepack/assets/supermartijn642corelib/lang/es_es.json": {
@@ -227,16 +192,6 @@
   "resourcepack/assets/tbos/lang/es_es.json": {
     "mtime": 1787042598.0,
     "ast_hash": "2a41201e744053e287b09c6d8e7252ea",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/the_lost_city/lang/es_es.json": {
-    "mtime": 1787006668.0,
-    "ast_hash": "ca4c090caa5a3f425b23dcfd6b6c7392",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/tntfoundry/lang/es_es.json": {
-    "mtime": 1787006668.0,
-    "ast_hash": "b62c17648be9b07421577f8cc62c6cf4",
     "semantic_hash": ""
   },
   "resourcepack/assets/toms_storage/lang/es_es.json": {
@@ -289,16 +244,6 @@
     "ast_hash": "d43b3d98ec9008c89e7c2365ae99436e",
     "semantic_hash": ""
   },
-  "resourcepack/assets/configured/lang/es_es.json": {
-    "mtime": 1787006668.0,
-    "ast_hash": "cf25977ce2b5d78d9f312af0c96c18a4",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/curios/lang/es_es.json": {
-    "mtime": 1787006668.0,
-    "ast_hash": "87943faabeaf4ee8bdeeeb652c8e0913",
-    "semantic_hash": ""
-  },
   "resourcepack/assets/cyclopscore/lang/es_es.json": {
     "mtime": 1787006668.0,
     "ast_hash": "7be801ec0d77fe373c3243173c8beaaf",
@@ -340,8 +285,8 @@
     "semantic_hash": ""
   },
   "resourcepack/assets/jei/lang/es_es.json": {
-    "mtime": 1787041196.0,
-    "ast_hash": "6bffb8d5c0246846560bdbb830041ca9",
+    "mtime": 1787877074.899014,
+    "ast_hash": "2fbf80a8d5deb272ceb40fddd3b4d715",
     "semantic_hash": ""
   },
   "resourcepack/assets/minecraft/lang/es_es.json": {
@@ -357,11 +302,6 @@
   "resourcepack/assets/naturescompass/lang/es_es.json": {
     "mtime": 1787006668.0,
     "ast_hash": "210060ea9a6a3b065c8c5ae89a3ba545",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/repurposed_structures/lang/es_es.json": {
-    "mtime": 1787006668.0,
-    "ast_hash": "18180100a7c2105cca3245557c8c0a7d",
     "semantic_hash": ""
   },
   "resourcepack/assets/sodium-extra/lang/es_es.json": {
@@ -420,8 +360,8 @@
     "semantic_hash": ""
   },
   "docs/TRANSLATIONS_STATUS.md": {
-    "mtime": 1787601208.2010996,
-    "ast_hash": "75401fde5fdc50870a5a9dc50a70fd09",
+    "mtime": 1787877397.414864,
+    "ast_hash": "644595128af357dba022a3d1bb0f9b0f",
     "semantic_hash": ""
   },
   "docs/curseforge/create_project_form.md": {
@@ -559,19 +499,14 @@
     "ast_hash": "419fe9d065c9e08406c58cea66899398",
     "semantic_hash": ""
   },
-  "resourcepack/assets/warlockery/lang/es_es.json": {
-    "mtime": 1787006668.0,
-    "ast_hash": "fa8ded64d3ba1f78f11d3a7b594620f7",
-    "semantic_hash": ""
-  },
   "resourcepack/assets/workhand_tools/lang/es_es.json": {
-    "mtime": 1787006668.0,
-    "ast_hash": "2ab3197e8620e63c02ba456f7bb80a8c",
+    "mtime": 1787877074.8964787,
+    "ast_hash": "4ee1ac51a89a1d06c9a604458a1d0dfa",
     "semantic_hash": ""
   },
   "docs/WORKFLOW_ENCHANTVENTURE_26-2.md": {
-    "mtime": 1786617264.2780647,
-    "ast_hash": "eb89a65284b5e99457fb373b9d61103a",
+    "mtime": 1787877412.0005777,
+    "ast_hash": "3c938dac0d035dd4e9aa269bcfe45d7d",
     "semantic_hash": ""
   },
   "docs/curseforge/versions/0.0.0-beta.16.md": {
@@ -752,101 +687,6 @@
   "resourcepack/assets/advancednetherite/lang/vi_vn.json": {
     "mtime": 1787484185.8078485,
     "ast_hash": "27e7e2fc65cbf22f89982a787401596a",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/adventureenchanting/lang/ar_sa.json": {
-    "mtime": 1787484185.2699423,
-    "ast_hash": "dfc5908313507744653e4b9b9eeff899",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/adventureenchanting/lang/de_de.json": {
-    "mtime": 1787484184.175849,
-    "ast_hash": "dfc5908313507744653e4b9b9eeff899",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/adventureenchanting/lang/en_us.json": {
-    "mtime": 1787483063.7985911,
-    "ast_hash": "dfc5908313507744653e4b9b9eeff899",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/adventureenchanting/lang/es_ar.json": {
-    "mtime": 1787483905.0479863,
-    "ast_hash": "dfc5908313507744653e4b9b9eeff899",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/adventureenchanting/lang/es_cl.json": {
-    "mtime": 1787483905.2879539,
-    "ast_hash": "dfc5908313507744653e4b9b9eeff899",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/adventureenchanting/lang/es_ec.json": {
-    "mtime": 1787483905.504485,
-    "ast_hash": "dfc5908313507744653e4b9b9eeff899",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/adventureenchanting/lang/es_mx.json": {
-    "mtime": 1787483904.8187218,
-    "ast_hash": "dfc5908313507744653e4b9b9eeff899",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/adventureenchanting/lang/es_uy.json": {
-    "mtime": 1787483905.7025273,
-    "ast_hash": "dfc5908313507744653e4b9b9eeff899",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/adventureenchanting/lang/es_ve.json": {
-    "mtime": 1787483905.9415395,
-    "ast_hash": "dfc5908313507744653e4b9b9eeff899",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/adventureenchanting/lang/fr_fr.json": {
-    "mtime": 1787484184.675036,
-    "ast_hash": "dfc5908313507744653e4b9b9eeff899",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/adventureenchanting/lang/hi_in.json": {
-    "mtime": 1787484185.9835777,
-    "ast_hash": "dfc5908313507744653e4b9b9eeff899",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/adventureenchanting/lang/id_id.json": {
-    "mtime": 1787484186.1404731,
-    "ast_hash": "dfc5908313507744653e4b9b9eeff899",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/adventureenchanting/lang/ja_jp.json": {
-    "mtime": 1787484186.3352935,
-    "ast_hash": "dfc5908313507744653e4b9b9eeff899",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/adventureenchanting/lang/ko_kr.json": {
-    "mtime": 1787484186.499508,
-    "ast_hash": "dfc5908313507744653e4b9b9eeff899",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/adventureenchanting/lang/nl_nl.json": {
-    "mtime": 1787484185.4445417,
-    "ast_hash": "dfc5908313507744653e4b9b9eeff899",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/adventureenchanting/lang/pt_br.json": {
-    "mtime": 1787484184.8664172,
-    "ast_hash": "dfc5908313507744653e4b9b9eeff899",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/adventureenchanting/lang/pt_pt.json": {
-    "mtime": 1787484185.059937,
-    "ast_hash": "dfc5908313507744653e4b9b9eeff899",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/adventureenchanting/lang/tr_tr.json": {
-    "mtime": 1787484185.634809,
-    "ast_hash": "dfc5908313507744653e4b9b9eeff899",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/adventureenchanting/lang/vi_vn.json": {
-    "mtime": 1787484185.808354,
-    "ast_hash": "dfc5908313507744653e4b9b9eeff899",
     "semantic_hash": ""
   },
   "resourcepack/assets/aerialhell/lang/ar_sa.json": {
@@ -2009,101 +1849,6 @@
     "ast_hash": "1a291dae5a26e8ca458b65f3ef64a33d",
     "semantic_hash": ""
   },
-  "resourcepack/assets/bridgingmod/lang/ar_sa.json": {
-    "mtime": 1787484185.285869,
-    "ast_hash": "54ac3ddc0ce52989dc962823f0a4bf2d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/bridgingmod/lang/de_de.json": {
-    "mtime": 1787484184.3392131,
-    "ast_hash": "54ac3ddc0ce52989dc962823f0a4bf2d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/bridgingmod/lang/en_us.json": {
-    "mtime": 1787483063.8143013,
-    "ast_hash": "c9dea13d58ee8a86e7f47f49c9c98a3f",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/bridgingmod/lang/es_ar.json": {
-    "mtime": 1787483905.083169,
-    "ast_hash": "54ac3ddc0ce52989dc962823f0a4bf2d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/bridgingmod/lang/es_cl.json": {
-    "mtime": 1787483905.3128772,
-    "ast_hash": "54ac3ddc0ce52989dc962823f0a4bf2d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/bridgingmod/lang/es_ec.json": {
-    "mtime": 1787483905.5250075,
-    "ast_hash": "54ac3ddc0ce52989dc962823f0a4bf2d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/bridgingmod/lang/es_mx.json": {
-    "mtime": 1787483904.8408277,
-    "ast_hash": "54ac3ddc0ce52989dc962823f0a4bf2d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/bridgingmod/lang/es_uy.json": {
-    "mtime": 1787483905.720516,
-    "ast_hash": "54ac3ddc0ce52989dc962823f0a4bf2d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/bridgingmod/lang/es_ve.json": {
-    "mtime": 1787483905.960646,
-    "ast_hash": "54ac3ddc0ce52989dc962823f0a4bf2d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/bridgingmod/lang/fr_fr.json": {
-    "mtime": 1787484184.6967475,
-    "ast_hash": "54ac3ddc0ce52989dc962823f0a4bf2d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/bridgingmod/lang/hi_in.json": {
-    "mtime": 1787484185.9993985,
-    "ast_hash": "54ac3ddc0ce52989dc962823f0a4bf2d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/bridgingmod/lang/id_id.json": {
-    "mtime": 1787484186.1576462,
-    "ast_hash": "54ac3ddc0ce52989dc962823f0a4bf2d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/bridgingmod/lang/ja_jp.json": {
-    "mtime": 1787484186.3531299,
-    "ast_hash": "54ac3ddc0ce52989dc962823f0a4bf2d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/bridgingmod/lang/ko_kr.json": {
-    "mtime": 1787484186.523466,
-    "ast_hash": "54ac3ddc0ce52989dc962823f0a4bf2d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/bridgingmod/lang/nl_nl.json": {
-    "mtime": 1787484185.4663866,
-    "ast_hash": "54ac3ddc0ce52989dc962823f0a4bf2d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/bridgingmod/lang/pt_br.json": {
-    "mtime": 1787484184.8865757,
-    "ast_hash": "54ac3ddc0ce52989dc962823f0a4bf2d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/bridgingmod/lang/pt_pt.json": {
-    "mtime": 1787484185.0825887,
-    "ast_hash": "54ac3ddc0ce52989dc962823f0a4bf2d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/bridgingmod/lang/tr_tr.json": {
-    "mtime": 1787484185.656408,
-    "ast_hash": "54ac3ddc0ce52989dc962823f0a4bf2d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/bridgingmod/lang/vi_vn.json": {
-    "mtime": 1787484185.8314152,
-    "ast_hash": "54ac3ddc0ce52989dc962823f0a4bf2d",
-    "semantic_hash": ""
-  },
   "resourcepack/assets/cloth-config2/lang/ar_sa.json": {
     "mtime": 1787484185.2873237,
     "ast_hash": "7d73ffe4fb5451feae66a687dd7479cc",
@@ -2297,101 +2042,6 @@
   "resourcepack/assets/coktools/lang/vi_vn.json": {
     "mtime": 1787484185.8340478,
     "ast_hash": "041e7ed83c85c1b21629f755bcd464c5",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/configured/lang/ar_sa.json": {
-    "mtime": 1787484185.2892828,
-    "ast_hash": "7a8c246f6f95e8d5fe52433dfc93005d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/configured/lang/de_de.json": {
-    "mtime": 1787484184.3655524,
-    "ast_hash": "7a8c246f6f95e8d5fe52433dfc93005d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/configured/lang/en_us.json": {
-    "mtime": 1787483063.8163,
-    "ast_hash": "4e9102e51ddc8a471df6b8891cdead64",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/configured/lang/es_ar.json": {
-    "mtime": 1787483905.0875206,
-    "ast_hash": "7a8c246f6f95e8d5fe52433dfc93005d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/configured/lang/es_cl.json": {
-    "mtime": 1787483905.3168101,
-    "ast_hash": "7a8c246f6f95e8d5fe52433dfc93005d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/configured/lang/es_ec.json": {
-    "mtime": 1787483905.5298975,
-    "ast_hash": "7a8c246f6f95e8d5fe52433dfc93005d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/configured/lang/es_mx.json": {
-    "mtime": 1787483904.8457434,
-    "ast_hash": "7a8c246f6f95e8d5fe52433dfc93005d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/configured/lang/es_uy.json": {
-    "mtime": 1787483905.7253768,
-    "ast_hash": "7a8c246f6f95e8d5fe52433dfc93005d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/configured/lang/es_ve.json": {
-    "mtime": 1787483905.9655697,
-    "ast_hash": "7a8c246f6f95e8d5fe52433dfc93005d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/configured/lang/fr_fr.json": {
-    "mtime": 1787484184.6998193,
-    "ast_hash": "7a8c246f6f95e8d5fe52433dfc93005d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/configured/lang/hi_in.json": {
-    "mtime": 1787484186.0019188,
-    "ast_hash": "7a8c246f6f95e8d5fe52433dfc93005d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/configured/lang/id_id.json": {
-    "mtime": 1787484186.1623971,
-    "ast_hash": "7a8c246f6f95e8d5fe52433dfc93005d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/configured/lang/ja_jp.json": {
-    "mtime": 1787484186.35513,
-    "ast_hash": "7a8c246f6f95e8d5fe52433dfc93005d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/configured/lang/ko_kr.json": {
-    "mtime": 1787484186.5286925,
-    "ast_hash": "7a8c246f6f95e8d5fe52433dfc93005d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/configured/lang/nl_nl.json": {
-    "mtime": 1787484185.4699316,
-    "ast_hash": "7a8c246f6f95e8d5fe52433dfc93005d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/configured/lang/pt_br.json": {
-    "mtime": 1787484184.8921087,
-    "ast_hash": "7a8c246f6f95e8d5fe52433dfc93005d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/configured/lang/pt_pt.json": {
-    "mtime": 1787484185.0862226,
-    "ast_hash": "7a8c246f6f95e8d5fe52433dfc93005d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/configured/lang/tr_tr.json": {
-    "mtime": 1787484185.6601334,
-    "ast_hash": "7a8c246f6f95e8d5fe52433dfc93005d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/configured/lang/vi_vn.json": {
-    "mtime": 1787484185.8355465,
-    "ast_hash": "7a8c246f6f95e8d5fe52433dfc93005d",
     "semantic_hash": ""
   },
   "resourcepack/assets/connectedglass/lang/ar_sa.json": {
@@ -2715,8 +2365,8 @@
     "semantic_hash": ""
   },
   "resourcepack/assets/croptopia/lang/es_es.json": {
-    "mtime": 1787395076.0,
-    "ast_hash": "773ee1f6f9ae0d75bf01b78c2991919a",
+    "mtime": 1787877074.8935907,
+    "ast_hash": "06f46ad5b472c7675f521f55ce3be734",
     "semantic_hash": ""
   },
   "resourcepack/assets/croptopia/lang/es_mx.json": {
@@ -2782,101 +2432,6 @@
   "resourcepack/assets/croptopia/lang/vi_vn.json": {
     "mtime": 1787484185.8421593,
     "ast_hash": "e9b06a323857f00b06232f363938c5f5",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/curios/lang/ar_sa.json": {
-    "mtime": 1787484185.2990673,
-    "ast_hash": "6efa8b1b3eda6ce89ff439e6e72942e4",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/curios/lang/de_de.json": {
-    "mtime": 1787484184.403584,
-    "ast_hash": "6efa8b1b3eda6ce89ff439e6e72942e4",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/curios/lang/en_us.json": {
-    "mtime": 1787483063.820667,
-    "ast_hash": "6efa8b1b3eda6ce89ff439e6e72942e4",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/curios/lang/es_ar.json": {
-    "mtime": 1787483905.0955014,
-    "ast_hash": "6efa8b1b3eda6ce89ff439e6e72942e4",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/curios/lang/es_cl.json": {
-    "mtime": 1787483905.3249114,
-    "ast_hash": "6efa8b1b3eda6ce89ff439e6e72942e4",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/curios/lang/es_ec.json": {
-    "mtime": 1787483905.5371797,
-    "ast_hash": "6efa8b1b3eda6ce89ff439e6e72942e4",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/curios/lang/es_mx.json": {
-    "mtime": 1787483904.8530543,
-    "ast_hash": "6efa8b1b3eda6ce89ff439e6e72942e4",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/curios/lang/es_uy.json": {
-    "mtime": 1787483905.7343695,
-    "ast_hash": "6efa8b1b3eda6ce89ff439e6e72942e4",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/curios/lang/es_ve.json": {
-    "mtime": 1787483905.972752,
-    "ast_hash": "6efa8b1b3eda6ce89ff439e6e72942e4",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/curios/lang/fr_fr.json": {
-    "mtime": 1787484184.7074163,
-    "ast_hash": "6efa8b1b3eda6ce89ff439e6e72942e4",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/curios/lang/hi_in.json": {
-    "mtime": 1787484186.006564,
-    "ast_hash": "6efa8b1b3eda6ce89ff439e6e72942e4",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/curios/lang/id_id.json": {
-    "mtime": 1787484186.1713252,
-    "ast_hash": "6efa8b1b3eda6ce89ff439e6e72942e4",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/curios/lang/ja_jp.json": {
-    "mtime": 1787484186.3607383,
-    "ast_hash": "6efa8b1b3eda6ce89ff439e6e72942e4",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/curios/lang/ko_kr.json": {
-    "mtime": 1787484186.5377734,
-    "ast_hash": "6efa8b1b3eda6ce89ff439e6e72942e4",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/curios/lang/nl_nl.json": {
-    "mtime": 1787484185.476315,
-    "ast_hash": "6efa8b1b3eda6ce89ff439e6e72942e4",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/curios/lang/pt_br.json": {
-    "mtime": 1787484184.9006145,
-    "ast_hash": "6efa8b1b3eda6ce89ff439e6e72942e4",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/curios/lang/pt_pt.json": {
-    "mtime": 1787484185.0950303,
-    "ast_hash": "6efa8b1b3eda6ce89ff439e6e72942e4",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/curios/lang/tr_tr.json": {
-    "mtime": 1787484185.668163,
-    "ast_hash": "6efa8b1b3eda6ce89ff439e6e72942e4",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/curios/lang/vi_vn.json": {
-    "mtime": 1787484185.8431594,
-    "ast_hash": "6efa8b1b3eda6ce89ff439e6e72942e4",
     "semantic_hash": ""
   },
   "resourcepack/assets/cyclopscore/lang/ar_sa.json": {
@@ -3922,101 +3477,6 @@
   "resourcepack/assets/explorerscompass/lang/vi_vn.json": {
     "mtime": 1787484185.864828,
     "ast_hash": "218be7aad10c3bc104fb245829791e51",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/fallingtree/lang/ar_sa.json": {
-    "mtime": 1787484185.3204684,
-    "ast_hash": "3e728a15009a64a8e6c7625a4d308c8b",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/fallingtree/lang/de_de.json": {
-    "mtime": 1787484184.5181513,
-    "ast_hash": "3e728a15009a64a8e6c7625a4d308c8b",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/fallingtree/lang/en_us.json": {
-    "mtime": 1787483063.8368807,
-    "ast_hash": "3e728a15009a64a8e6c7625a4d308c8b",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/fallingtree/lang/es_ar.json": {
-    "mtime": 1787483905.1195347,
-    "ast_hash": "3e728a15009a64a8e6c7625a4d308c8b",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/fallingtree/lang/es_cl.json": {
-    "mtime": 1787483905.353302,
-    "ast_hash": "3e728a15009a64a8e6c7625a4d308c8b",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/fallingtree/lang/es_ec.json": {
-    "mtime": 1787483905.558709,
-    "ast_hash": "3e728a15009a64a8e6c7625a4d308c8b",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/fallingtree/lang/es_mx.json": {
-    "mtime": 1787483904.8767798,
-    "ast_hash": "3e728a15009a64a8e6c7625a4d308c8b",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/fallingtree/lang/es_uy.json": {
-    "mtime": 1787483905.7609315,
-    "ast_hash": "3e728a15009a64a8e6c7625a4d308c8b",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/fallingtree/lang/es_ve.json": {
-    "mtime": 1787483906.0021262,
-    "ast_hash": "3e728a15009a64a8e6c7625a4d308c8b",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/fallingtree/lang/fr_fr.json": {
-    "mtime": 1787484184.7291682,
-    "ast_hash": "3e728a15009a64a8e6c7625a4d308c8b",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/fallingtree/lang/hi_in.json": {
-    "mtime": 1787484186.025717,
-    "ast_hash": "3e728a15009a64a8e6c7625a4d308c8b",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/fallingtree/lang/id_id.json": {
-    "mtime": 1787484186.1903439,
-    "ast_hash": "3e728a15009a64a8e6c7625a4d308c8b",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/fallingtree/lang/ja_jp.json": {
-    "mtime": 1787484186.3782022,
-    "ast_hash": "3e728a15009a64a8e6c7625a4d308c8b",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/fallingtree/lang/ko_kr.json": {
-    "mtime": 1787484186.5638373,
-    "ast_hash": "3e728a15009a64a8e6c7625a4d308c8b",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/fallingtree/lang/nl_nl.json": {
-    "mtime": 1787484185.4982908,
-    "ast_hash": "3e728a15009a64a8e6c7625a4d308c8b",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/fallingtree/lang/pt_br.json": {
-    "mtime": 1787484184.9245503,
-    "ast_hash": "3e728a15009a64a8e6c7625a4d308c8b",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/fallingtree/lang/pt_pt.json": {
-    "mtime": 1787484185.1206603,
-    "ast_hash": "3e728a15009a64a8e6c7625a4d308c8b",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/fallingtree/lang/tr_tr.json": {
-    "mtime": 1787484185.6849718,
-    "ast_hash": "3e728a15009a64a8e6c7625a4d308c8b",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/fallingtree/lang/vi_vn.json": {
-    "mtime": 1787484185.8665843,
-    "ast_hash": "3e728a15009a64a8e6c7625a4d308c8b",
     "semantic_hash": ""
   },
   "resourcepack/assets/fishofthieves/lang/ar_sa.json": {
@@ -5164,101 +4624,6 @@
     "ast_hash": "882e163e1d25ecf5d46e33875953da76",
     "semantic_hash": ""
   },
-  "resourcepack/assets/kenny/lang/ar_sa.json": {
-    "mtime": 1787484185.3433921,
-    "ast_hash": "193eae505005814c7fe1822d15e9a0cb",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/kenny/lang/de_de.json": {
-    "mtime": 1787484184.54073,
-    "ast_hash": "193eae505005814c7fe1822d15e9a0cb",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/kenny/lang/en_us.json": {
-    "mtime": 1787483063.8534224,
-    "ast_hash": "0e6bb5b353aebf733354efbe9c5b2755",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/kenny/lang/es_ar.json": {
-    "mtime": 1787483905.1429663,
-    "ast_hash": "193eae505005814c7fe1822d15e9a0cb",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/kenny/lang/es_cl.json": {
-    "mtime": 1787483905.378793,
-    "ast_hash": "193eae505005814c7fe1822d15e9a0cb",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/kenny/lang/es_ec.json": {
-    "mtime": 1787483905.57977,
-    "ast_hash": "193eae505005814c7fe1822d15e9a0cb",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/kenny/lang/es_mx.json": {
-    "mtime": 1787483904.8967605,
-    "ast_hash": "193eae505005814c7fe1822d15e9a0cb",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/kenny/lang/es_uy.json": {
-    "mtime": 1787483905.7848785,
-    "ast_hash": "193eae505005814c7fe1822d15e9a0cb",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/kenny/lang/es_ve.json": {
-    "mtime": 1787483906.0366318,
-    "ast_hash": "193eae505005814c7fe1822d15e9a0cb",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/kenny/lang/fr_fr.json": {
-    "mtime": 1787484184.7475488,
-    "ast_hash": "193eae505005814c7fe1822d15e9a0cb",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/kenny/lang/hi_in.json": {
-    "mtime": 1787484186.04319,
-    "ast_hash": "193eae505005814c7fe1822d15e9a0cb",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/kenny/lang/id_id.json": {
-    "mtime": 1787484186.2066221,
-    "ast_hash": "193eae505005814c7fe1822d15e9a0cb",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/kenny/lang/ja_jp.json": {
-    "mtime": 1787484186.3980381,
-    "ast_hash": "193eae505005814c7fe1822d15e9a0cb",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/kenny/lang/ko_kr.json": {
-    "mtime": 1787484186.5881128,
-    "ast_hash": "193eae505005814c7fe1822d15e9a0cb",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/kenny/lang/nl_nl.json": {
-    "mtime": 1787484185.5184343,
-    "ast_hash": "193eae505005814c7fe1822d15e9a0cb",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/kenny/lang/pt_br.json": {
-    "mtime": 1787484184.9462945,
-    "ast_hash": "193eae505005814c7fe1822d15e9a0cb",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/kenny/lang/pt_pt.json": {
-    "mtime": 1787484185.143291,
-    "ast_hash": "193eae505005814c7fe1822d15e9a0cb",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/kenny/lang/tr_tr.json": {
-    "mtime": 1787484185.7004566,
-    "ast_hash": "193eae505005814c7fe1822d15e9a0cb",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/kenny/lang/vi_vn.json": {
-    "mtime": 1787484185.884417,
-    "ast_hash": "193eae505005814c7fe1822d15e9a0cb",
-    "semantic_hash": ""
-  },
   "resourcepack/assets/lootr/lang/ar_sa.json": {
     "mtime": 1787484185.345106,
     "ast_hash": "f8ca39e736537f35e769f324ef436253",
@@ -5737,101 +5102,6 @@
   "resourcepack/assets/miniworkers/lang/vi_vn.json": {
     "mtime": 1787484185.8904438,
     "ast_hash": "14195b000e6506d8230d5a4d24a8cb4c",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/mmv/lang/ar_sa.json": {
-    "mtime": 1787484185.3504493,
-    "ast_hash": "5e8e7977b8166aeb1dc1980348cd2fef",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/mmv/lang/de_de.json": {
-    "mtime": 1787484184.552477,
-    "ast_hash": "5e8e7977b8166aeb1dc1980348cd2fef",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/mmv/lang/en_us.json": {
-    "mtime": 1787483063.8634193,
-    "ast_hash": "5e8e7977b8166aeb1dc1980348cd2fef",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/mmv/lang/es_ar.json": {
-    "mtime": 1787483905.1523683,
-    "ast_hash": "5e8e7977b8166aeb1dc1980348cd2fef",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/mmv/lang/es_cl.json": {
-    "mtime": 1787483905.3868825,
-    "ast_hash": "5e8e7977b8166aeb1dc1980348cd2fef",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/mmv/lang/es_ec.json": {
-    "mtime": 1787483905.5908725,
-    "ast_hash": "5e8e7977b8166aeb1dc1980348cd2fef",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/mmv/lang/es_mx.json": {
-    "mtime": 1787483904.9086812,
-    "ast_hash": "5e8e7977b8166aeb1dc1980348cd2fef",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/mmv/lang/es_uy.json": {
-    "mtime": 1787483905.7978158,
-    "ast_hash": "5e8e7977b8166aeb1dc1980348cd2fef",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/mmv/lang/es_ve.json": {
-    "mtime": 1787483906.0465355,
-    "ast_hash": "5e8e7977b8166aeb1dc1980348cd2fef",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/mmv/lang/fr_fr.json": {
-    "mtime": 1787484184.7567701,
-    "ast_hash": "5e8e7977b8166aeb1dc1980348cd2fef",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/mmv/lang/hi_in.json": {
-    "mtime": 1787484186.0495832,
-    "ast_hash": "5e8e7977b8166aeb1dc1980348cd2fef",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/mmv/lang/id_id.json": {
-    "mtime": 1787484186.2148495,
-    "ast_hash": "5e8e7977b8166aeb1dc1980348cd2fef",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/mmv/lang/ja_jp.json": {
-    "mtime": 1787484186.4043114,
-    "ast_hash": "5e8e7977b8166aeb1dc1980348cd2fef",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/mmv/lang/ko_kr.json": {
-    "mtime": 1787484186.59768,
-    "ast_hash": "5e8e7977b8166aeb1dc1980348cd2fef",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/mmv/lang/nl_nl.json": {
-    "mtime": 1787484185.5258577,
-    "ast_hash": "5e8e7977b8166aeb1dc1980348cd2fef",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/mmv/lang/pt_br.json": {
-    "mtime": 1787484184.9563756,
-    "ast_hash": "5e8e7977b8166aeb1dc1980348cd2fef",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/mmv/lang/pt_pt.json": {
-    "mtime": 1787484185.1565828,
-    "ast_hash": "5e8e7977b8166aeb1dc1980348cd2fef",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/mmv/lang/tr_tr.json": {
-    "mtime": 1787484185.7105227,
-    "ast_hash": "5e8e7977b8166aeb1dc1980348cd2fef",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/mmv/lang/vi_vn.json": {
-    "mtime": 1787484185.8919494,
-    "ast_hash": "5e8e7977b8166aeb1dc1980348cd2fef",
     "semantic_hash": ""
   },
   "resourcepack/assets/mns/lang/ar_sa.json": {
@@ -6402,101 +5672,6 @@
   "resourcepack/assets/mvs/lang/vi_vn.json": {
     "mtime": 1787484185.8989706,
     "ast_hash": "1111121b336bac3a4cc46eb27d4fcf24",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/naraka/lang/ar_sa.json": {
-    "mtime": 1787484185.3606074,
-    "ast_hash": "0530d2ca9229d618dfdb60d62b11ec21",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/naraka/lang/de_de.json": {
-    "mtime": 1787484184.5654135,
-    "ast_hash": "0530d2ca9229d618dfdb60d62b11ec21",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/naraka/lang/en_us.json": {
-    "mtime": 1787483063.872804,
-    "ast_hash": "5e20dfc78590bbb113be450a1c582e6d",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/naraka/lang/es_ar.json": {
-    "mtime": 1787483905.1648395,
-    "ast_hash": "0530d2ca9229d618dfdb60d62b11ec21",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/naraka/lang/es_cl.json": {
-    "mtime": 1787483905.398946,
-    "ast_hash": "0530d2ca9229d618dfdb60d62b11ec21",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/naraka/lang/es_ec.json": {
-    "mtime": 1787483905.6033244,
-    "ast_hash": "0530d2ca9229d618dfdb60d62b11ec21",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/naraka/lang/es_mx.json": {
-    "mtime": 1787483904.9183717,
-    "ast_hash": "0530d2ca9229d618dfdb60d62b11ec21",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/naraka/lang/es_uy.json": {
-    "mtime": 1787483905.8131104,
-    "ast_hash": "0530d2ca9229d618dfdb60d62b11ec21",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/naraka/lang/es_ve.json": {
-    "mtime": 1787483906.0796628,
-    "ast_hash": "0530d2ca9229d618dfdb60d62b11ec21",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/naraka/lang/fr_fr.json": {
-    "mtime": 1787484184.7685294,
-    "ast_hash": "0530d2ca9229d618dfdb60d62b11ec21",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/naraka/lang/hi_in.json": {
-    "mtime": 1787484186.0591826,
-    "ast_hash": "0530d2ca9229d618dfdb60d62b11ec21",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/naraka/lang/id_id.json": {
-    "mtime": 1787484186.2258735,
-    "ast_hash": "0530d2ca9229d618dfdb60d62b11ec21",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/naraka/lang/ja_jp.json": {
-    "mtime": 1787484186.41478,
-    "ast_hash": "0530d2ca9229d618dfdb60d62b11ec21",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/naraka/lang/ko_kr.json": {
-    "mtime": 1787484186.6104088,
-    "ast_hash": "0530d2ca9229d618dfdb60d62b11ec21",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/naraka/lang/nl_nl.json": {
-    "mtime": 1787484185.5399156,
-    "ast_hash": "0530d2ca9229d618dfdb60d62b11ec21",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/naraka/lang/pt_br.json": {
-    "mtime": 1787484184.9692347,
-    "ast_hash": "0530d2ca9229d618dfdb60d62b11ec21",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/naraka/lang/pt_pt.json": {
-    "mtime": 1787484185.1677327,
-    "ast_hash": "0530d2ca9229d618dfdb60d62b11ec21",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/naraka/lang/tr_tr.json": {
-    "mtime": 1787484185.722189,
-    "ast_hash": "0530d2ca9229d618dfdb60d62b11ec21",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/naraka/lang/vi_vn.json": {
-    "mtime": 1787484185.9005435,
-    "ast_hash": "0530d2ca9229d618dfdb60d62b11ec21",
     "semantic_hash": ""
   },
   "resourcepack/assets/naturescompass/lang/ar_sa.json": {
@@ -7744,101 +6919,6 @@
     "ast_hash": "cb64cadae099710bab7bbda871ed88f1",
     "semantic_hash": ""
   },
-  "resourcepack/assets/repurposed_structures/lang/ar_sa.json": {
-    "mtime": 1787484185.3881176,
-    "ast_hash": "f74446059199690062b9d792459c1191",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/repurposed_structures/lang/de_de.json": {
-    "mtime": 1787484184.6055553,
-    "ast_hash": "f74446059199690062b9d792459c1191",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/repurposed_structures/lang/en_us.json": {
-    "mtime": 1787483063.9186182,
-    "ast_hash": "f74446059199690062b9d792459c1191",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/repurposed_structures/lang/es_ar.json": {
-    "mtime": 1787483905.210128,
-    "ast_hash": "f74446059199690062b9d792459c1191",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/repurposed_structures/lang/es_cl.json": {
-    "mtime": 1787483905.4361618,
-    "ast_hash": "f74446059199690062b9d792459c1191",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/repurposed_structures/lang/es_ec.json": {
-    "mtime": 1787483905.6404924,
-    "ast_hash": "f74446059199690062b9d792459c1191",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/repurposed_structures/lang/es_mx.json": {
-    "mtime": 1787483904.9678223,
-    "ast_hash": "f74446059199690062b9d792459c1191",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/repurposed_structures/lang/es_uy.json": {
-    "mtime": 1787483905.8607721,
-    "ast_hash": "f74446059199690062b9d792459c1191",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/repurposed_structures/lang/es_ve.json": {
-    "mtime": 1787483906.1146204,
-    "ast_hash": "f74446059199690062b9d792459c1191",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/repurposed_structures/lang/fr_fr.json": {
-    "mtime": 1787484184.8038158,
-    "ast_hash": "f74446059199690062b9d792459c1191",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/repurposed_structures/lang/hi_in.json": {
-    "mtime": 1787484186.0931132,
-    "ast_hash": "f74446059199690062b9d792459c1191",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/repurposed_structures/lang/id_id.json": {
-    "mtime": 1787484186.2824347,
-    "ast_hash": "f74446059199690062b9d792459c1191",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/repurposed_structures/lang/ja_jp.json": {
-    "mtime": 1787484186.447359,
-    "ast_hash": "f74446059199690062b9d792459c1191",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/repurposed_structures/lang/ko_kr.json": {
-    "mtime": 1787484186.6454635,
-    "ast_hash": "f74446059199690062b9d792459c1191",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/repurposed_structures/lang/nl_nl.json": {
-    "mtime": 1787484185.578807,
-    "ast_hash": "f74446059199690062b9d792459c1191",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/repurposed_structures/lang/pt_br.json": {
-    "mtime": 1787484184.9995918,
-    "ast_hash": "f74446059199690062b9d792459c1191",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/repurposed_structures/lang/pt_pt.json": {
-    "mtime": 1787484185.2106261,
-    "ast_hash": "f74446059199690062b9d792459c1191",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/repurposed_structures/lang/tr_tr.json": {
-    "mtime": 1787484185.7533474,
-    "ast_hash": "f74446059199690062b9d792459c1191",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/repurposed_structures/lang/vi_vn.json": {
-    "mtime": 1787484185.934548,
-    "ast_hash": "f74446059199690062b9d792459c1191",
-    "semantic_hash": ""
-  },
   "resourcepack/assets/respackopts/lang/ar_sa.json": {
     "mtime": 1787484185.389699,
     "ast_hash": "a55c375f373fd246453ffc4159ee348b",
@@ -7932,101 +7012,6 @@
   "resourcepack/assets/respackopts/lang/vi_vn.json": {
     "mtime": 1787484185.935048,
     "ast_hash": "a55c375f373fd246453ffc4159ee348b",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/rightclickharvest/lang/ar_sa.json": {
-    "mtime": 1787484185.390368,
-    "ast_hash": "9e93acc743f56d750193ab9308ab3d07",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/rightclickharvest/lang/de_de.json": {
-    "mtime": 1787484184.6091576,
-    "ast_hash": "9e93acc743f56d750193ab9308ab3d07",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/rightclickharvest/lang/en_us.json": {
-    "mtime": 1787483063.919618,
-    "ast_hash": "9e93acc743f56d750193ab9308ab3d07",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/rightclickharvest/lang/es_ar.json": {
-    "mtime": 1787483905.213755,
-    "ast_hash": "9e93acc743f56d750193ab9308ab3d07",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/rightclickharvest/lang/es_cl.json": {
-    "mtime": 1787483905.4401915,
-    "ast_hash": "9e93acc743f56d750193ab9308ab3d07",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/rightclickharvest/lang/es_ec.json": {
-    "mtime": 1787483905.6433697,
-    "ast_hash": "9e93acc743f56d750193ab9308ab3d07",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/rightclickharvest/lang/es_mx.json": {
-    "mtime": 1787483904.9723532,
-    "ast_hash": "9e93acc743f56d750193ab9308ab3d07",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/rightclickharvest/lang/es_uy.json": {
-    "mtime": 1787483905.8626244,
-    "ast_hash": "9e93acc743f56d750193ab9308ab3d07",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/rightclickharvest/lang/es_ve.json": {
-    "mtime": 1787483906.1176322,
-    "ast_hash": "9e93acc743f56d750193ab9308ab3d07",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/rightclickharvest/lang/fr_fr.json": {
-    "mtime": 1787484184.8082633,
-    "ast_hash": "9e93acc743f56d750193ab9308ab3d07",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/rightclickharvest/lang/hi_in.json": {
-    "mtime": 1787484186.0951827,
-    "ast_hash": "9e93acc743f56d750193ab9308ab3d07",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/rightclickharvest/lang/id_id.json": {
-    "mtime": 1787484186.2844627,
-    "ast_hash": "9e93acc743f56d750193ab9308ab3d07",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/rightclickharvest/lang/ja_jp.json": {
-    "mtime": 1787484186.4489448,
-    "ast_hash": "9e93acc743f56d750193ab9308ab3d07",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/rightclickharvest/lang/ko_kr.json": {
-    "mtime": 1787484186.6484907,
-    "ast_hash": "9e93acc743f56d750193ab9308ab3d07",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/rightclickharvest/lang/nl_nl.json": {
-    "mtime": 1787484185.5803075,
-    "ast_hash": "9e93acc743f56d750193ab9308ab3d07",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/rightclickharvest/lang/pt_br.json": {
-    "mtime": 1787484185.0021548,
-    "ast_hash": "9e93acc743f56d750193ab9308ab3d07",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/rightclickharvest/lang/pt_pt.json": {
-    "mtime": 1787484185.2134054,
-    "ast_hash": "9e93acc743f56d750193ab9308ab3d07",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/rightclickharvest/lang/tr_tr.json": {
-    "mtime": 1787484185.7558842,
-    "ast_hash": "9e93acc743f56d750193ab9308ab3d07",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/rightclickharvest/lang/vi_vn.json": {
-    "mtime": 1787484185.9360478,
-    "ast_hash": "9e93acc743f56d750193ab9308ab3d07",
     "semantic_hash": ""
   },
   "resourcepack/assets/sodium-extra/lang/ar_sa.json": {
@@ -8979,196 +7964,6 @@
     "ast_hash": "6631693ebff1a5cc38bcc923bf1043c2",
     "semantic_hash": ""
   },
-  "resourcepack/assets/the_lost_city/lang/ar_sa.json": {
-    "mtime": 1787484185.4094057,
-    "ast_hash": "0eda7198038d7632a6565bbbcd065a48",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/the_lost_city/lang/de_de.json": {
-    "mtime": 1787484184.6351686,
-    "ast_hash": "0eda7198038d7632a6565bbbcd065a48",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/the_lost_city/lang/en_us.json": {
-    "mtime": 1787483063.9461303,
-    "ast_hash": "0eda7198038d7632a6565bbbcd065a48",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/the_lost_city/lang/es_ar.json": {
-    "mtime": 1787483905.2409425,
-    "ast_hash": "0eda7198038d7632a6565bbbcd065a48",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/the_lost_city/lang/es_cl.json": {
-    "mtime": 1787483905.4644482,
-    "ast_hash": "0eda7198038d7632a6565bbbcd065a48",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/the_lost_city/lang/es_ec.json": {
-    "mtime": 1787483905.666413,
-    "ast_hash": "0eda7198038d7632a6565bbbcd065a48",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/the_lost_city/lang/es_mx.json": {
-    "mtime": 1787483905.005617,
-    "ast_hash": "0eda7198038d7632a6565bbbcd065a48",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/the_lost_city/lang/es_uy.json": {
-    "mtime": 1787483905.895491,
-    "ast_hash": "0eda7198038d7632a6565bbbcd065a48",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/the_lost_city/lang/es_ve.json": {
-    "mtime": 1787483906.1566813,
-    "ast_hash": "0eda7198038d7632a6565bbbcd065a48",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/the_lost_city/lang/fr_fr.json": {
-    "mtime": 1787484184.8325915,
-    "ast_hash": "0eda7198038d7632a6565bbbcd065a48",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/the_lost_city/lang/hi_in.json": {
-    "mtime": 1787484186.1133275,
-    "ast_hash": "0eda7198038d7632a6565bbbcd065a48",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/the_lost_city/lang/id_id.json": {
-    "mtime": 1787484186.3043349,
-    "ast_hash": "0eda7198038d7632a6565bbbcd065a48",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/the_lost_city/lang/ja_jp.json": {
-    "mtime": 1787484186.4666069,
-    "ast_hash": "0eda7198038d7632a6565bbbcd065a48",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/the_lost_city/lang/ko_kr.json": {
-    "mtime": 1787484186.6730654,
-    "ast_hash": "0eda7198038d7632a6565bbbcd065a48",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/the_lost_city/lang/nl_nl.json": {
-    "mtime": 1787484185.602666,
-    "ast_hash": "0eda7198038d7632a6565bbbcd065a48",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/the_lost_city/lang/pt_br.json": {
-    "mtime": 1787484185.026662,
-    "ast_hash": "0eda7198038d7632a6565bbbcd065a48",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/the_lost_city/lang/pt_pt.json": {
-    "mtime": 1787484185.2412324,
-    "ast_hash": "0eda7198038d7632a6565bbbcd065a48",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/the_lost_city/lang/tr_tr.json": {
-    "mtime": 1787484185.7772,
-    "ast_hash": "0eda7198038d7632a6565bbbcd065a48",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/the_lost_city/lang/vi_vn.json": {
-    "mtime": 1787484185.9525278,
-    "ast_hash": "0eda7198038d7632a6565bbbcd065a48",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/tntfoundry/lang/ar_sa.json": {
-    "mtime": 1787484185.4104066,
-    "ast_hash": "7c190aafafa40c0dacea35e0f16838c2",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/tntfoundry/lang/de_de.json": {
-    "mtime": 1787484184.636695,
-    "ast_hash": "7c190aafafa40c0dacea35e0f16838c2",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/tntfoundry/lang/en_us.json": {
-    "mtime": 1787483063.9471333,
-    "ast_hash": "7c190aafafa40c0dacea35e0f16838c2",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/tntfoundry/lang/es_ar.json": {
-    "mtime": 1787483905.2429605,
-    "ast_hash": "7c190aafafa40c0dacea35e0f16838c2",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/tntfoundry/lang/es_cl.json": {
-    "mtime": 1787483905.4665046,
-    "ast_hash": "7c190aafafa40c0dacea35e0f16838c2",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/tntfoundry/lang/es_ec.json": {
-    "mtime": 1787483905.6679187,
-    "ast_hash": "7c190aafafa40c0dacea35e0f16838c2",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/tntfoundry/lang/es_mx.json": {
-    "mtime": 1787483905.0067263,
-    "ast_hash": "7c190aafafa40c0dacea35e0f16838c2",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/tntfoundry/lang/es_uy.json": {
-    "mtime": 1787483905.8964736,
-    "ast_hash": "7c190aafafa40c0dacea35e0f16838c2",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/tntfoundry/lang/es_ve.json": {
-    "mtime": 1787483906.1587098,
-    "ast_hash": "7c190aafafa40c0dacea35e0f16838c2",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/tntfoundry/lang/fr_fr.json": {
-    "mtime": 1787484184.834116,
-    "ast_hash": "7c190aafafa40c0dacea35e0f16838c2",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/tntfoundry/lang/hi_in.json": {
-    "mtime": 1787484186.1138272,
-    "ast_hash": "7c190aafafa40c0dacea35e0f16838c2",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/tntfoundry/lang/id_id.json": {
-    "mtime": 1787484186.3050394,
-    "ast_hash": "7c190aafafa40c0dacea35e0f16838c2",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/tntfoundry/lang/ja_jp.json": {
-    "mtime": 1787484186.4666069,
-    "ast_hash": "7c190aafafa40c0dacea35e0f16838c2",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/tntfoundry/lang/ko_kr.json": {
-    "mtime": 1787484186.6744742,
-    "ast_hash": "7c190aafafa40c0dacea35e0f16838c2",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/tntfoundry/lang/nl_nl.json": {
-    "mtime": 1787484185.6036656,
-    "ast_hash": "7c190aafafa40c0dacea35e0f16838c2",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/tntfoundry/lang/pt_br.json": {
-    "mtime": 1787484185.0281875,
-    "ast_hash": "7c190aafafa40c0dacea35e0f16838c2",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/tntfoundry/lang/pt_pt.json": {
-    "mtime": 1787484185.2427344,
-    "ast_hash": "7c190aafafa40c0dacea35e0f16838c2",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/tntfoundry/lang/tr_tr.json": {
-    "mtime": 1787484185.7786913,
-    "ast_hash": "7c190aafafa40c0dacea35e0f16838c2",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/tntfoundry/lang/vi_vn.json": {
-    "mtime": 1787484185.9537766,
-    "ast_hash": "7c190aafafa40c0dacea35e0f16838c2",
-    "semantic_hash": ""
-  },
   "resourcepack/assets/tombstone/lang/ar_sa.json": {
     "mtime": 1787484185.4151597,
     "ast_hash": "5808ca4d296b318139f6652c680c2300",
@@ -9837,101 +8632,6 @@
   "resourcepack/assets/visualworkbench/lang/vi_vn.json": {
     "mtime": 1787484185.966274,
     "ast_hash": "fad59241f897f7b6f27ad21964891acd",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/warlockery/lang/ar_sa.json": {
-    "mtime": 1787484185.424239,
-    "ast_hash": "fa8ded64d3ba1f78f11d3a7b594620f7",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/warlockery/lang/de_de.json": {
-    "mtime": 1787484184.6535358,
-    "ast_hash": "fa8ded64d3ba1f78f11d3a7b594620f7",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/warlockery/lang/en_us.json": {
-    "mtime": 1787483063.959108,
-    "ast_hash": "4dc9f0d92df25e792b032103efb3b2c1",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/warlockery/lang/es_ar.json": {
-    "mtime": 1787483905.2633147,
-    "ast_hash": "fa8ded64d3ba1f78f11d3a7b594620f7",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/warlockery/lang/es_cl.json": {
-    "mtime": 1787483905.484521,
-    "ast_hash": "fa8ded64d3ba1f78f11d3a7b594620f7",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/warlockery/lang/es_ec.json": {
-    "mtime": 1787483905.683908,
-    "ast_hash": "fa8ded64d3ba1f78f11d3a7b594620f7",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/warlockery/lang/es_mx.json": {
-    "mtime": 1787483905.0233922,
-    "ast_hash": "fa8ded64d3ba1f78f11d3a7b594620f7",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/warlockery/lang/es_uy.json": {
-    "mtime": 1787483905.9136834,
-    "ast_hash": "fa8ded64d3ba1f78f11d3a7b594620f7",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/warlockery/lang/es_ve.json": {
-    "mtime": 1787483906.1768534,
-    "ast_hash": "fa8ded64d3ba1f78f11d3a7b594620f7",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/warlockery/lang/fr_fr.json": {
-    "mtime": 1787484184.849249,
-    "ast_hash": "fa8ded64d3ba1f78f11d3a7b594620f7",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/warlockery/lang/hi_in.json": {
-    "mtime": 1787484186.126368,
-    "ast_hash": "fa8ded64d3ba1f78f11d3a7b594620f7",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/warlockery/lang/id_id.json": {
-    "mtime": 1787484186.3180473,
-    "ast_hash": "fa8ded64d3ba1f78f11d3a7b594620f7",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/warlockery/lang/ja_jp.json": {
-    "mtime": 1787484186.482232,
-    "ast_hash": "fa8ded64d3ba1f78f11d3a7b594620f7",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/warlockery/lang/ko_kr.json": {
-    "mtime": 1787484186.6893377,
-    "ast_hash": "fa8ded64d3ba1f78f11d3a7b594620f7",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/warlockery/lang/nl_nl.json": {
-    "mtime": 1787484185.617765,
-    "ast_hash": "fa8ded64d3ba1f78f11d3a7b594620f7",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/warlockery/lang/pt_br.json": {
-    "mtime": 1787484185.044303,
-    "ast_hash": "fa8ded64d3ba1f78f11d3a7b594620f7",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/warlockery/lang/pt_pt.json": {
-    "mtime": 1787484185.2544267,
-    "ast_hash": "fa8ded64d3ba1f78f11d3a7b594620f7",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/warlockery/lang/tr_tr.json": {
-    "mtime": 1787484185.7929876,
-    "ast_hash": "fa8ded64d3ba1f78f11d3a7b594620f7",
-    "semantic_hash": ""
-  },
-  "resourcepack/assets/warlockery/lang/vi_vn.json": {
-    "mtime": 1787484185.9678051,
-    "ast_hash": "fa8ded64d3ba1f78f11d3a7b594620f7",
     "semantic_hash": ""
   },
   "resourcepack/assets/waystones/lang/ar_sa.json": {
@@ -10807,6 +9507,31 @@
   "docs/curseforge/versions/1.6.2.md": {
     "mtime": 1787603719.0110676,
     "ast_hash": "06c16d61acd660bd4377d4767a50e66a",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/dangerous/lang/es_es.json": {
+    "mtime": 1787877074.8895588,
+    "ast_hash": "f39663628bf2db1bf49b80170a771abe",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/frontier_armaments/lang/es_es.json": {
+    "mtime": 1787877074.8816147,
+    "ast_hash": "0a2840c1d3493ce1b968aabd969e8a47",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/gateway_of_doom_x_xaeros_minimap/lang/es_es.json": {
+    "mtime": 1787877074.8867674,
+    "ast_hash": "e55112b5d212b5e6699e890d78382e01",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/horde_hoard/lang/es_es.json": {
+    "mtime": 1787877074.8844755,
+    "ast_hash": "78be06d1d9088480929a115736d53487",
+    "semantic_hash": ""
+  },
+  "resourcepack/assets/survival_instinct/lang/es_es.json": {
+    "mtime": 1787877074.8756883,
+    "ast_hash": "ec423f30995bdd3a77698eaf572fa2c9",
     "semantic_hash": ""
   }
 }
